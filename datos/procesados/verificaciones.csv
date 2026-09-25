@@ -1,0 +1,24 @@
+control,resultado
+SHA256: cgr_melipeuco_43_2024,OK
+SHA256: cgr_reporte_hallazgos_2024_2025,OK
+SHA256: directorio_2024,OK
+SHA256: directorio_2021,OK
+SHA256: pme_implementacion_2024,OK
+SHA256: catalogo_pme,OK
+SHA256: catalogo_directorio,OK
+"Anexo 1: 29 partidas, 776 unidades",OK
+Diferencia de $1 preservada,OK
+Anexo 4: 625 filas y $136.000.454,OK
+10.a + 10.b + 10.c = 628 y $136.405.378,OK
+"Anexo 5: 600 filas, $123.816.323",OK
+IDs de filas únicos; no se suprimen unidades sin serie,OK
+Límites factibles por dependencia,OK
+Asignados + no asignados conservan 628,OK
+476 coincidencias únicas serie+factura,OK
+129726 acciones / 8240 escuelas,OK
+Unión 1:1 no multiplica escuelas,OK
+Agregación preserva el total declarado,OK
+No confundir indicador MATRICULA con conteo MAT_TOTAL,OK
+Todos los RBD PME enlazan con Directorio 2024,OK
+Ocho públicos La Cisterna y seis Melipeuco,OK
+Rangos de avance válidos,OK

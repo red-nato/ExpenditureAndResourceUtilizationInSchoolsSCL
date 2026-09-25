@@ -1,0 +1,30 @@
+﻿dependencia_original,decreto,fecha_decreto,factura,fecha_factura,modelo_original,cantidad,valor_clp,pagina_pdf,tabla,fila_tabla,id_fila,dependencia,familia,rbd,precio_unitario_clp,dias_factura_decreto,anio,clave_lote
+DEM,133,2020-06-12,1301058,2020-05-07,HP AIO 20 Intel Core I3,1,422485,29,1,2,compras_29_1_2,DEM,HP AIO i3,,422485.0,36,2020,133|1301058|HP AIO i3
+DEM,121,2021-05-18,5210,2021-04-23,Computador AIO Hp 24-Dp0009la AMD Ryzen 5 4500 U 6 Núcleos 8 Gb Ram,2,1540000,29,1,3,compras_29_1_3,DEM,HP AIO Ryzen,,770000.0,25,2021,121|5210|HP AIO Ryzen
+DEM,202,2021-08-17,383,2021-07-30,Apple Ipad Pro 129 Wifi + Celular Puerto Para Tarjeta Sim 128 Gb Space Grey,4,5999980,29,1,4,compras_29_1_4,DEM,iPad Pro,,1499995.0,18,2021,202|383|iPad Pro
+DEM,235,2021-09-27,1049,2021-08-27,Hp All In One Amd Ryzen 5 3500u 8gb 512gb Ssd,2,1306620,29,1,5,compras_29_1_5,DEM,HP AIO Ryzen,,653310.0,31,2021,235|1049|HP AIO Ryzen
+DEM (*),263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,18,2559690,29,1,6,compras_29_1_6,DEM,Samsung A8/T295,,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Carén,397,2020-12-30,7908,2020-04-06,Mlab Tablet Quad Core Unidad,7,314795,29,1,7,compras_29_1_7,Carén,Mlab 7,6017,44970.71428571428,268,2020,397|7908|Mlab 7
+Escuela Carén,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,7,995435,29,1,8,compras_29_1_8,Carén,Samsung A8/T295,6017,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Cumcumllaque,401,2020-12-30,7907,2020-04-06,Mlab Tablet Quad Core,22,989363,29,1,9,compras_29_1_9,Cumcumllaque,Mlab 7,6012,44971.045454545456,268,2020,401|7907|Mlab 7
+Escuela Cumcumllaque,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,30,4266150,29,1,10,compras_29_1_10,Cumcumllaque,Samsung A8/T295,6012,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Fundo Molulco,382,2020-12-24,9615,2020-12-10,Tablet Lenovo Tab M8 2gb Wifi 8 Za5h0070cl,4,606176,29,1,11,compras_29_1_11,Fundo Molulco,Lenovo M8,6011,151544.0,14,2020,382|9615|Lenovo M8
+Escuela Fundo Molulco,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,6,853230,29,1,12,compras_29_1_12,Fundo Molulco,Samsung A8/T295,6011,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Molulco,120,2021-05-18,200597,2021-04-22,Tablet Samsung Galaxy T505 Tab A7 10.4” 32 Gb Lte,1,309400,29,1,13,compras_29_1_13,Molulco,Samsung A7,6009,309400.0,26,2021,120|200597|Samsung A7
+Escuela Molulco,120,2021-05-18,200597,2021-04-22,Impresora Epson Multifuncional L5190,1,240190,29,1,14,compras_29_1_14,Molulco,Impresora Epson,6009,240190.0,26,2021,120|200597|Impresora Epson
+Escuela Molulco,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,2,284410,29,1,15,compras_29_1_15,Molulco,Samsung A8/T295,6009,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Volcán Llaima,156,2020-06-18,407,2020-05-22,Laptop Asus X407uabv100t,15,10969600,29,1,16,compras_29_1_16,Volcán Llaima,Asus portátil,19927,731306.6666666666,27,2020,156|407|Asus portátil
+Escuela Volcán Llaima,225,2020-08-18,183914,2020-07-20,Notebook Dell Vostro 5490 I7 – 10510u 8gb 256gb,7,6037001,29,1,17,compras_29_1_17,Volcán Llaima,Dell portátil,19927,862428.7142857143,29,2020,225|183914|Dell portátil
+Escuela Volcán Llaima,265,2020-09-16,1220,2020-08-13,Tablet Huawei Mediapad T3 7”,47,3871260,29,1,18,compras_29_1_18,Volcán Llaima,Huawei T3,19927,82367.23404255319,34,2020,265|1220|Huawei T3
+Escuela Volcán Llaima,266,2020-09-16,1221,2020-08-13,Tablet Huawei Mediapad T3 7”,53,4365453,29,1,19,compras_29_1_19,Volcán Llaima,Huawei T3,19927,82367.03773584905,34,2020,266|1221|Huawei T3
+Escuela Volcán Llaima,206,2021-08-24,2,2021-06-05,Tablet Samsung Galaxy 8 Tab 4g Lte,28,3665200,29,1,20,compras_29_1_20,Volcán Llaima,Samsung A8/T295,19927,130900.0,80,2021,206|2|Samsung A8/T295
+Escuela Volcán Llaima,207,2021-08-24,13960,2021-07-02,Galaxy Tab A8 2019 Lte/ T295 Silver,106,15124186,29,1,21,compras_29_1_21,Volcán Llaima,Samsung A8/T295,19927,142681.0,53,2021,207|13960|Samsung A8/T295
+Escuela Volcán Llaima,229,2021-09-09,13985,2021-07-23,Lenovo Tab P11 11” 6gb Ram 128 Gb Wifi Lte Teclado Y Lápiz,200,69999846,29,1,22,compras_29_1_22,Volcán Llaima,Lenovo P11 + teclado/lápiz,19927,349999.23,48,2021,229|13985|Lenovo P11 + teclado/lápiz
+Escuela Volcán Llaima,259,2021-10-06,3684,2021-07-09,Tablet Samsung Galaxy T295 Tab A 8 Pul Negra 4g,2,309400,29,1,23,compras_29_1_23,Volcán Llaima,Samsung A8/T295,19927,154700.0,89,2021,259|3684|Samsung A8/T295
+Escuela Volcán Llaima,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,4,568820,29,1,24,compras_29_1_24,Volcán Llaima,Samsung A8/T295,19927,142205.0,76,2021,263|13981|Samsung A8/T295
+Escuela Volcán Llaima,123,2022-05-12,38,2022-04-21,AIO Lenovo,1,829990,29,1,25,compras_29_1_25,Volcán Llaima,Lenovo AIO,19927,829990.0,21,2022,123|38|Lenovo AIO
+Liceo Los Andes,143,2021-06-03,427,2021-05-04,Galaxy Tablet A 8 2019 Lte,8,1189048,30,2,2,compras_30_2_2,Los Andes,Samsung A8/T295,6007,148631.0,30,2021,143|427|Samsung A8/T295
+Liceo Los Andes,228,2021-09-09,13982,2021-07-22,Galaxy Tab A8 2019 Lte/ T295 Silver,20,2844100,30,2,3,compras_30_2_3,Los Andes,Samsung A8/T295,6007,142205.0,49,2021,228|13982|Samsung A8/T295
+Liceo Los Andes,228,2021-09-09,13982,2021-07-22,Galaxy Tab A8 2019 Lte,20,2844100,30,2,4,compras_30_2_4,Los Andes,Samsung A8/T295,6007,142205.0,49,2021,228|13982|Samsung A8/T295
+Liceo Los Andes,230,2021-09-09,13995,2021-07-28,Lenovo Tab P11 11” 6gb Ram 128 Gb Wifi Lte Teclado Y Lápiz,50,17499962,30,2,5,compras_30_2_5,Los Andes,Lenovo P11 + teclado/lápiz,6007,349999.24,43,2021,230|13995|Lenovo P11 + teclado/lápiz
+Liceo Los Andes,263,2021-10-06,13981,2021-07-22,Galaxy Tab A8 2019 Lte,108,15358140,30,2,6,compras_30_2_6,Los Andes,Samsung A8/T295,6007,142205.0,76,2021,263|13981|Samsung A8/T295

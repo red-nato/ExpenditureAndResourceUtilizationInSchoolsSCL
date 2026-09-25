@@ -1,0 +1,31 @@
+﻿escenario,variable_1,variable_2,n_pares,pearson,spearman
+Todos elegibles,MAT_TOTAL,acciones,8237,0.4242171364363179,0.528623885582985
+Todos elegibles,MAT_TOTAL,estim_total,8237,0.16029585592166065,0.7957474525397178
+Todos elegibles,MAT_TOTAL,estim_por_alumno,8237,-0.029111131218259315,-0.19424246792094954
+Todos elegibles,MAT_TOTAL,porc_ben,8237,-0.006184430323942691,-0.3378469874586297
+Todos elegibles,MAT_TOTAL,pct_completas,8237,0.06671848165571666,0.05031357012137295
+Todos elegibles,acciones,estim_total,8237,0.09487193935153734,0.504460374477794
+Todos elegibles,acciones,estim_por_alumno,8237,-0.0008354164320410306,0.0051943762875786845
+Todos elegibles,acciones,porc_ben,8237,0.03144399864775938,-0.17077415479188596
+Todos elegibles,acciones,pct_completas,8237,0.09772108211699952,0.07622970241979717
+Todos elegibles,estim_total,estim_por_alumno,8237,0.9138627822680354,0.33782740898047603
+Todos elegibles,estim_total,porc_ben,8237,0.04273254861626846,0.0048212008861488066
+Todos elegibles,estim_total,pct_completas,8237,0.01086407030669297,0.09955900700020238
+Todos elegibles,estim_por_alumno,porc_ben,8237,0.08647610804026623,0.5645383687416191
+Todos elegibles,estim_por_alumno,pct_completas,8237,0.011074185254792094,0.08891684620000034
+Todos elegibles,porc_ben,pct_completas,8237,0.09601073634166729,0.050553781151044135
+Sin escuelas con acción > $1.000 millones,MAT_TOTAL,acciones,8221,0.4240727526113143,0.5286068605950066
+Sin escuelas con acción > $1.000 millones,MAT_TOTAL,estim_total,8221,0.7566604937546311,0.795850665053625
+Sin escuelas con acción > $1.000 millones,MAT_TOTAL,estim_por_alumno,8221,-0.1510763806694715,-0.1980602906092458
+Sin escuelas con acción > $1.000 millones,MAT_TOTAL,porc_ben,8221,-0.00617973503021769,-0.3378183385453929
+Sin escuelas con acción > $1.000 millones,MAT_TOTAL,pct_completas,8221,0.06629185421456794,0.05015520009563484
+Sin escuelas con acción > $1.000 millones,acciones,estim_total,8221,0.4215778860075609,0.5052256292579601
+Sin escuelas con acción > $1.000 millones,acciones,estim_por_alumno,8221,-0.018823418544929055,0.004073627602403772
+Sin escuelas con acción > $1.000 millones,acciones,porc_ben,8221,0.031863855265965295,-0.17072810179469775
+Sin escuelas con acción > $1.000 millones,acciones,pct_completas,8221,0.09723520664880707,0.07642984366397805
+Sin escuelas con acción > $1.000 millones,estim_total,estim_por_alumno,8221,0.19748363900987134,0.3342215162591663
+Sin escuelas con acción > $1.000 millones,estim_total,porc_ben,8221,0.17539919903925635,0.005340006524959107
+Sin escuelas con acción > $1.000 millones,estim_total,pct_completas,8221,0.0712135739867574,0.09873245691294959
+Sin escuelas con acción > $1.000 millones,estim_por_alumno,porc_ben,8221,0.36971577151555546,0.5670059148879883
+Sin escuelas con acción > $1.000 millones,estim_por_alumno,pct_completas,8221,0.040153116293220305,0.08802711683546029
+Sin escuelas con acción > $1.000 millones,porc_ben,pct_completas,8221,0.09602830327405347,0.050544208917395084
