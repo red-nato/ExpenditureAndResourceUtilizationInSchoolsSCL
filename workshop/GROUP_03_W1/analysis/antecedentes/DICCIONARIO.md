@@ -19,7 +19,6 @@ La procedencia y huellas digitales están en `fuentes.json`. Los anexos CGR prov
 | `pme_acciones_nacional_2024` | 129.726 filas originales con selección de variables cuantitativas. `fila_excel` conserva la fila original, incluyendo encabezado. No existe un ID oficial de acción en el archivo. |
 | `pme_panel_establecimientos_2024` | 8.240 RBD, agregados antes de unir al directorio. `estim_total`, `estim_sep`, `acciones`, `pct_completas`, `avance_min`, `avance_max`, `MAT_TOTAL`, `porc_ben`. |
 | `pme_acciones_pilotos_2024` | Acciones de las dos comunas con descripción y columnas de financiamiento originales. |
-| `pme_resumen_dimensiones_2024` | Cuatro dimensiones PME 2024; número de acciones y RBD, mediana y total de estimaciones, fracción declarada al 100%. Los importes no son pagos. |
 | `pme_correlaciones` | Pearson y Spearman, con `n_pares` por pareja y escenario. Una observación es un establecimiento, no una acción repetida. |
 | `pme_sensibilidad_montos` | Total/base, exclusión analítica de acciones >$1.000 millones, exclusión de duplicados exactos adicionales. No sustituye la base original. |
 | `pme_faltantes`, `pme_cobertura_dependencia`, `verificaciones` | Diagnóstico de calidad y cobertura; controles de conservación. |

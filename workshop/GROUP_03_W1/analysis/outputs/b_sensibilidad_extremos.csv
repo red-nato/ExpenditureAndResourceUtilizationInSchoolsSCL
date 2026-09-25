@@ -1,0 +1,3 @@
+escenario,acciones,estimacion_total_clp,estimacion_media_clp,estimacion_mediana_clp
+Todos los registros,129726,1713979868012,13212308.003114257,2000000.0
+Excluir acciones > $1.000 millones,129707,1494670497529,11523437.420717463,2000000.0

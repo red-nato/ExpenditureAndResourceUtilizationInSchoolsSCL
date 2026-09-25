@@ -1,0 +1,32 @@
+{
+  "a": {
+    "partidas": 29,
+    "equipos_adquiridos": 776,
+    "valor_partidas_clp": 176164030,
+    "valor_impreso_cgr_clp": 176164029,
+    "equipos_observados": 628,
+    "valor_observado_clp": 136405378,
+    "porcentaje_equipos_observados": 80.9278350515464,
+    "porcentaje_valor_observado": 77.43089141086799,
+    "comodatos": 600,
+    "coincidencias": 476,
+    "valor_coincidencias_clp": 106512158,
+    "observados_sin_serie": 147,
+    "observados_sin_rbd": 18
+  },
+  "b": {
+    "acciones": 129726,
+    "escuelas": 8240,
+    "acciones_piloto": 134,
+    "escuelas_piloto": 8,
+    "accion_cero": 27569,
+    "sep_ausente": 38,
+    "duplicados_adicionales": 4,
+    "acciones_extremas": 19,
+    "fraccion_estimacion_extremos": 0.12795329430407554,
+    "mediana_estimacion_clp": 2000000.0,
+    "media_estimacion_clp": 13212308.003114257,
+    "fraccion_completa": 0.6463314986972543,
+    "escuelas_union_verificada": 8240
+  }
+}

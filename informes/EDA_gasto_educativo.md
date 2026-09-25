@@ -67,6 +67,21 @@ La densidad se calcula sobre `log10(monto)` únicamente para valores positivos; 
 
 El umbral no establece qué registros están equivocados: mide dependencia de las conclusiones respecto de la cola extrema. La base principal conserva todos los montos. Quitar los cuatro duplicados exactos adicionales sólo reduce el total en $200; el problema relevante aquí es la cola, no esos duplicados.
 
+### Implementación declarada por dimensión PME
+
+El workshop W1 añadió una comparación que usa **acciones**, no pagos ni resultados de aprendizaje. En 2024, la mediana estimada por acción y la fracción reportada al 100% fueron:
+
+| Dimensión | Acciones | Mediana estimada por acción | Acciones al 100% |
+|---|---:|---:|---:|
+| Convivencia Escolar | 31.839 | $1.800.000 | 65,57% |
+| Gestión Pedagógica | 39.425 | $2.000.000 | 65,38% |
+| Gestión de Recursos | 31.083 | $6.000.000 | 64,10% |
+| Liderazgo | 27.379 | $750.000 | 63,07% |
+
+![Implementación declarada por dimensión](graficos/10_pme_dimensiones.png)
+
+Gestión de Recursos tiene la mayor mediana de estimación, pero eso no prueba mayor gasto efectivo ni mayor eficiencia. Las cuatro dimensiones aparecen entre los 8.240 RBD del extracto; la proporción al 100% es un conteo de acciones, no un porcentaje de avance promedio. Las diferencias entre dimensiones son descriptivas y pequeñas frente a las limitaciones de autorreporte y cobertura. [Datos y decisión comparativa del workshop](../workshop/GROUP_03_W1/report/GROUP_03_W1_Report.pdf).
+
 ### Correlaciones y comparabilidad
 
 Se agregaron las acciones por escuela **antes** de correlacionar. De lo contrario, repetir matrícula por cada acción habría dado más peso a establecimientos que registran más actividades.

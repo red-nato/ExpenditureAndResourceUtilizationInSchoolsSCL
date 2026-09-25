@@ -156,6 +156,8 @@ Pedir **documentos existentes**, no que la institución produzca una evaluación
 - **Asociación ≠ impacto.** SIMCE puede fluctuar por cambios de cohorte y contexto; mostrar incertidumbre y resultados alternativos.
 - **Falta de dato ≠ irregularidad.** Las categorías finales son `confirmado`, `declarado`, `no corroborado`, `descartado` y `pendiente de fiscalización`. Reservar términos de infracción para resoluciones o evidencia suficiente.
 
+**Contraste W1 (25-09-2026):** se compararon dos preguntas con datos reales: custodia de activos observados en Melipeuco e implementación declarada de acciones PME 2024. La primera quedó como preferencia provisional para C1; la segunda aporta controles de cobertura, extremos y diferencias entre dimensiones, pero no evalúa pagos ni uso. El [paquete del workshop](workshop/GROUP_03_W1/report/GROUP_03_W1_Report.pdf) conserva el análisis, los datos reducidos y las preguntas al profesor. Su elección está sujeta al seguimiento documental de bienes.
+
 **Resultado honesto de la primera parte:** un tablero piloto con cobertura y brechas de información, una matriz de fuentes verificadas y uno o dos casos documentales en seguimiento. Eso ya demuestra una pregunta de BI exigente y un método capaz de detectar malgasto más adelante, sin prometer una acusación antes de contar con la evidencia.
 
 ### Guion de seis diapositivas para la primera presentación

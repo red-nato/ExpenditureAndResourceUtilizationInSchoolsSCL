@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cgr_melipeuco_43_2024",
+    "productor": "Contraloría Regional de La Araucanía",
+    "titulo": "Informe final de investigación especial 43/2024",
+    "url_descarga": "https://www.ciperchile.cl/wp-content/uploads/FIRMADO_Informe-final-de-investigacion-especial-N%C2%B043_de-2024_DEM_Melipeuco_.pdf",
+    "periodo": "2020–2022; visita 19, 21 y 22 diciembre 2023; informe 10 junio 2024",
+    "nota": "Documento primario CGR alojado por CIPER. 91 páginas. Firma electrónica impresa; no se hizo validación criptográfica.",
+    "archivo": "datos/originales/cgr_melipeuco_43_2024.pdf",
+    "bytes": 939522,
+    "sha256": "baeb8104fd03f8cc1fae2d34e974e93d7d4f399922a722dbdf3bd538d7237aea",
+    "descarga_utc": "2026-09-24T01:05:16.228512+00:00"
+  },
+  {
+    "id": "cgr_reporte_hallazgos_2024_2025",
+    "productor": "Contraloría General de la República",
+    "titulo": "Reporte de hallazgos abril 2024 a marzo 2025",
+    "url_descarga": "https://media-front.elmostrador.cl/2025/06/Reporte-de-Hallazgos-2024-2025-1.pdf",
+    "periodo": "abril 2024–marzo 2025",
+    "nota": "Documento CGR alojado por El Mostrador; servidor oficial agotó tiempo de espera. Resumen de casos, no expedientes completos.",
+    "archivo": "datos/originales/cgr_reporte_hallazgos_2024_2025.pdf",
+    "bytes": 4401694,
+    "sha256": "04823d6bbd4f0dbbce1bb3e085fec862d6d74f5fccbfd095b9867c22fbd80ca3",
+    "descarga_utc": "2026-09-24T01:07:45.601981+00:00"
+  },
+  {
+    "id": "directorio_2024",
+    "productor": "Centro de Estudios Mineduc",
+    "titulo": "Directorio Oficial EE 2024",
+    "url_descarga": "https://datosabiertos.mineduc.cl/wp-content/uploads/2024/11/Directorio-Oficial-EE-2024-.rar",
+    "periodo": "2024, corte matrícula 30 abril",
+    "nota": "CSV y diccionario originales. MATRICULA es indicador binario; MAT_TOTAL es número de alumnos.",
+    "archivo": "datos/originales/directorio_2024.rar",
+    "bytes": 884660,
+    "sha256": "5fb467c7cf2d513660ebe2297edc7de55395b2e2ad1b3618f4cc995fb5b3923f",
+    "descarga_utc": "2026-09-24T01:05:47.546229+00:00"
+  },
+  {
+    "id": "directorio_2021",
+    "productor": "Centro de Estudios Mineduc",
+    "titulo": "Directorio Oficial EE 2021",
+    "url_descarga": "https://datosabiertos.mineduc.cl/wp-content/uploads/2021/12/Directorio-oficial-EE-2021.rar",
+    "periodo": "2021",
+    "nota": "Sólo validación histórica de identidad/dependencia; MATRICULA no es cantidad de alumnos.",
+    "archivo": "datos/originales/directorio_2021.rar",
+    "bytes": 794355,
+    "sha256": "1c5f4cd9af6d5bf3c1cd2bad05232624983be9de204d730ad2dc394213689fa9",
+    "descarga_utc": "2026-09-24T01:05:47.441976+00:00"
+  },
+  {
+    "id": "pme_implementacion_2024",
+    "productor": "Centro de Estudios Mineduc",
+    "titulo": "Implementación PME 2024",
+    "url_descarga": "https://datosabiertos.mineduc.cl/wp-content/uploads/2025/02/Implementacion-PME-2024.rar",
+    "periodo": "2024; extracción ministerial 16 enero 2025",
+    "nota": "Estimaciones declaradas por sostenedores; no pagos ni resultados auditados. 129726 filas, 8240 RBD.",
+    "archivo": "datos/originales/pme_implementacion_2024.rar",
+    "bytes": 39988617,
+    "sha256": "965ea7e1d5e90af094786a7697849e60369e64ddf7b156fcacc7f0fd1dbf1a12",
+    "descarga_utc": "2026-09-24T01:05:51.069407+00:00"
+  },
+  {
+    "id": "catalogo_pme",
+    "productor": "Mineduc DEG",
+    "titulo": "Catálogo y advertencia PME",
+    "url_descarga": "https://liderazgoeducativo.mineduc.cl/bases-de-datos-pme/",
+    "periodo": "Consulta septiembre 2026",
+    "nota": "Documenta significado y cobertura de las bases.",
+    "archivo": "datos/originales/catalogo_pme.html",
+    "bytes": 52728,
+    "sha256": "78f6267ef6c87c5d3cbf86c5cfd40c666a20ad0d044758bb1648933d7223b32f",
+    "descarga_utc": "2026-09-24T01:05:18.224594+00:00"
+  },
+  {
+    "id": "catalogo_directorio",
+    "productor": "Centro de Estudios Mineduc",
+    "titulo": "Catálogo Directorio",
+    "url_descarga": "https://datosabiertos.mineduc.cl/directorio-de-establecimientos-educacionales/",
+    "periodo": "Consulta septiembre 2026",
+    "nota": "Enlaces de descarga.",
+    "archivo": "datos/originales/catalogo_directorio.html",
+    "bytes": 81248,
+    "sha256": "447f58c4a0d9593c667ea57b155b8090a021d95c052f78029a69655dcdf235a8",
+    "descarga_utc": "2026-09-24T01:05:16.791257+00:00"
+  }
+]

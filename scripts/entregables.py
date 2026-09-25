@@ -45,7 +45,7 @@ def workbook():
       'CGR por modelo':'cgr_resumen_modelo','CGR por destino':'cgr_resumen_dependencia','Limites destino':'cgr_limites_por_dependencia',
       'CGR por año':'cgr_resumen_anio','Documentos pago':'cgr_documentos_pago',
       'Panel PME nacional':'pme_panel_establecimientos_2024','Panel pilotos':'pme_panel_pilotos_2024',
-      'Sensibilidad PME':'pme_sensibilidad_montos','Correlaciones':'pme_correlaciones','Correlaciones por grupo':'pme_correlaciones_estratificadas',
+      'Sensibilidad PME':'pme_sensibilidad_montos','PME por dimension':'pme_resumen_dimensiones_2024','Correlaciones':'pme_correlaciones','Correlaciones por grupo':'pme_correlaciones_estratificadas',
       'Cobertura':'pme_cobertura_dependencia','Faltantes':'pme_faltantes','Descriptivos':'pme_descriptivos_montos',
       'Niveles implementacion':'pme_nivel_implementacion','Extremos por verificar':'pme_montos_extremos_para_verificar','Controles':'verificaciones'}
     with pd.ExcelWriter(REPORT/'Tablas_EDA.xlsx',engine='openpyxl') as writer:
@@ -92,8 +92,8 @@ def notebook():
       code("from extraer_fuentes import main as extraer\nfrom analizar import analyze_case, analyze_pme\nextraer()\nresultados = {'caso': analyze_case(), 'pme': analyze_pme()}\nprint(json.dumps(resultados, ensure_ascii=False, indent=2))"),
       md('## 2. Calidad y cobertura\n\nSe preservan 4 duplicados PME adicionales, 38 montos SEP ausentes y los extremos. Los faltantes no se convierten en cero. Las correlaciones usan 8.237 escuelas activas con matrícula positiva. `MATRICULA` es una bandera; el denominador correcto es `MAT_TOTAL`.'),
       code("display(tabla('pme_faltantes').query('faltantes > 0').head(15))\ndisplay(tabla('pme_cobertura_dependencia'))\ndisplay(tabla('pme_descriptivos_montos'))"),
-      md('## 3. Distribuciones, densidad y sensibilidad\n\nHistograma original y densidad en logaritmos sólo para valores positivos. El 21,25% de acciones tiene monto cero. 19 registros explican 12,80% del total; excluirlos es sensibilidad, no una corrección demostrada.'),
-      code("display(Image(filename=str(ROOT/'informes/graficos/05_pme_histograma_densidad.png')))\ndisplay(tabla('pme_sensibilidad_montos'))\ndisplay(Image(filename=str(ROOT/'informes/graficos/08_pme_dimensiones.png')))"),
+      md('## 3. Distribuciones, densidad y sensibilidad\n\nHistograma original y densidad en logaritmos sólo para valores positivos. El 21,25% de acciones tiene monto cero. 19 registros explican 12,80% del total; excluirlos es sensibilidad, no una corrección demostrada. La comparación por dimensión cuenta acciones al 100% y usa estimaciones, no pagos.'),
+      code("display(Image(filename=str(ROOT/'informes/graficos/05_pme_histograma_densidad.png')))\ndisplay(tabla('pme_sensibilidad_montos'))\ndisplay(tabla('pme_resumen_dimensiones_2024'))\ndisplay(Image(filename=str(ROOT/'informes/graficos/08_pme_dimensiones.png')))\ndisplay(Image(filename=str(ROOT/'informes/graficos/10_pme_dimensiones.png')))"),
       md('## 4. Correlaciones a la unidad correcta\n\nUna fila por RBD. Spearman ofrece una lectura menos dependiente de los extremos que Pearson. El gasto aquí es estimado. La asociación con implementación declarada es débil; no equivale a eficiencia ni a aprendizaje.'),
       code("c = tabla('pme_correlaciones')\ndisplay(c[(c.variable_1=='MAT_TOTAL') & (c.variable_2=='estim_total')])\ndisplay(c[(c.variable_1=='estim_por_alumno') & (c.variable_2=='pct_completas')])\ndisplay(tabla('pme_correlaciones_estratificadas'))\ndisplay(Image(filename=str(ROOT/'informes/graficos/06_pme_correlaciones.png')))\ndisplay(Image(filename=str(ROOT/'informes/graficos/07_pme_relaciones.png')))"),
       md('## 5. La Cisterna: fracción completa versus avance\n\nÓscar Encalada tiene cero acciones completas, pero todas están entre 75% y 99%. Se muestran límites de avance; no se imputa un punto medio. La matrícula de 2024 sólo se usa para las estimaciones de 2024.'),
