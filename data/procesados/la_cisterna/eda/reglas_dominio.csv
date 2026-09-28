@@ -1,0 +1,8 @@
+control,casos
+PME importes negativos,0
+PME SEP mayor que total,0
+PME duplicado exacto marcado en extracción,0
+PME monto o estado ausente,0
+IDPS fuera de 0–100,0
+OC CLP negativos,0
+SIMCE puntaje sin alumnos positivos,0

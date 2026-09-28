@@ -1,0 +1,9 @@
+anio,grado,simce_filas,simce_rbd_con_fila,simce_rbd_con_puntaje,idps_filas,idps_rbd_con_fila,idps_rbd_con_promedio,versiones_simce,versiones_idps
+2023,2m,24,24,23,96,24,23,final20240418v1,final20240528v1
+2023,4b,33,33,32,128,32,32,final20240418v1,final20240528v1
+2024,2m,24,24,24,96,24,24,preliminar20240422v1,preliminar20240422v1
+2024,4b,33,33,32,132,33,32,preliminar20240422v1,final20250625v1
+2024,6b,33,33,32,132,33,32,preliminar20240422v1,preliminar20240422v1
+2025,2m,24,24,24,96,24,24,v22025,v22025
+2025,4b,33,33,32,128,32,32,v22025,v22025
+2025,8b,32,32,32,128,32,32,v12025,v12025

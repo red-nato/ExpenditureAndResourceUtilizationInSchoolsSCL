@@ -1,0 +1,4 @@
+sector,oferta,acciones,completas,no_completas,estimacion_cero,ambas,senal_revision,sin_estado,estimacion_mediana_clp,estimacion_total_clp,rbd_observados,pct_completas,pct_no_completas,pct_estimacion_cero,pct_senal_revision,colegios,mediana_kpi_colegio
+Particular subvencionado,basica_media,536,346,190,45,17,218,0,7000000.0,7363125722,30,64.55223880597015,35.44776119402985,8.395522388059701,40.67164179104478,30,38.423645320197046
+Particular subvencionado,especial,97,49,48,49,26,71,0,0.0,70300000,8,50.51546391752577,49.48453608247423,50.51546391752577,73.19587628865979,8,86.11111111111111
+Público,basica_media,134,74,60,55,35,80,0,2000000.0,1575982996,8,55.223880597014926,44.776119402985074,41.04477611940298,59.701492537313435,8,61.184210526315795

@@ -1,0 +1,7 @@
+fuente,filas,llave_propuesta,llaves_duplicadas,nulos_criticos
+directorio,238,anio + rbd,0,"{""anio"": 0, ""rbd"": 0, ""dependencia"": 0, ""matricula_total"": 0, ""oferta"": 0}"
+pas,110,pa_id,0,"{""pa_id"": 0, ""archivo_anio"": 0, ""rbd"": 0, ""estado"": 0, ""instancia"": 0}"
+pme,767,fila_excel,0,"{""fila_excel"": 0, ""RBD"": 0, ""ESTIM_TOTAL"": 0, ""NIV_IMPLEM"": 0}"
+simce,236,anio + rbd + grado,0,"{""anio"": 0, ""rbd"": 0, ""grado"": 0, ""version_base"": 0, ""medidas_originales"": 0}"
+idps,936,anio + rbd + grado + indicador_codigo_original,0,"{""anio"": 0, ""rbd"": 0, ""grado"": 0, ""indicador_codigo_original"": 0, ""version_base"": 0, ""promedio_original"": 16}"
+oc_seleccionadas,1034,codigo_oc,0,"{""codigo_oc"": 0, ""rbd_asignado"": 397}"

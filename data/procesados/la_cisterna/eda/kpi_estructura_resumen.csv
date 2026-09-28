@@ -1,0 +1,12 @@
+medida,valor
+colegios con KPI ≤25 %,15.0
+colegios con KPI entre 25 % y 75 %,14.0
+colegios con KPI ≥75 %,17.0
+acciones no completas en estado «avanzada 75–99 %»,189.0
+acciones no completas en total,298.0
+% de acciones con $0 en escuelas especiales,50.51546391752577
+% de acciones con $0 en escuelas básica/media,14.925373134328357
+KPI global sin escuelas especiales (%),44.47761194029851
+colegios básica/media con KPI ≥50 %,18.0
+colegios básica/media observados,38.0
+Spearman KPI del colegio vs. matrícula,-0.653139159953733

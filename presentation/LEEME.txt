@@ -1,0 +1,5 @@
+Falta el archivo obligatorio: presentation/GROUP_03_C1_Slides.pdf
+
+Cómo obtenerlo: abrir la presentación en línea, elegir Compartir y luego Exportar, y descargar el PDF.
+Guardarlo en esta carpeta con exactamente el nombre GROUP_03_C1_Slides.pdf y borrar este archivo.
+Un enlace en línea no reemplaza al PDF: el brief lo exige dentro del ZIP.

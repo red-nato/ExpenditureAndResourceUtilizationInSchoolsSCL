@@ -1,0 +1,5 @@
+anio,comprador,filas_originales_comprador,oc_unicas_comprador,filas_originales_seleccionadas,oc_unicas_seleccionadas,repeticiones_por_item_cotizacion,suma_incorrecta_por_fila_clp,suma_correcta_por_oc_clp,regla
+2022,municipal,40443,2449,8279,155,8124,6981947865.88,208526777.41,Mismo filtro de estado y moneda; total OC contado una vez por codigoOC
+2023,municipal,24730,3133,11962,426,11536,13195441064.39,545234235.65,Mismo filtro de estado y moneda; total OC contado una vez por codigoOC
+2024,municipal,35256,3421,8217,447,7770,10731848429.78,509439233.85,Mismo filtro de estado y moneda; total OC contado una vez por codigoOC
+2025,slep,1156,216,24,6,18,73552281.6,42653931.6,Mismo filtro de estado y moneda; total OC contado una vez por codigoOC

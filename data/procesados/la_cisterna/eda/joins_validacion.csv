@@ -1,0 +1,7 @@
+cruce,llave,cardinalidad esperada,filas antes,filas después,llaves izquierda,llaves derecha,llaves que cruzan,solo izquierda,solo derecha,lectura
+PME (acciones) → Directorio 2024,RBD,muchos a uno,767,767,46,59,46,0,13,"Todas las acciones cruzan; «solo derecha» son colegios del censo sin acciones en el extracto (cobertura, no error)"
+SIMCE → Directorio,RBD + año,muchos a uno,504,504,129,238,129,0,109,"Todas las filas pertenecen al censo del año; «solo derecha» son colegios-año sin resultado publicado (sin fila, no cero)"
+IDPS → Directorio,RBD + año,muchos a uno,936,936,127,238,127,0,111,"Todas las filas pertenecen al censo del año; «solo derecha» son colegios-año sin resultado publicado (sin fila, no cero)"
+KPI por colegio → panel,RBD + año 2024,uno a uno,238,238,46,238,46,0,192,El KPI se une solo a 2024; los demás años quedan sin KPI (PME no recopilado)
+OC con RBD único → panel,RBD + año,muchos a uno (se agrega antes),1034,637,26,238,26,0,212,Solo se asignan las OC con un único RBD; el resto no se reparte (no se inventa destinatario)
+PAS → panel,RBD + año del archivo,muchos a uno (se agrega antes),110,110,71,238,71,0,167,Un «solo izquierda» indica un proceso de un RBD que no está en el censo de ese año

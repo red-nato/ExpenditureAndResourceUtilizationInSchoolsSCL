@@ -1,0 +1,13 @@
+estatus,hallazgo,evidencia en este notebook,límite o siguiente paso
+Defendible,Los datos usados son trazables y consistentes,18 de 18 validaciones OK; 0 filas eliminadas en la limpieza; huellas SHA-256 verificadas,"Verifica el extracto, no la veracidad de lo declarado por los colegios"
+Defendible,Sumar la OC por ítem sobreestima el monto,Factor de 21 a 33 veces en 2022–2024 frente a contar cada código una vez,Una OC no acredita pago
+Defendible,Los importes PME son muy asimétricos,Media $11.746.296 vs. mediana $4.559.378; el 10 % superior concentra 53.1 % del total,Se conservan los extremos; su efecto se mide en la sensibilidad
+Defendible,Casi la mitad de las acciones PME 2024 requieren explicación,369 de 767 acciones (48.1 %) con $0 o no completas,Depende de la definición: con la estricta baja a 19.6 %
+Defendible,El KPI por colegio es bimodal,"15 colegios ≤25 %, 14 intermedios, 17 ≥75 %",Describe el extracto de 46 colegios
+Defendible,Las ausencias son estructurales; imputar las distorsionaría,"PME solo 2024, Agencia desde 2023, OC solo del sector público (ver mapa de faltantes)",Un cero válido y un dato ausente se reportan por separado
+Provisional,El umbral de 50 % sirve para priorizar,Entran 24 de 46 colegios; con 25 % y 75 % cambia a 31 y 17,Supuesto operativo sin validar con capacidad real de revisión
+Provisional,Las escuelas especiales concentran las estimaciones $0,50.5 % vs. 14.9 % en básica/media,Hipótesis sobre su financiamiento; requiere confirmar con Mineduc o el sostenedor
+Provisional,Colegios pequeños tienden a KPI más alto,Spearman KPI–matrícula = -0.65,Posible efecto de escala; no causal; n pequeño y segmento público con n<10
+Provisional,No se observa relación entre KPI y resultados SIMCE/IDPS,Correlaciones cercanas a 0 con n entre 28 y 29 colegios,Poca potencia; los resultados dependen del grupo evaluado
+Provisional,Las compras 2022 y 2025 no son comparables con 2023–2024,Falta Compra Ágil del 2.º semestre 2022 y la cobertura SLEP 2025 es parcial,No se interpreta una caída como ahorro
+Provisional,Los 13 colegios sin PME están fuera del KPI,13 RBD sin acciones en el extracto,Verificar aplicabilidad y cobertura antes de cualquier conclusión

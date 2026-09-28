@@ -1,0 +1,16 @@
+{
+  "fecha_revision": "2026-09-25",
+  "nota": "SHA-256 de los cinco extractos incluidos. Fuentes oficiales originales 2024-2025 y PAS/Agencia en fuentes.json; Directorios 2022-2023 y PME 2024 detallados abajo.",
+  "extractos": [
+    {"archivo": "universo_la_cisterna_2022_2025.json", "sha256": "8fa6881a37f092974caf8ee8c2d0f8db60c4c57ee29a23935ac7aa26c0c771e6", "filas": 238},
+    {"archivo": "procesos_supereduc_la_cisterna_2022_2025.json", "sha256": "59ce16362484582299bd2c3667a7413eb5b23bf791bf9c26d2cd41083ec3a6d7", "filas": 110},
+    {"archivo": "pme_la_cisterna_2024.csv", "sha256": "88d662ca4bbf5e2520d80d413cf703fd2dab474eb4f16800bf4e15ea7bc43a25", "filas": 767},
+    {"archivo": "simce_la_cisterna_2023_2025.json", "sha256": "8f8433115460a838dc7d5c22bf7b5b7f75973c0218f7507c79c781a3ee002316", "filas": 236},
+    {"archivo": "idps_la_cisterna_2023_2025.json", "sha256": "0a3a4855b6f6ea9d5f6b77259e50fcec66117bd55f8ca81d112b4e7b30f5dfc8", "filas": 936}
+  ],
+  "originales_complementarios": [
+    {"titulo": "Directorio Oficial EE 2022", "catalogo": "https://datosabiertos.mineduc.cl/directorio-de-establecimientos-educacionales/", "archivo_local": "BI-DatosProyecto/Directorio/Directorio-oficial-EE-2022/20220914_Directorio_Oficial_EE_2022_20220430_WEB.csv", "sha256": "b792728d12ebc7268a60426df8c24294d70d419e8c085b3139be59e7ef889091"},
+    {"titulo": "Directorio Oficial EE 2023", "catalogo": "https://datosabiertos.mineduc.cl/directorio-de-establecimientos-educacionales/", "archivo_local": "BI-DatosProyecto/Directorio/Directorio-Oficial-EE-2023-1/20230912_Directorio_Oficial_EE_2023_20230430_WEB.csv", "sha256": "17049be80957cf78a683002c1ca0908b8501af67560e59b1ec61c79baabdbbfe"},
+    {"titulo": "Implementación PME 2024", "url": "https://datosabiertos.mineduc.cl/wp-content/uploads/2025/02/Implementacion-PME-2024.rar", "sha256_original": "965ea7e1d5e90af094786a7697849e60369e64ddf7b156fcacc7f0fd1dbf1a12", "nota": "Extracto W1 derivado de selección nacional previa de 129726 acciones; se filtró por 59 RBD de 2024."}
+  ]
+}

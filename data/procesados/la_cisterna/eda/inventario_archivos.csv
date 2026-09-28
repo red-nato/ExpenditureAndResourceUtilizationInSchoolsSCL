@@ -1,0 +1,48 @@
+archivo,familia,que_contiene,uso,MB
+data/DICCIONARIO.md,Documentación,"Campos, llaves y límites",Metadatos,0.004
+data/extraidos/la_cisterna/fuentes.json,Procedencia,"URL, fecha y/o SHA-256",Metadatos,0.004
+data/extraidos/la_cisterna/idps_la_cisterna_2023_2025.json,Agencia,Resultados o cobertura por aplicación,Activo; no sumar copias,0.477
+data/extraidos/la_cisterna/manifiesto_extraccion.json,Procedencia,"URL, fecha y/o SHA-256",Metadatos,0.002
+data/extraidos/la_cisterna/pme_la_cisterna_2024.csv,Mineduc / PME,"Acciones, estimaciones y avance, o tablas derivadas",La Cisterna 2024 activo; nacional/pilotos históricos,0.072
+data/extraidos/la_cisterna/procesos_supereduc_la_cisterna_2022_2025.json,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,0.1
+data/extraidos/la_cisterna/simce_la_cisterna_2023_2025.json,Agencia,Resultados o cobertura por aplicación,Activo; no sumar copias,0.155
+data/extraidos/la_cisterna/universo_la_cisterna_2022_2025.json,Directorio local,Censo filtrado de La Cisterna,Usar censo anual 2022–2025,0.07
+data/fuentes.json,Procedencia,"URL, fecha y/o SHA-256",Metadatos,0.004
+data/manifiesto_recuperacion_local.json,Procedencia,"URL, fecha y/o SHA-256",Metadatos,0.003
+data/originales/20250926_Directorio_Oficial_EE_2025_20250430_WEB.csv,Directorio,Censo nacional anual,2022–2025 activo; anteriores históricos,3.778
+data/originales/ER_Directorio_Oficial_EE_WEB.pdf,Directorio,Diccionario de campos y códigos,Metadatos,0.468
+data/originales/chilecompra/municipal_2022_Sem1.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.926
+data/originales/chilecompra/municipal_2022_Sem2.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.226
+data/originales/chilecompra/municipal_2023_Sem1.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.391
+data/originales/chilecompra/municipal_2023_Sem2.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.613
+data/originales/chilecompra/municipal_2024_Sem1.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.592
+data/originales/chilecompra/municipal_2024_Sem2.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.75
+data/originales/chilecompra/slep_2025_Sem1.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.026
+data/originales/chilecompra/slep_2025_Sem2.7z,ChileCompra,Paquete semestral OC por ítem/cotización,Original activo,0.05
+data/originales/directorio_2022.csv,Directorio,Censo nacional anual,2022–2025 activo; anteriores históricos,3.274
+data/originales/directorio_2023.csv,Directorio,Censo nacional anual,2022–2025 activo; anteriores históricos,3.661
+data/originales/directorio_2024.csv,Directorio,Censo nacional anual,2022–2025 activo; anteriores históricos,3.668
+data/originales/pas_2022.xlsx,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,1.422
+data/originales/pas_2023.xlsx,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,2.399
+data/originales/pas_2024.xlsx,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,2.616
+data/originales/pas_2025.xlsx,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,1.38
+data/originales/pas_diccionario.pdf,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,0.401
+data/originales/pme_diccionario_2024.pdf,Mineduc / PME,Diccionario de variables,La Cisterna 2024 activo; nacional/pilotos históricos,0.278
+data/originales/pme_implementacion_2024.xlsx,Mineduc / PME,"Acciones, estimaciones y avance, o tablas derivadas",La Cisterna 2024 activo; nacional/pilotos históricos,43.921
+data/procesados/la_cisterna/cobertura_agencia_por_grado.csv,Agencia,Resultados o cobertura por aplicación,Activo; no sumar copias,0.001
+data/procesados/la_cisterna/controles_etapas.csv,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,0.001
+data/procesados/la_cisterna/ficha_comprador_2026-09-27.csv,Ficha Comprador,Indicadores del organismo en ventanas recientes,Contexto; fuera del panel histórico,0.001
+data/procesados/la_cisterna/manifiesto_chilecompra.json,Procedencia,"URL, fecha y/o SHA-256",Metadatos,0.003
+data/procesados/la_cisterna/metricas.json,Resultado previo,Resumen o control calculado,Derivado; no es fuente nueva,0.004
+data/procesados/la_cisterna/oc_candidatas_revision.csv,ChileCompra derivado,"Selección, candidatos, cobertura o auditoría OC",Candidatas fuera del agregado principal,0.01
+data/procesados/la_cisterna/oc_cobertura_anual.csv,ChileCompra derivado,"Selección, candidatos, cobertura o auditoría OC",Candidatas fuera del agregado principal,0.0
+data/procesados/la_cisterna/oc_escuelas_publicas.csv,ChileCompra derivado,"Selección, candidatos, cobertura o auditoría OC",Candidatas fuera del agregado principal,0.432
+data/procesados/la_cisterna/oc_limpieza_antes_despues.csv,ChileCompra derivado,"Selección, candidatos, cobertura o auditoría OC",Candidatas fuera del agregado principal,0.001
+data/procesados/la_cisterna/panel_rbd_anual.csv,Integración,Una fila RBD–año tras agregar fuentes,Vigente solo en procesados/la_cisterna,0.024
+data/procesados/la_cisterna/pas_revision_materia.csv,Supereduc / PAS,"Procesos, diccionario o revisión de materia",Activo; no es gasto rechazado,0.014
+data/procesados/la_cisterna/perfil_fuentes.csv,Resultado previo,Resumen o control calculado,Derivado; no es fuente nueva,0.001
+data/procesados/la_cisterna/pme_dimensiones.csv,Mineduc / PME,"Acciones, estimaciones y avance, o tablas derivadas",La Cisterna 2024 activo; nacional/pilotos históricos,0.0
+data/procesados/la_cisterna/universo_anual.csv,Directorio local,Censo filtrado de La Cisterna,Usar censo anual 2022–2025,0.0
+data/referencias/03_EDA_after_Data_Validation.pdf,Resultado previo,Resumen o control calculado,Derivado; no es fuente nueva,0.277
+data/referencias/Calendarization_2026_Third_Term_Business_Intelligence_IIB423T.docx,Resultado previo,Resumen o control calculado,Derivado; no es fuente nueva,0.05
+data/referencias/W1_con_reflexiones_25-09-2026.pdf,Resultado previo,Resumen o control calculado,Derivado; no es fuente nueva,0.027
