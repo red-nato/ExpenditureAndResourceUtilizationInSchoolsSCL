@@ -1,0 +1,937 @@
+anio,rbd,grado,indicador_codigo_original,indicador,promedio_original,diferencia_original,significancia_original,grupo_socioeconomico_codigo,version_base,fecha_base_aaaammdd,archivo_interno,archivo_csv,puntaje,indicador_std
+2023,9699,4b,AM,Autoestima académica y motivación escolar,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,AM
+2023,9699,4b,CC,Clima de convivencia escolar,78,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,CC
+2023,9699,4b,HV,Hábitos de vida saludable,65,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,65.0,HV
+2023,9699,4b,PF,Participación y formación ciudadana,76,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,PF
+2023,9700,4b,AM,Autoestima académica y motivación escolar,69,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,AM
+2023,9700,4b,CC,Clima de convivencia escolar,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,CC
+2023,9700,4b,HV,Hábitos de vida saludable,64,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,64.0,HV
+2023,9700,4b,PF,Participación y formación ciudadana,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,PF
+2023,9701,4b,AM,Autoestima académica y motivación escolar,63,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,63.0,AM
+2023,9701,4b,CC,Clima de convivencia escolar,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,CC
+2023,9701,4b,HV,Hábitos de vida saludable,61,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,61.0,HV
+2023,9701,4b,PF,Participación y formación ciudadana,66,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,PF
+2023,9703,4b,AM,Autoestima académica y motivación escolar,78,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,AM
+2023,9703,4b,CC,Clima de convivencia escolar,82,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,82.0,CC
+2023,9703,4b,HV,Hábitos de vida saludable,73,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,HV
+2023,9703,4b,PF,Participación y formación ciudadana,84,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,84.0,PF
+2023,9706,4b,AM,Autoestima académica y motivación escolar,78,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,AM
+2023,9706,4b,CC,Clima de convivencia escolar,78,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,CC
+2023,9706,4b,HV,Hábitos de vida saludable,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,HV
+2023,9706,4b,PF,Participación y formación ciudadana,82,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,82.0,PF
+2023,9722,4b,AM,Autoestima académica y motivación escolar,71,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,AM
+2023,9722,4b,CC,Clima de convivencia escolar,67,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,67.0,CC
+2023,9722,4b,HV,Hábitos de vida saludable,67,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,67.0,HV
+2023,9722,4b,PF,Participación y formación ciudadana,73,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,PF
+2023,9730,4b,AM,Autoestima académica y motivación escolar,67,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,67.0,AM
+2023,9730,4b,CC,Clima de convivencia escolar,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,CC
+2023,9730,4b,HV,Hábitos de vida saludable,65,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,65.0,HV
+2023,9730,4b,PF,Participación y formación ciudadana,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,PF
+2023,9757,4b,AM,Autoestima académica y motivación escolar,79,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,79.0,AM
+2023,9757,4b,CC,Clima de convivencia escolar,75,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,CC
+2023,9757,4b,HV,Hábitos de vida saludable,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,HV
+2023,9757,4b,PF,Participación y formación ciudadana,77,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,77.0,PF
+2023,9758,4b,AM,Autoestima académica y motivación escolar,75,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,AM
+2023,9758,4b,CC,Clima de convivencia escolar,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,9758,4b,HV,Hábitos de vida saludable,70,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,HV
+2023,9758,4b,PF,Participación y formación ciudadana,74,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,PF
+2023,9759,4b,AM,Autoestima académica y motivación escolar,64,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,64.0,AM
+2023,9759,4b,CC,Clima de convivencia escolar,66,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,CC
+2023,9759,4b,HV,Hábitos de vida saludable,66,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,HV
+2023,9759,4b,PF,Participación y formación ciudadana,68,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,PF
+2023,9766,4b,AM,Autoestima académica y motivación escolar,71,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,AM
+2023,9766,4b,CC,Clima de convivencia escolar,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,9766,4b,HV,Hábitos de vida saludable,65,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,65.0,HV
+2023,9766,4b,PF,Participación y formación ciudadana,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,PF
+2023,9767,4b,AM,Autoestima académica y motivación escolar,67,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,67.0,AM
+2023,9767,4b,CC,Clima de convivencia escolar,73,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,CC
+2023,9767,4b,HV,Hábitos de vida saludable,65,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,65.0,HV
+2023,9767,4b,PF,Participación y formación ciudadana,76,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,PF
+2023,9771,4b,AM,Autoestima académica y motivación escolar,76,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,AM
+2023,9771,4b,CC,Clima de convivencia escolar,75,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,CC
+2023,9771,4b,HV,Hábitos de vida saludable,70,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,HV
+2023,9771,4b,PF,Participación y formación ciudadana,78,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,PF
+2023,9786,4b,AM,Autoestima académica y motivación escolar,75,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,AM
+2023,9786,4b,CC,Clima de convivencia escolar,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,CC
+2023,9786,4b,HV,Hábitos de vida saludable,71,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,HV
+2023,9786,4b,PF,Participación y formación ciudadana,75,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,PF
+2023,9788,4b,AM,Autoestima académica y motivación escolar,78,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,AM
+2023,9788,4b,CC,Clima de convivencia escolar,81,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,81.0,CC
+2023,9788,4b,HV,Hábitos de vida saludable,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,HV
+2023,9788,4b,PF,Participación y formación ciudadana,80,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,80.0,PF
+2023,9789,4b,AM,Autoestima académica y motivación escolar,79,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,79.0,AM
+2023,9789,4b,CC,Clima de convivencia escolar,78,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,78.0,CC
+2023,9789,4b,HV,Hábitos de vida saludable,73,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,HV
+2023,9789,4b,PF,Participación y formación ciudadana,84,,,2,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,84.0,PF
+2023,9797,4b,AM,Autoestima académica y motivación escolar,79,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,79.0,AM
+2023,9797,4b,CC,Clima de convivencia escolar,81,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,81.0,CC
+2023,9797,4b,HV,Hábitos de vida saludable,75,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,HV
+2023,9797,4b,PF,Participación y formación ciudadana,81,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,81.0,PF
+2023,9801,4b,AM,Autoestima académica y motivación escolar,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,AM
+2023,9801,4b,CC,Clima de convivencia escolar,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,CC
+2023,9801,4b,HV,Hábitos de vida saludable,66,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,HV
+2023,9801,4b,PF,Participación y formación ciudadana,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,PF
+2023,9804,4b,AM,Autoestima académica y motivación escolar,75,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,75.0,AM
+2023,9804,4b,CC,Clima de convivencia escolar,70,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,CC
+2023,9804,4b,HV,Hábitos de vida saludable,66,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,HV
+2023,9804,4b,PF,Participación y formación ciudadana,73,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,PF
+2023,9807,4b,AM,Autoestima académica y motivación escolar,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,AM
+2023,9807,4b,CC,Clima de convivencia escolar,83,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,83.0,CC
+2023,9807,4b,HV,Hábitos de vida saludable,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,HV
+2023,9807,4b,PF,Participación y formación ciudadana,81,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,81.0,PF
+2023,9808,4b,AM,Autoestima académica y motivación escolar,71,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,AM
+2023,9808,4b,CC,Clima de convivencia escolar,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,9808,4b,HV,Hábitos de vida saludable,66,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,HV
+2023,9808,4b,PF,Participación y formación ciudadana,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,PF
+2023,9809,4b,AM,Autoestima académica y motivación escolar,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,AM
+2023,9809,4b,CC,Clima de convivencia escolar,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,CC
+2023,9809,4b,HV,Hábitos de vida saludable,69,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,HV
+2023,9809,4b,PF,Participación y formación ciudadana,73,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,73.0,PF
+2023,9811,4b,AM,Autoestima académica y motivación escolar,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,AM
+2023,9811,4b,CC,Clima de convivencia escolar,77,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,77.0,CC
+2023,9811,4b,HV,Hábitos de vida saludable,76,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,HV
+2023,9811,4b,PF,Participación y formación ciudadana,79,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,79.0,PF
+2023,9827,4b,AM,Autoestima académica y motivación escolar,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,AM
+2023,9827,4b,CC,Clima de convivencia escolar,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,9827,4b,HV,Hábitos de vida saludable,69,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,HV
+2023,9827,4b,PF,Participación y formación ciudadana,77,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,77.0,PF
+2023,9859,4b,AM,Autoestima académica y motivación escolar,66,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,AM
+2023,9859,4b,CC,Clima de convivencia escolar,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,9859,4b,HV,Hábitos de vida saludable,69,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,HV
+2023,9859,4b,PF,Participación y formación ciudadana,70,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,PF
+2023,11914,4b,AM,Autoestima académica y motivación escolar,76,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,AM
+2023,11914,4b,CC,Clima de convivencia escolar,74,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,CC
+2023,11914,4b,HV,Hábitos de vida saludable,72,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,HV
+2023,11914,4b,PF,Participación y formación ciudadana,80,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,80.0,PF
+2023,11997,4b,AM,Autoestima académica y motivación escolar,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,AM
+2023,11997,4b,CC,Clima de convivencia escolar,66,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,66.0,CC
+2023,11997,4b,HV,Hábitos de vida saludable,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,HV
+2023,11997,4b,PF,Participación y formación ciudadana,71,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,PF
+2023,25017,4b,AM,Autoestima académica y motivación escolar,70,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,AM
+2023,25017,4b,CC,Clima de convivencia escolar,80,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,80.0,CC
+2023,25017,4b,HV,Hábitos de vida saludable,68,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,HV
+2023,25017,4b,PF,Participación y formación ciudadana,76,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,76.0,PF
+2023,25265,4b,AM,Autoestima académica y motivación escolar,69,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,AM
+2023,25265,4b,CC,Clima de convivencia escolar,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,25265,4b,HV,Hábitos de vida saludable,68,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,HV
+2023,25265,4b,PF,Participación y formación ciudadana,72,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,PF
+2023,25480,4b,AM,Autoestima académica y motivación escolar,65,,,5,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,65.0,AM
+2023,25480,4b,CC,Clima de convivencia escolar,72,,,5,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,72.0,CC
+2023,25480,4b,HV,Hábitos de vida saludable,69,,,5,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,HV
+2023,25480,4b,PF,Participación y formación ciudadana,71,,,5,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,PF
+2023,25727,4b,AM,Autoestima académica y motivación escolar,69,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,AM
+2023,25727,4b,CC,Clima de convivencia escolar,69,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,69.0,CC
+2023,25727,4b,HV,Hábitos de vida saludable,70,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,70.0,HV
+2023,25727,4b,PF,Participación y formación ciudadana,74,,,4,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,74.0,PF
+2023,26278,4b,AM,Autoestima académica y motivación escolar,64,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,64.0,AM
+2023,26278,4b,CC,Clima de convivencia escolar,71,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,71.0,CC
+2023,26278,4b,HV,Hábitos de vida saludable,51,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,51.0,HV
+2023,26278,4b,PF,Participación y formación ciudadana,68,,,3,final20240528v1,20240528,idps cuarto básico 2023 - Versión pública.rar,idps cuarto básico 2023 - Versión pública/Archivos CSV (Planos)/idps4b2023_rbd_final.csv,68.0,PF
+2023,9693,2m,AM,Autoestima académica y motivación escolar,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,AM
+2023,9693,2m,CC,Clima de convivencia escolar,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,CC
+2023,9693,2m,HV,Hábitos de vida saludable,66,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,66.0,HV
+2023,9693,2m,PF,Participación y formación ciudadana,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,PF
+2023,9701,2m,AM,Autoestima académica y motivación escolar,76,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,76.0,AM
+2023,9701,2m,CC,Clima de convivencia escolar,79,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,79.0,CC
+2023,9701,2m,HV,Hábitos de vida saludable,71,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,HV
+2023,9701,2m,PF,Participación y formación ciudadana,81,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,81.0,PF
+2023,9722,2m,AM,Autoestima académica y motivación escolar,79,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,79.0,AM
+2023,9722,2m,CC,Clima de convivencia escolar,72,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,CC
+2023,9722,2m,HV,Hábitos de vida saludable,62,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,62.0,HV
+2023,9722,2m,PF,Participación y formación ciudadana,72,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,PF
+2023,9754,2m,AM,Autoestima académica y motivación escolar,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,AM
+2023,9754,2m,CC,Clima de convivencia escolar,70,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,CC
+2023,9754,2m,HV,Hábitos de vida saludable,69,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,69.0,HV
+2023,9754,2m,PF,Participación y formación ciudadana,76,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,76.0,PF
+2023,9757,2m,AM,Autoestima académica y motivación escolar,70,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,AM
+2023,9757,2m,CC,Clima de convivencia escolar,66,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,66.0,CC
+2023,9757,2m,HV,Hábitos de vida saludable,59,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,59.0,HV
+2023,9757,2m,PF,Participación y formación ciudadana,71,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,PF
+2023,9758,2m,AM,Autoestima académica y motivación escolar,73,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,AM
+2023,9758,2m,CC,Clima de convivencia escolar,71,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,CC
+2023,9758,2m,HV,Hábitos de vida saludable,68,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,68.0,HV
+2023,9758,2m,PF,Participación y formación ciudadana,77,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,77.0,PF
+2023,9759,2m,AM,Autoestima académica y motivación escolar,70,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,AM
+2023,9759,2m,CC,Clima de convivencia escolar,73,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,CC
+2023,9759,2m,HV,Hábitos de vida saludable,68,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,68.0,HV
+2023,9759,2m,PF,Participación y formación ciudadana,72,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,PF
+2023,9766,2m,AM,Autoestima académica y motivación escolar,71,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,AM
+2023,9766,2m,CC,Clima de convivencia escolar,77,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,77.0,CC
+2023,9766,2m,HV,Hábitos de vida saludable,67,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,67.0,HV
+2023,9766,2m,PF,Participación y formación ciudadana,80,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,80.0,PF
+2023,9767,2m,AM,Autoestima académica y motivación escolar,71,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,AM
+2023,9767,2m,CC,Clima de convivencia escolar,76,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,76.0,CC
+2023,9767,2m,HV,Hábitos de vida saludable,68,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,68.0,HV
+2023,9767,2m,PF,Participación y formación ciudadana,80,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,80.0,PF
+2023,9771,2m,AM,Autoestima académica y motivación escolar,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,AM
+2023,9771,2m,CC,Clima de convivencia escolar,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,CC
+2023,9771,2m,HV,Hábitos de vida saludable,71,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,HV
+2023,9771,2m,PF,Participación y formación ciudadana,74,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,PF
+2023,9779,2m,AM,Autoestima académica y motivación escolar,78,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,78.0,AM
+2023,9779,2m,CC,Clima de convivencia escolar,81,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,81.0,CC
+2023,9779,2m,HV,Hábitos de vida saludable,75,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,75.0,HV
+2023,9779,2m,PF,Participación y formación ciudadana,84,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,84.0,PF
+2023,9781,2m,AM,Autoestima académica y motivación escolar,72,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,AM
+2023,9781,2m,CC,Clima de convivencia escolar,70,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,CC
+2023,9781,2m,HV,Hábitos de vida saludable,65,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,65.0,HV
+2023,9781,2m,PF,Participación y formación ciudadana,73,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,PF
+2023,9784,2m,AM,Autoestima académica y motivación escolar,70,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,AM
+2023,9784,2m,CC,Clima de convivencia escolar,74,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,CC
+2023,9784,2m,HV,Hábitos de vida saludable,72,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,HV
+2023,9784,2m,PF,Participación y formación ciudadana,75,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,75.0,PF
+2023,9797,2m,AM,Autoestima académica y motivación escolar,83,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,83.0,AM
+2023,9797,2m,CC,Clima de convivencia escolar,89,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,89.0,CC
+2023,9797,2m,HV,Hábitos de vida saludable,80,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,80.0,HV
+2023,9797,2m,PF,Participación y formación ciudadana,88,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,88.0,PF
+2023,9801,2m,AM,Autoestima académica y motivación escolar,70,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,AM
+2023,9801,2m,CC,Clima de convivencia escolar,74,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,CC
+2023,9801,2m,HV,Hábitos de vida saludable,69,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,69.0,HV
+2023,9801,2m,PF,Participación y formación ciudadana,74,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,PF
+2023,9827,2m,AM,Autoestima académica y motivación escolar,72,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,AM
+2023,9827,2m,CC,Clima de convivencia escolar,71,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,CC
+2023,9827,2m,HV,Hábitos de vida saludable,65,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,65.0,HV
+2023,9827,2m,PF,Participación y formación ciudadana,73,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,73.0,PF
+2023,9829,2m,AM,Autoestima académica y motivación escolar,88,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,88.0,AM
+2023,9829,2m,CC,Clima de convivencia escolar,85,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,85.0,CC
+2023,9829,2m,HV,Hábitos de vida saludable,82,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,82.0,HV
+2023,9829,2m,PF,Participación y formación ciudadana,90,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,90.0,PF
+2023,11918,2m,AM,Autoestima académica y motivación escolar,79,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,79.0,AM
+2023,11918,2m,CC,Clima de convivencia escolar,78,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,78.0,CC
+2023,11918,2m,HV,Hábitos de vida saludable,75,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,75.0,HV
+2023,11918,2m,PF,Participación y formación ciudadana,85,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,85.0,PF
+2023,25265,2m,AM,Autoestima académica y motivación escolar,76,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,76.0,AM
+2023,25265,2m,CC,Clima de convivencia escolar,74,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,CC
+2023,25265,2m,HV,Hábitos de vida saludable,67,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,67.0,HV
+2023,25265,2m,PF,Participación y formación ciudadana,78,,,3,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,78.0,PF
+2023,25480,2m,AM,Autoestima académica y motivación escolar,77,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,77.0,AM
+2023,25480,2m,CC,Clima de convivencia escolar,69,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,69.0,CC
+2023,25480,2m,HV,Hábitos de vida saludable,57,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,57.0,HV
+2023,25480,2m,PF,Participación y formación ciudadana,74,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,PF
+2023,25727,2m,AM,Autoestima académica y motivación escolar,70,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,AM
+2023,25727,2m,CC,Clima de convivencia escolar,77,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,77.0,CC
+2023,25727,2m,HV,Hábitos de vida saludable,64,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,64.0,HV
+2023,25727,2m,PF,Participación y formación ciudadana,76,,,4,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,76.0,PF
+2023,25995,2m,AM,Autoestima académica y motivación escolar,71,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,AM
+2023,25995,2m,CC,Clima de convivencia escolar,71,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,71.0,CC
+2023,25995,2m,HV,Hábitos de vida saludable,68,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,68.0,HV
+2023,25995,2m,PF,Participación y formación ciudadana,75,,,1,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,75.0,PF
+2023,26384,2m,AM,Autoestima académica y motivación escolar,,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,,AM
+2023,26384,2m,CC,Clima de convivencia escolar,,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,,CC
+2023,26384,2m,HV,Hábitos de vida saludable,,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,,HV
+2023,26384,2m,PF,Participación y formación ciudadana,,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,,PF
+2023,31030,2m,AM,Autoestima académica y motivación escolar,74,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,74.0,AM
+2023,31030,2m,CC,Clima de convivencia escolar,72,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,72.0,CC
+2023,31030,2m,HV,Hábitos de vida saludable,70,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,70.0,HV
+2023,31030,2m,PF,Participación y formación ciudadana,77,,,2,final20240528v1,20240528,idps segundo medio 2023 - Versión pública.rar,idps segundo medio 2023 - Versión pública/Archivos CSV (Planos)/idps2m2023_rbd_final.csv,77.0,PF
+2024,9693,2m,AM,Autoestima académica y motivación escolar,69,-4,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,AM
+2024,9693,2m,CC,Clima de convivencia escolar,71,-2,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,CC
+2024,9693,2m,HV,Hábitos de vida saludable,63,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,63.0,HV
+2024,9693,2m,PF,Participación y formación ciudadana,70,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,PF
+2024,9701,2m,AM,Autoestima académica y motivación escolar,74,-2,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,74.0,AM
+2024,9701,2m,CC,Clima de convivencia escolar,76,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,76.0,CC
+2024,9701,2m,HV,Hábitos de vida saludable,71,0,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,HV
+2024,9701,2m,PF,Participación y formación ciudadana,78,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,PF
+2024,9722,2m,AM,Autoestima académica y motivación escolar,77,-2,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,77.0,AM
+2024,9722,2m,CC,Clima de convivencia escolar,70,-2,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,CC
+2024,9722,2m,HV,Hábitos de vida saludable,71,9,1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,HV
+2024,9722,2m,PF,Participación y formación ciudadana,77,5,1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,77.0,PF
+2024,9754,2m,AM,Autoestima académica y motivación escolar,72,-1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,72.0,AM
+2024,9754,2m,CC,Clima de convivencia escolar,70,0,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,CC
+2024,9754,2m,HV,Hábitos de vida saludable,64,-5,-1,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,64.0,HV
+2024,9754,2m,PF,Participación y formación ciudadana,73,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,PF
+2024,9757,2m,AM,Autoestima académica y motivación escolar,67,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,67.0,AM
+2024,9757,2m,CC,Clima de convivencia escolar,68,2,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,68.0,CC
+2024,9757,2m,HV,Hábitos de vida saludable,61,2,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,61.0,HV
+2024,9757,2m,PF,Participación y formación ciudadana,68,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,68.0,PF
+2024,9758,2m,AM,Autoestima académica y motivación escolar,69,-4,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,AM
+2024,9758,2m,CC,Clima de convivencia escolar,72,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,72.0,CC
+2024,9758,2m,HV,Hábitos de vida saludable,69,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,HV
+2024,9758,2m,PF,Participación y formación ciudadana,73,-4,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,PF
+2024,9759,2m,AM,Autoestima académica y motivación escolar,66,-4,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,66.0,AM
+2024,9759,2m,CC,Clima de convivencia escolar,69,-4,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,CC
+2024,9759,2m,HV,Hábitos de vida saludable,63,-5,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,63.0,HV
+2024,9759,2m,PF,Participación y formación ciudadana,69,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,PF
+2024,9766,2m,AM,Autoestima académica y motivación escolar,73,2,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,AM
+2024,9766,2m,CC,Clima de convivencia escolar,78,1,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,CC
+2024,9766,2m,HV,Hábitos de vida saludable,75,8,1,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,75.0,HV
+2024,9766,2m,PF,Participación y formación ciudadana,80,0,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,80.0,PF
+2024,9767,2m,AM,Autoestima académica y motivación escolar,70,-1,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,AM
+2024,9767,2m,CC,Clima de convivencia escolar,71,-5,-1,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,CC
+2024,9767,2m,HV,Hábitos de vida saludable,65,-3,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,65.0,HV
+2024,9767,2m,PF,Participación y formación ciudadana,74,-6,-1,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,74.0,PF
+2024,9771,2m,AM,Autoestima académica y motivación escolar,70,-3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,AM
+2024,9771,2m,CC,Clima de convivencia escolar,74,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,74.0,CC
+2024,9771,2m,HV,Hábitos de vida saludable,67,-4,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,67.0,HV
+2024,9771,2m,PF,Participación y formación ciudadana,73,-1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,PF
+2024,9779,2m,AM,Autoestima académica y motivación escolar,77,-1,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,77.0,AM
+2024,9779,2m,CC,Clima de convivencia escolar,81,0,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,81.0,CC
+2024,9779,2m,HV,Hábitos de vida saludable,72,-3,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,72.0,HV
+2024,9779,2m,PF,Participación y formación ciudadana,81,-3,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,81.0,PF
+2024,9781,2m,AM,Autoestima académica y motivación escolar,71,-1,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,AM
+2024,9781,2m,CC,Clima de convivencia escolar,72,2,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,72.0,CC
+2024,9781,2m,HV,Hábitos de vida saludable,66,1,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,66.0,HV
+2024,9781,2m,PF,Participación y formación ciudadana,72,-1,0,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,72.0,PF
+2024,9784,2m,AM,Autoestima académica y motivación escolar,68,-2,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,68.0,AM
+2024,9784,2m,CC,Clima de convivencia escolar,70,-4,-1,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,CC
+2024,9784,2m,HV,Hábitos de vida saludable,68,-4,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,68.0,HV
+2024,9784,2m,PF,Participación y formación ciudadana,73,-2,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,PF
+2024,9797,2m,AM,Autoestima académica y motivación escolar,84,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,84.0,AM
+2024,9797,2m,CC,Clima de convivencia escolar,82,-7,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,82.0,CC
+2024,9797,2m,HV,Hábitos de vida saludable,81,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,81.0,HV
+2024,9797,2m,PF,Participación y formación ciudadana,84,-4,-1,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,84.0,PF
+2024,9801,2m,AM,Autoestima académica y motivación escolar,76,6,1,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,76.0,AM
+2024,9801,2m,CC,Clima de convivencia escolar,78,4,1,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,CC
+2024,9801,2m,HV,Hábitos de vida saludable,70,1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,HV
+2024,9801,2m,PF,Participación y formación ciudadana,77,3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,77.0,PF
+2024,9827,2m,AM,Autoestima académica y motivación escolar,69,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,AM
+2024,9827,2m,CC,Clima de convivencia escolar,70,-1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,CC
+2024,9827,2m,HV,Hábitos de vida saludable,64,-1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,64.0,HV
+2024,9827,2m,PF,Participación y formación ciudadana,71,-2,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,PF
+2024,9829,2m,AM,Autoestima académica y motivación escolar,85,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,85.0,AM
+2024,9829,2m,CC,Clima de convivencia escolar,84,-1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,84.0,CC
+2024,9829,2m,HV,Hábitos de vida saludable,79,-3,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,79.0,HV
+2024,9829,2m,PF,Participación y formación ciudadana,88,-2,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,88.0,PF
+2024,11918,2m,AM,Autoestima académica y motivación escolar,80,1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,80.0,AM
+2024,11918,2m,CC,Clima de convivencia escolar,79,1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,79.0,CC
+2024,11918,2m,HV,Hábitos de vida saludable,76,1,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,76.0,HV
+2024,11918,2m,PF,Participación y formación ciudadana,85,0,0,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,85.0,PF
+2024,25265,2m,AM,Autoestima académica y motivación escolar,76,0,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,76.0,AM
+2024,25265,2m,CC,Clima de convivencia escolar,77,3,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,77.0,CC
+2024,25265,2m,HV,Hábitos de vida saludable,67,0,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,67.0,HV
+2024,25265,2m,PF,Participación y formación ciudadana,79,1,0,3,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,79.0,PF
+2024,25480,2m,AM,Autoestima académica y motivación escolar,75,-2,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,75.0,AM
+2024,25480,2m,CC,Clima de convivencia escolar,71,2,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,71.0,CC
+2024,25480,2m,HV,Hábitos de vida saludable,70,13,1,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,70.0,HV
+2024,25480,2m,PF,Participación y formación ciudadana,76,2,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,76.0,PF
+2024,25727,2m,AM,Autoestima académica y motivación escolar,75,5,1,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,75.0,AM
+2024,25727,2m,CC,Clima de convivencia escolar,75,-2,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,75.0,CC
+2024,25727,2m,HV,Hábitos de vida saludable,67,3,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,67.0,HV
+2024,25727,2m,PF,Participación y formación ciudadana,79,3,0,4,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,79.0,PF
+2024,25995,2m,AM,Autoestima académica y motivación escolar,78,7,1,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,AM
+2024,25995,2m,CC,Clima de convivencia escolar,78,7,1,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,CC
+2024,25995,2m,HV,Hábitos de vida saludable,78,10,1,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,HV
+2024,25995,2m,PF,Participación y formación ciudadana,81,6,1,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,81.0,PF
+2024,26384,2m,AM,Autoestima académica y motivación escolar,74,,,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,74.0,AM
+2024,26384,2m,CC,Clima de convivencia escolar,75,,,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,75.0,CC
+2024,26384,2m,HV,Hábitos de vida saludable,66,,,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,66.0,HV
+2024,26384,2m,PF,Participación y formación ciudadana,78,,,1,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,78.0,PF
+2024,31030,2m,AM,Autoestima académica y motivación escolar,73,,,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,73.0,AM
+2024,31030,2m,CC,Clima de convivencia escolar,69,,,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,69.0,CC
+2024,31030,2m,HV,Hábitos de vida saludable,68,,,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,68.0,HV
+2024,31030,2m,PF,Participación y formación ciudadana,74,,,2,preliminar20240422v1,20250422,IDPS 2do medio 2024.rar,2M/Archivos CSV (Planos)/idps2M2024_rbd_preliminar.csv,74.0,PF
+2024,9499,4b,AM,Autoestima académica y motivación escolar,,,,,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,,AM
+2024,9499,4b,CC,Clima de convivencia escolar,,,,,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,,CC
+2024,9499,4b,HV,Hábitos de vida saludable,,,,,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,,HV
+2024,9499,4b,PF,Participación y formación ciudadana,,,,,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,,PF
+2024,9699,4b,AM,Autoestima académica y motivación escolar,70,-4,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,AM
+2024,9699,4b,CC,Clima de convivencia escolar,69,-9,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,69.0,CC
+2024,9699,4b,HV,Hábitos de vida saludable,66,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,66.0,HV
+2024,9699,4b,PF,Participación y formación ciudadana,72,-4,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,PF
+2024,9700,4b,AM,Autoestima académica y motivación escolar,71,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,AM
+2024,9700,4b,CC,Clima de convivencia escolar,74,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,CC
+2024,9700,4b,HV,Hábitos de vida saludable,70,6,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,HV
+2024,9700,4b,PF,Participación y formación ciudadana,79,5,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,PF
+2024,9701,4b,AM,Autoestima académica y motivación escolar,75,12,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,AM
+2024,9701,4b,CC,Clima de convivencia escolar,73,5,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,CC
+2024,9701,4b,HV,Hábitos de vida saludable,63,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,63.0,HV
+2024,9701,4b,PF,Participación y formación ciudadana,74,8,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,PF
+2024,9703,4b,AM,Autoestima académica y motivación escolar,82,4,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,82.0,AM
+2024,9703,4b,CC,Clima de convivencia escolar,79,-3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,CC
+2024,9703,4b,HV,Hábitos de vida saludable,75,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,HV
+2024,9703,4b,PF,Participación y formación ciudadana,84,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,84.0,PF
+2024,9706,4b,AM,Autoestima académica y motivación escolar,80,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,80.0,AM
+2024,9706,4b,CC,Clima de convivencia escolar,79,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,CC
+2024,9706,4b,HV,Hábitos de vida saludable,74,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,HV
+2024,9706,4b,PF,Participación y formación ciudadana,82,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,82.0,PF
+2024,9722,4b,AM,Autoestima académica y motivación escolar,73,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,AM
+2024,9722,4b,CC,Clima de convivencia escolar,64,-3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,CC
+2024,9722,4b,HV,Hábitos de vida saludable,64,-3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,HV
+2024,9722,4b,PF,Participación y formación ciudadana,68,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,PF
+2024,9730,4b,AM,Autoestima académica y motivación escolar,63,-4,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,63.0,AM
+2024,9730,4b,CC,Clima de convivencia escolar,60,-8,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,60.0,CC
+2024,9730,4b,HV,Hábitos de vida saludable,64,-1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,HV
+2024,9730,4b,PF,Participación y formación ciudadana,62,-6,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,62.0,PF
+2024,9757,4b,AM,Autoestima académica y motivación escolar,68,-11,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,AM
+2024,9757,4b,CC,Clima de convivencia escolar,64,-11,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,CC
+2024,9757,4b,HV,Hábitos de vida saludable,63,-9,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,63.0,HV
+2024,9757,4b,PF,Participación y formación ciudadana,67,-10,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,67.0,PF
+2024,9758,4b,AM,Autoestima académica y motivación escolar,75,0,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,AM
+2024,9758,4b,CC,Clima de convivencia escolar,76,4,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,CC
+2024,9758,4b,HV,Hábitos de vida saludable,73,3,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,HV
+2024,9758,4b,PF,Participación y formación ciudadana,78,4,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,PF
+2024,9759,4b,AM,Autoestima académica y motivación escolar,69,5,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,69.0,AM
+2024,9759,4b,CC,Clima de convivencia escolar,67,1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,67.0,CC
+2024,9759,4b,HV,Hábitos de vida saludable,68,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,HV
+2024,9759,4b,PF,Participación y formación ciudadana,72,4,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,PF
+2024,9766,4b,AM,Autoestima académica y motivación escolar,72,1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,AM
+2024,9766,4b,CC,Clima de convivencia escolar,76,4,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,CC
+2024,9766,4b,HV,Hábitos de vida saludable,71,6,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,HV
+2024,9766,4b,PF,Participación y formación ciudadana,78,6,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,PF
+2024,9767,4b,AM,Autoestima académica y motivación escolar,66,-1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,66.0,AM
+2024,9767,4b,CC,Clima de convivencia escolar,67,-6,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,67.0,CC
+2024,9767,4b,HV,Hábitos de vida saludable,62,-3,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,62.0,HV
+2024,9767,4b,PF,Participación y formación ciudadana,68,-8,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,PF
+2024,9771,4b,AM,Autoestima académica y motivación escolar,73,-3,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,AM
+2024,9771,4b,CC,Clima de convivencia escolar,75,0,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,CC
+2024,9771,4b,HV,Hábitos de vida saludable,71,1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,HV
+2024,9771,4b,PF,Participación y formación ciudadana,79,1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,PF
+2024,9786,4b,AM,Autoestima académica y motivación escolar,81,6,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,81.0,AM
+2024,9786,4b,CC,Clima de convivencia escolar,77,4,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,77.0,CC
+2024,9786,4b,HV,Hábitos de vida saludable,77,6,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,77.0,HV
+2024,9786,4b,PF,Participación y formación ciudadana,83,8,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,83.0,PF
+2024,9788,4b,AM,Autoestima académica y motivación escolar,72,-6,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,AM
+2024,9788,4b,CC,Clima de convivencia escolar,78,-3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,CC
+2024,9788,4b,HV,Hábitos de vida saludable,67,-6,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,67.0,HV
+2024,9788,4b,PF,Participación y formación ciudadana,75,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,PF
+2024,9789,4b,AM,Autoestima académica y motivación escolar,74,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,AM
+2024,9789,4b,CC,Clima de convivencia escolar,82,4,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,82.0,CC
+2024,9789,4b,HV,Hábitos de vida saludable,74,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,HV
+2024,9789,4b,PF,Participación y formación ciudadana,79,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,PF
+2024,9797,4b,AM,Autoestima académica y motivación escolar,84,5,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,84.0,AM
+2024,9797,4b,CC,Clima de convivencia escolar,84,3,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,84.0,CC
+2024,9797,4b,HV,Hábitos de vida saludable,78,3,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,HV
+2024,9797,4b,PF,Participación y formación ciudadana,88,7,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,88.0,PF
+2024,9801,4b,AM,Autoestima académica y motivación escolar,70,-4,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,AM
+2024,9801,4b,CC,Clima de convivencia escolar,71,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,CC
+2024,9801,4b,HV,Hábitos de vida saludable,65,-1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,65.0,HV
+2024,9801,4b,PF,Participación y formación ciudadana,77,5,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,77.0,PF
+2024,9804,4b,AM,Autoestima académica y motivación escolar,68,-7,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,AM
+2024,9804,4b,CC,Clima de convivencia escolar,64,-6,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,CC
+2024,9804,4b,HV,Hábitos de vida saludable,70,4,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,HV
+2024,9804,4b,PF,Participación y formación ciudadana,64,-9,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,PF
+2024,9807,4b,AM,Autoestima académica y motivación escolar,71,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,AM
+2024,9807,4b,CC,Clima de convivencia escolar,79,-4,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,CC
+2024,9807,4b,HV,Hábitos de vida saludable,70,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,HV
+2024,9807,4b,PF,Participación y formación ciudadana,76,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,PF
+2024,9808,4b,AM,Autoestima académica y motivación escolar,69,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,69.0,AM
+2024,9808,4b,CC,Clima de convivencia escolar,,,,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,,CC
+2024,9808,4b,HV,Hábitos de vida saludable,62,-4,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,62.0,HV
+2024,9808,4b,PF,Participación y formación ciudadana,71,-3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,PF
+2024,9809,4b,AM,Autoestima académica y motivación escolar,66,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,66.0,AM
+2024,9809,4b,CC,Clima de convivencia escolar,73,-1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,CC
+2024,9809,4b,HV,Hábitos de vida saludable,72,3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,HV
+2024,9809,4b,PF,Participación y formación ciudadana,73,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,PF
+2024,9811,4b,AM,Autoestima académica y motivación escolar,74,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,AM
+2024,9811,4b,CC,Clima de convivencia escolar,78,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,CC
+2024,9811,4b,HV,Hábitos de vida saludable,74,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,HV
+2024,9811,4b,PF,Participación y formación ciudadana,80,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,80.0,PF
+2024,9827,4b,AM,Autoestima académica y motivación escolar,63,-9,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,63.0,AM
+2024,9827,4b,CC,Clima de convivencia escolar,64,-8,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,CC
+2024,9827,4b,HV,Hábitos de vida saludable,64,-5,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,64.0,HV
+2024,9827,4b,PF,Participación y formación ciudadana,66,-11,-1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,66.0,PF
+2024,9859,4b,AM,Autoestima académica y motivación escolar,68,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,AM
+2024,9859,4b,CC,Clima de convivencia escolar,73,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,CC
+2024,9859,4b,HV,Hábitos de vida saludable,72,3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,HV
+2024,9859,4b,PF,Participación y formación ciudadana,74,4,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,PF
+2024,11914,4b,AM,Autoestima académica y motivación escolar,84,8,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,84.0,AM
+2024,11914,4b,CC,Clima de convivencia escolar,82,8,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,82.0,CC
+2024,11914,4b,HV,Hábitos de vida saludable,79,7,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,79.0,HV
+2024,11914,4b,PF,Participación y formación ciudadana,88,8,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,88.0,PF
+2024,11997,4b,AM,Autoestima académica y motivación escolar,66,-2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,66.0,AM
+2024,11997,4b,CC,Clima de convivencia escolar,71,5,1,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,CC
+2024,11997,4b,HV,Hábitos de vida saludable,69,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,69.0,HV
+2024,11997,4b,PF,Participación y formación ciudadana,74,3,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,PF
+2024,25017,4b,AM,Autoestima académica y motivación escolar,72,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,AM
+2024,25017,4b,CC,Clima de convivencia escolar,72,-8,-1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,CC
+2024,25017,4b,HV,Hábitos de vida saludable,72,4,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,72.0,HV
+2024,25017,4b,PF,Participación y formación ciudadana,75,-1,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,75.0,PF
+2024,25265,4b,AM,Autoestima académica y motivación escolar,70,1,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,AM
+2024,25265,4b,CC,Clima de convivencia escolar,74,2,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,74.0,CC
+2024,25265,4b,HV,Hábitos de vida saludable,68,0,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,68.0,HV
+2024,25265,4b,PF,Participación y formación ciudadana,76,4,0,3,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,PF
+2024,25480,4b,AM,Autoestima académica y motivación escolar,73,8,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,73.0,AM
+2024,25480,4b,CC,Clima de convivencia escolar,80,8,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,80.0,CC
+2024,25480,4b,HV,Hábitos de vida saludable,71,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,HV
+2024,25480,4b,PF,Participación y formación ciudadana,78,7,1,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,78.0,PF
+2024,25727,4b,AM,Autoestima académica y motivación escolar,71,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,AM
+2024,25727,4b,CC,Clima de convivencia escolar,71,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,CC
+2024,25727,4b,HV,Hábitos de vida saludable,70,0,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,70.0,HV
+2024,25727,4b,PF,Participación y formación ciudadana,76,2,0,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,PF
+2024,26278,4b,AM,Autoestima académica y motivación escolar,71,,,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,71.0,AM
+2024,26278,4b,CC,Clima de convivencia escolar,76,,,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,76.0,CC
+2024,26278,4b,HV,Hábitos de vida saludable,57,,,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,57.0,HV
+2024,26278,4b,PF,Participación y formación ciudadana,77,,,4,final20250625v1,20250625,IDPS 4to basico 2024.rar,4B/Archivos CSV (Planos)/idps4B2024_rbd_final.csv,77.0,PF
+2024,9499,6b,AM,Autoestima académica y motivación escolar,,,,,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,,AM
+2024,9499,6b,CC,Clima de convivencia escolar,,,,,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,,CC
+2024,9499,6b,HV,Hábitos de vida saludable,,,,,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,,HV
+2024,9499,6b,PF,Participación y formación ciudadana,,,,,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,,PF
+2024,9699,6b,AM,Autoestima académica y motivación escolar,72,-10,-1,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,AM
+2024,9699,6b,CC,Clima de convivencia escolar,74,-5,-1,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,CC
+2024,9699,6b,HV,Hábitos de vida saludable,68,-7,-1,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9699,6b,PF,Participación y formación ciudadana,77,-12,-1,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,9700,6b,AM,Autoestima académica y motivación escolar,79,8,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,AM
+2024,9700,6b,CC,Clima de convivencia escolar,75,1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,CC
+2024,9700,6b,HV,Hábitos de vida saludable,72,3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,HV
+2024,9700,6b,PF,Participación y formación ciudadana,80,3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,80.0,PF
+2024,9701,6b,AM,Autoestima académica y motivación escolar,72,5,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,AM
+2024,9701,6b,CC,Clima de convivencia escolar,73,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,CC
+2024,9701,6b,HV,Hábitos de vida saludable,69,8,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,69.0,HV
+2024,9701,6b,PF,Participación y formación ciudadana,74,3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,PF
+2024,9703,6b,AM,Autoestima académica y motivación escolar,78,9,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,AM
+2024,9703,6b,CC,Clima de convivencia escolar,79,8,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,CC
+2024,9703,6b,HV,Hábitos de vida saludable,74,2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,HV
+2024,9703,6b,PF,Participación y formación ciudadana,82,8,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,82.0,PF
+2024,9706,6b,AM,Autoestima académica y motivación escolar,74,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,AM
+2024,9706,6b,CC,Clima de convivencia escolar,78,4,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,CC
+2024,9706,6b,HV,Hábitos de vida saludable,70,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,HV
+2024,9706,6b,PF,Participación y formación ciudadana,77,0,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,9722,6b,AM,Autoestima académica y motivación escolar,75,,,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,9722,6b,CC,Clima de convivencia escolar,74,,,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,CC
+2024,9722,6b,HV,Hábitos de vida saludable,68,,,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9722,6b,PF,Participación y formación ciudadana,77,,,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,9730,6b,AM,Autoestima académica y motivación escolar,73,11,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,AM
+2024,9730,6b,CC,Clima de convivencia escolar,71,2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,CC
+2024,9730,6b,HV,Hábitos de vida saludable,68,-1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9730,6b,PF,Participación y formación ciudadana,78,7,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,PF
+2024,9757,6b,AM,Autoestima académica y motivación escolar,65,-8,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,65.0,AM
+2024,9757,6b,CC,Clima de convivencia escolar,66,-8,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,CC
+2024,9757,6b,HV,Hábitos de vida saludable,64,-1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,64.0,HV
+2024,9757,6b,PF,Participación y formación ciudadana,66,-10,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,PF
+2024,9758,6b,AM,Autoestima académica y motivación escolar,71,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,AM
+2024,9758,6b,CC,Clima de convivencia escolar,76,2,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,CC
+2024,9758,6b,HV,Hábitos de vida saludable,70,7,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,HV
+2024,9758,6b,PF,Participación y formación ciudadana,77,1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,9759,6b,AM,Autoestima académica y motivación escolar,66,-5,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,AM
+2024,9759,6b,CC,Clima de convivencia escolar,66,-5,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,CC
+2024,9759,6b,HV,Hábitos de vida saludable,66,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,HV
+2024,9759,6b,PF,Participación y formación ciudadana,68,-4,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,PF
+2024,9766,6b,AM,Autoestima académica y motivación escolar,75,3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,9766,6b,CC,Clima de convivencia escolar,80,3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,80.0,CC
+2024,9766,6b,HV,Hábitos de vida saludable,72,4,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,HV
+2024,9766,6b,PF,Participación y formación ciudadana,80,4,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,80.0,PF
+2024,9767,6b,AM,Autoestima académica y motivación escolar,69,-2,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,69.0,AM
+2024,9767,6b,CC,Clima de convivencia escolar,66,-10,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,CC
+2024,9767,6b,HV,Hábitos de vida saludable,64,-3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,64.0,HV
+2024,9767,6b,PF,Participación y formación ciudadana,72,-3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,PF
+2024,9771,6b,AM,Autoestima académica y motivación escolar,78,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,AM
+2024,9771,6b,CC,Clima de convivencia escolar,76,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,CC
+2024,9771,6b,HV,Hábitos de vida saludable,68,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9771,6b,PF,Participación y formación ciudadana,78,-1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,PF
+2024,9786,6b,AM,Autoestima académica y motivación escolar,74,6,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,AM
+2024,9786,6b,CC,Clima de convivencia escolar,72,11,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,CC
+2024,9786,6b,HV,Hábitos de vida saludable,68,5,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9786,6b,PF,Participación y formación ciudadana,75,13,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,PF
+2024,9788,6b,AM,Autoestima académica y motivación escolar,71,-5,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,AM
+2024,9788,6b,CC,Clima de convivencia escolar,72,-9,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,CC
+2024,9788,6b,HV,Hábitos de vida saludable,70,0,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,HV
+2024,9788,6b,PF,Participación y formación ciudadana,72,-7,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,PF
+2024,9789,6b,AM,Autoestima académica y motivación escolar,79,10,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,AM
+2024,9789,6b,CC,Clima de convivencia escolar,82,4,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,82.0,CC
+2024,9789,6b,HV,Hábitos de vida saludable,71,9,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,HV
+2024,9789,6b,PF,Participación y formación ciudadana,83,11,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,83.0,PF
+2024,9797,6b,AM,Autoestima académica y motivación escolar,83,6,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,83.0,AM
+2024,9797,6b,CC,Clima de convivencia escolar,83,5,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,83.0,CC
+2024,9797,6b,HV,Hábitos de vida saludable,77,3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,HV
+2024,9797,6b,PF,Participación y formación ciudadana,84,8,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,84.0,PF
+2024,9801,6b,AM,Autoestima académica y motivación escolar,75,,,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,9801,6b,CC,Clima de convivencia escolar,75,,,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,CC
+2024,9801,6b,HV,Hábitos de vida saludable,73,,,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,HV
+2024,9801,6b,PF,Participación y formación ciudadana,81,,,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,81.0,PF
+2024,9804,6b,AM,Autoestima académica y motivación escolar,78,-3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,AM
+2024,9804,6b,CC,Clima de convivencia escolar,77,-2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,CC
+2024,9804,6b,HV,Hábitos de vida saludable,75,-4,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,HV
+2024,9804,6b,PF,Participación y formación ciudadana,85,6,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,85.0,PF
+2024,9807,6b,AM,Autoestima académica y motivación escolar,76,10,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,AM
+2024,9807,6b,CC,Clima de convivencia escolar,79,14,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,CC
+2024,9807,6b,HV,Hábitos de vida saludable,68,2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9807,6b,PF,Participación y formación ciudadana,77,7,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,9808,6b,AM,Autoestima académica y motivación escolar,72,9,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,AM
+2024,9808,6b,CC,Clima de convivencia escolar,70,3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,CC
+2024,9808,6b,HV,Hábitos de vida saludable,68,11,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,9808,6b,PF,Participación y formación ciudadana,73,8,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,PF
+2024,9809,6b,AM,Autoestima académica y motivación escolar,74,-1,0,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,74.0,AM
+2024,9809,6b,CC,Clima de convivencia escolar,76,-4,-1,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,CC
+2024,9809,6b,HV,Hábitos de vida saludable,70,1,0,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,HV
+2024,9809,6b,PF,Participación y formación ciudadana,79,-3,0,2,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,PF
+2024,9811,6b,AM,Autoestima académica y motivación escolar,77,3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,AM
+2024,9811,6b,CC,Clima de convivencia escolar,83,5,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,83.0,CC
+2024,9811,6b,HV,Hábitos de vida saludable,75,0,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,HV
+2024,9811,6b,PF,Participación y formación ciudadana,83,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,83.0,PF
+2024,9827,6b,AM,Autoestima académica y motivación escolar,64,-6,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,64.0,AM
+2024,9827,6b,CC,Clima de convivencia escolar,66,-11,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,CC
+2024,9827,6b,HV,Hábitos de vida saludable,57,-4,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,57.0,HV
+2024,9827,6b,PF,Participación y formación ciudadana,62,-9,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,62.0,PF
+2024,9859,6b,AM,Autoestima académica y motivación escolar,73,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,AM
+2024,9859,6b,CC,Clima de convivencia escolar,77,-4,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,CC
+2024,9859,6b,HV,Hábitos de vida saludable,73,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,HV
+2024,9859,6b,PF,Participación y formación ciudadana,80,3,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,80.0,PF
+2024,11914,6b,AM,Autoestima académica y motivación escolar,75,-2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,11914,6b,CC,Clima de convivencia escolar,,,,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,,CC
+2024,11914,6b,HV,Hábitos de vida saludable,68,-7,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,68.0,HV
+2024,11914,6b,PF,Participación y formación ciudadana,82,-1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,82.0,PF
+2024,11997,6b,AM,Autoestima académica y motivación escolar,69,-3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,69.0,AM
+2024,11997,6b,CC,Clima de convivencia escolar,69,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,69.0,CC
+2024,11997,6b,HV,Hábitos de vida saludable,67,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,67.0,HV
+2024,11997,6b,PF,Participación y formación ciudadana,75,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,PF
+2024,25017,6b,AM,Autoestima académica y motivación escolar,75,2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,25017,6b,CC,Clima de convivencia escolar,78,-3,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,78.0,CC
+2024,25017,6b,HV,Hábitos de vida saludable,71,2,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,HV
+2024,25017,6b,PF,Participación y formación ciudadana,80,6,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,80.0,PF
+2024,25265,6b,AM,Autoestima académica y motivación escolar,70,-9,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,AM
+2024,25265,6b,CC,Clima de convivencia escolar,72,-7,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,72.0,CC
+2024,25265,6b,HV,Hábitos de vida saludable,67,-8,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,67.0,HV
+2024,25265,6b,PF,Participación y formación ciudadana,73,-11,-1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,73.0,PF
+2024,25480,6b,AM,Autoestima académica y motivación escolar,75,2,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,AM
+2024,25480,6b,CC,Clima de convivencia escolar,75,0,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,75.0,CC
+2024,25480,6b,HV,Hábitos de vida saludable,66,-7,-1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,66.0,HV
+2024,25480,6b,PF,Participación y formación ciudadana,77,1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,77.0,PF
+2024,25727,6b,AM,Autoestima académica y motivación escolar,70,1,0,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,70.0,AM
+2024,25727,6b,CC,Clima de convivencia escolar,71,5,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,CC
+2024,25727,6b,HV,Hábitos de vida saludable,67,6,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,67.0,HV
+2024,25727,6b,PF,Participación y formación ciudadana,76,8,1,4,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,PF
+2024,26278,6b,AM,Autoestima académica y motivación escolar,71,1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,AM
+2024,26278,6b,CC,Clima de convivencia escolar,76,-1,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,76.0,CC
+2024,26278,6b,HV,Hábitos de vida saludable,71,12,1,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,71.0,HV
+2024,26278,6b,PF,Participación y formación ciudadana,79,0,0,3,preliminar20240422v1,20250422,IDPS 6to basico 2024.rar,6B/Archivos CSV (Planos)/idps6B2024_rbd_final.csv,79.0,PF
+2025,9693,2m,1,Autoestima académica y motivación escolar,69,0,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,69.0,AM
+2025,9693,2m,2,Clima de convivencia escolar,72,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,72.0,CC
+2025,9693,2m,3,Participación y formación ciudadana,71,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,71.0,PF
+2025,9693,2m,4,Hábitos de vida saludable,62,-1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,62.0,HV
+2025,9701,2m,1,Autoestima académica y motivación escolar,70,-4,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,70.0,AM
+2025,9701,2m,2,Clima de convivencia escolar,66,-10,-1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,66.0,CC
+2025,9701,2m,3,Participación y formación ciudadana,68,-10,-1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,68.0,PF
+2025,9701,2m,4,Hábitos de vida saludable,65,-6,-1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,65.0,HV
+2025,9722,2m,1,Autoestima académica y motivación escolar,80,3,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,80.0,AM
+2025,9722,2m,2,Clima de convivencia escolar,78,8,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,CC
+2025,9722,2m,3,Participación y formación ciudadana,82,5,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,82.0,PF
+2025,9722,2m,4,Hábitos de vida saludable,74,3,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,74.0,HV
+2025,9754,2m,1,Autoestima académica y motivación escolar,75,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,AM
+2025,9754,2m,2,Clima de convivencia escolar,73,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,CC
+2025,9754,2m,3,Participación y formación ciudadana,77,4,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,PF
+2025,9754,2m,4,Hábitos de vida saludable,67,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,67.0,HV
+2025,9757,2m,1,Autoestima académica y motivación escolar,76,9,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,AM
+2025,9757,2m,2,Clima de convivencia escolar,74,6,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,74.0,CC
+2025,9757,2m,3,Participación y formación ciudadana,77,9,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,PF
+2025,9757,2m,4,Hábitos de vida saludable,76,15,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,HV
+2025,9758,2m,1,Autoestima académica y motivación escolar,73,4,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,AM
+2025,9758,2m,2,Clima de convivencia escolar,78,6,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,CC
+2025,9758,2m,3,Participación y formación ciudadana,79,6,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,79.0,PF
+2025,9758,2m,4,Hábitos de vida saludable,72,3,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,72.0,HV
+2025,9759,2m,1,Autoestima académica y motivación escolar,62,-4,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,62.0,AM
+2025,9759,2m,2,Clima de convivencia escolar,69,0,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,69.0,CC
+2025,9759,2m,3,Participación y formación ciudadana,65,-4,-1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,65.0,PF
+2025,9759,2m,4,Hábitos de vida saludable,63,0,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,63.0,HV
+2025,9766,2m,1,Autoestima académica y motivación escolar,71,-2,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,71.0,AM
+2025,9766,2m,2,Clima de convivencia escolar,69,-9,-1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,69.0,CC
+2025,9766,2m,3,Participación y formación ciudadana,76,-4,-1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,PF
+2025,9766,2m,4,Hábitos de vida saludable,66,-9,-1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,66.0,HV
+2025,9767,2m,1,Autoestima académica y motivación escolar,73,3,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,AM
+2025,9767,2m,2,Clima de convivencia escolar,76,5,1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,CC
+2025,9767,2m,3,Participación y formación ciudadana,79,5,1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,79.0,PF
+2025,9767,2m,4,Hábitos de vida saludable,65,0,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,65.0,HV
+2025,9771,2m,1,Autoestima académica y motivación escolar,75,5,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,AM
+2025,9771,2m,2,Clima de convivencia escolar,80,6,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,80.0,CC
+2025,9771,2m,3,Participación y formación ciudadana,78,5,1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,PF
+2025,9771,2m,4,Hábitos de vida saludable,64,-3,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,64.0,HV
+2025,9779,2m,1,Autoestima académica y motivación escolar,78,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,AM
+2025,9779,2m,2,Clima de convivencia escolar,80,-1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,80.0,CC
+2025,9779,2m,3,Participación y formación ciudadana,82,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,82.0,PF
+2025,9779,2m,4,Hábitos de vida saludable,75,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,HV
+2025,9781,2m,1,Autoestima académica y motivación escolar,72,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,72.0,AM
+2025,9781,2m,2,Clima de convivencia escolar,75,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,CC
+2025,9781,2m,3,Participación y formación ciudadana,75,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,PF
+2025,9781,2m,4,Hábitos de vida saludable,70,4,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,70.0,HV
+2025,9784,2m,1,Autoestima académica y motivación escolar,68,0,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,68.0,AM
+2025,9784,2m,2,Clima de convivencia escolar,63,-7,-1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,63.0,CC
+2025,9784,2m,3,Participación y formación ciudadana,65,-8,-1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,65.0,PF
+2025,9784,2m,4,Hábitos de vida saludable,60,-8,-1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,60.0,HV
+2025,9797,2m,1,Autoestima académica y motivación escolar,78,-6,-1,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,AM
+2025,9797,2m,2,Clima de convivencia escolar,81,-1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,81.0,CC
+2025,9797,2m,3,Participación y formación ciudadana,84,0,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,84.0,PF
+2025,9797,2m,4,Hábitos de vida saludable,81,0,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,81.0,HV
+2025,9801,2m,1,Autoestima académica y motivación escolar,75,-1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,AM
+2025,9801,2m,2,Clima de convivencia escolar,77,-1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,CC
+2025,9801,2m,3,Participación y formación ciudadana,78,1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,PF
+2025,9801,2m,4,Hábitos de vida saludable,73,3,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,HV
+2025,9827,2m,1,Autoestima académica y motivación escolar,73,4,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,AM
+2025,9827,2m,2,Clima de convivencia escolar,75,5,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,CC
+2025,9827,2m,3,Participación y formación ciudadana,77,6,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,PF
+2025,9827,2m,4,Hábitos de vida saludable,71,7,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,71.0,HV
+2025,9829,2m,1,Autoestima académica y motivación escolar,88,3,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,88.0,AM
+2025,9829,2m,2,Clima de convivencia escolar,84,0,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,84.0,CC
+2025,9829,2m,3,Participación y formación ciudadana,90,2,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,90.0,PF
+2025,9829,2m,4,Hábitos de vida saludable,83,4,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,83.0,HV
+2025,11918,2m,1,Autoestima académica y motivación escolar,79,-1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,79.0,AM
+2025,11918,2m,2,Clima de convivencia escolar,81,2,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,81.0,CC
+2025,11918,2m,3,Participación y formación ciudadana,86,1,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,86.0,PF
+2025,11918,2m,4,Hábitos de vida saludable,76,0,0,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,HV
+2025,25265,2m,1,Autoestima académica y motivación escolar,75,-1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,AM
+2025,25265,2m,2,Clima de convivencia escolar,79,2,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,79.0,CC
+2025,25265,2m,3,Participación y formación ciudadana,78,-1,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,PF
+2025,25265,2m,4,Hábitos de vida saludable,71,4,0,3,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,71.0,HV
+2025,25480,2m,1,Autoestima académica y motivación escolar,70,-5,-1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,70.0,AM
+2025,25480,2m,2,Clima de convivencia escolar,76,5,1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,CC
+2025,25480,2m,3,Participación y formación ciudadana,77,1,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,PF
+2025,25480,2m,4,Hábitos de vida saludable,61,-9,-1,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,61.0,HV
+2025,25727,2m,1,Autoestima académica y motivación escolar,74,-1,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,74.0,AM
+2025,25727,2m,2,Clima de convivencia escolar,76,1,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,CC
+2025,25727,2m,3,Participación y formación ciudadana,77,-2,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,77.0,PF
+2025,25727,2m,4,Hábitos de vida saludable,69,2,0,4,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,69.0,HV
+2025,25995,2m,1,Autoestima académica y motivación escolar,75,-3,0,1,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,AM
+2025,25995,2m,2,Clima de convivencia escolar,75,-3,0,1,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,75.0,CC
+2025,25995,2m,3,Participación y formación ciudadana,78,-3,0,1,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,78.0,PF
+2025,25995,2m,4,Hábitos de vida saludable,74,-4,0,1,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,74.0,HV
+2025,26384,2m,1,Autoestima académica y motivación escolar,79,5,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,79.0,AM
+2025,26384,2m,2,Clima de convivencia escolar,80,5,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,80.0,CC
+2025,26384,2m,3,Participación y formación ciudadana,83,5,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,83.0,PF
+2025,26384,2m,4,Hábitos de vida saludable,80,14,1,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,80.0,HV
+2025,31030,2m,1,Autoestima académica y motivación escolar,73,,,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,AM
+2025,31030,2m,2,Clima de convivencia escolar,73,,,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,73.0,CC
+2025,31030,2m,3,Participación y formación ciudadana,76,,,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,76.0,PF
+2025,31030,2m,4,Hábitos de vida saludable,70,,,2,v22025,20260630,IDPS 2do medio 2025.rar,2M/Archivos CSV (Planos)/idps2M2025_rbd_final.csv,70.0,HV
+2025,9699,4b,1,Autoestima académica y motivación escolar,67,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,AM
+2025,9699,4b,2,Clima de convivencia escolar,73,4,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,CC
+2025,9699,4b,3,Participación y formación ciudadana,73,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,PF
+2025,9699,4b,4,Hábitos de vida saludable,69,3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,HV
+2025,9700,4b,1,Autoestima académica y motivación escolar,73,2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,AM
+2025,9700,4b,2,Clima de convivencia escolar,72,-2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,CC
+2025,9700,4b,3,Participación y formación ciudadana,77,-2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,PF
+2025,9700,4b,4,Hábitos de vida saludable,67,-3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,HV
+2025,9701,4b,1,Autoestima académica y motivación escolar,67,,,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,AM
+2025,9701,4b,2,Clima de convivencia escolar,70,,,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,CC
+2025,9701,4b,3,Participación y formación ciudadana,70,,,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,PF
+2025,9701,4b,4,Hábitos de vida saludable,70,,,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,HV
+2025,9703,4b,1,Autoestima académica y motivación escolar,82,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,82.0,AM
+2025,9703,4b,2,Clima de convivencia escolar,80,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,80.0,CC
+2025,9703,4b,3,Participación y formación ciudadana,88,4,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,88.0,PF
+2025,9703,4b,4,Hábitos de vida saludable,74,-1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,HV
+2025,9706,4b,1,Autoestima académica y motivación escolar,78,-2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,AM
+2025,9706,4b,2,Clima de convivencia escolar,77,-2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,CC
+2025,9706,4b,3,Participación y formación ciudadana,84,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,84.0,PF
+2025,9706,4b,4,Hábitos de vida saludable,75,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,HV
+2025,9722,4b,1,Autoestima académica y motivación escolar,73,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,AM
+2025,9722,4b,2,Clima de convivencia escolar,71,7,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,CC
+2025,9722,4b,3,Participación y formación ciudadana,73,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,PF
+2025,9722,4b,4,Hábitos de vida saludable,69,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,HV
+2025,9730,4b,1,Autoestima académica y motivación escolar,69,6,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,AM
+2025,9730,4b,2,Clima de convivencia escolar,65,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,65.0,CC
+2025,9730,4b,3,Participación y formación ciudadana,71,9,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,PF
+2025,9730,4b,4,Hábitos de vida saludable,61,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,61.0,HV
+2025,9757,4b,1,Autoestima académica y motivación escolar,76,8,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,AM
+2025,9757,4b,2,Clima de convivencia escolar,74,10,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,9757,4b,3,Participación y formación ciudadana,76,9,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,PF
+2025,9757,4b,4,Hábitos de vida saludable,70,7,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,HV
+2025,9758,4b,1,Autoestima académica y motivación escolar,67,-8,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,AM
+2025,9758,4b,2,Clima de convivencia escolar,69,-7,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,CC
+2025,9758,4b,3,Participación y formación ciudadana,72,-6,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,PF
+2025,9758,4b,4,Hábitos de vida saludable,65,-8,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,65.0,HV
+2025,9759,4b,1,Autoestima académica y motivación escolar,72,3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,AM
+2025,9759,4b,2,Clima de convivencia escolar,74,7,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,9759,4b,3,Participación y formación ciudadana,75,3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,PF
+2025,9759,4b,4,Hábitos de vida saludable,72,4,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,HV
+2025,9766,4b,1,Autoestima académica y motivación escolar,69,-3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,AM
+2025,9766,4b,2,Clima de convivencia escolar,70,-6,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,CC
+2025,9766,4b,3,Participación y formación ciudadana,76,-2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,PF
+2025,9766,4b,4,Hábitos de vida saludable,71,0,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,HV
+2025,9767,4b,1,Autoestima académica y motivación escolar,71,5,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,AM
+2025,9767,4b,2,Clima de convivencia escolar,74,7,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,9767,4b,3,Participación y formación ciudadana,76,8,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,PF
+2025,9767,4b,4,Hábitos de vida saludable,66,4,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,66.0,HV
+2025,9771,4b,1,Autoestima académica y motivación escolar,70,-3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,70.0,AM
+2025,9771,4b,2,Clima de convivencia escolar,76,1,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,CC
+2025,9771,4b,3,Participación y formación ciudadana,73,-6,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,PF
+2025,9771,4b,4,Hábitos de vida saludable,67,-4,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,HV
+2025,9786,4b,1,Autoestima académica y motivación escolar,83,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,83.0,AM
+2025,9786,4b,2,Clima de convivencia escolar,79,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,79.0,CC
+2025,9786,4b,3,Participación y formación ciudadana,86,3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,86.0,PF
+2025,9786,4b,4,Hábitos de vida saludable,77,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,HV
+2025,9788,4b,1,Autoestima académica y motivación escolar,74,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,AM
+2025,9788,4b,2,Clima de convivencia escolar,79,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,79.0,CC
+2025,9788,4b,3,Participación y formación ciudadana,78,3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,PF
+2025,9788,4b,4,Hábitos de vida saludable,72,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,HV
+2025,9789,4b,1,Autoestima académica y motivación escolar,68,-6,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,68.0,AM
+2025,9789,4b,2,Clima de convivencia escolar,73,-9,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,CC
+2025,9789,4b,3,Participación y formación ciudadana,75,-4,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,PF
+2025,9789,4b,4,Hábitos de vida saludable,66,-8,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,66.0,HV
+2025,9797,4b,1,Autoestima académica y motivación escolar,74,-10,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,AM
+2025,9797,4b,2,Clima de convivencia escolar,75,-9,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,CC
+2025,9797,4b,3,Participación y formación ciudadana,78,-10,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,PF
+2025,9797,4b,4,Hábitos de vida saludable,71,-7,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,HV
+2025,9801,4b,1,Autoestima académica y motivación escolar,72,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,AM
+2025,9801,4b,2,Clima de convivencia escolar,72,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,CC
+2025,9801,4b,3,Participación y formación ciudadana,74,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,PF
+2025,9801,4b,4,Hábitos de vida saludable,71,6,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,HV
+2025,9804,4b,1,Autoestima académica y motivación escolar,74,6,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,AM
+2025,9804,4b,2,Clima de convivencia escolar,79,15,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,79.0,CC
+2025,9804,4b,3,Participación y formación ciudadana,79,15,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,79.0,PF
+2025,9804,4b,4,Hábitos de vida saludable,67,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,HV
+2025,9807,4b,1,Autoestima académica y motivación escolar,79,8,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,79.0,AM
+2025,9807,4b,2,Clima de convivencia escolar,77,-2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,CC
+2025,9807,4b,3,Participación y formación ciudadana,83,7,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,83.0,PF
+2025,9807,4b,4,Hábitos de vida saludable,76,6,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,HV
+2025,9808,4b,1,Autoestima académica y motivación escolar,69,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,AM
+2025,9808,4b,2,Clima de convivencia escolar,65,,,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,65.0,CC
+2025,9808,4b,3,Participación y formación ciudadana,69,-2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,PF
+2025,9808,4b,4,Hábitos de vida saludable,65,3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,65.0,HV
+2025,9809,4b,1,Autoestima académica y motivación escolar,71,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,AM
+2025,9809,4b,2,Clima de convivencia escolar,75,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,CC
+2025,9809,4b,3,Participación y formación ciudadana,73,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,PF
+2025,9809,4b,4,Hábitos de vida saludable,67,-5,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,67.0,HV
+2025,9811,4b,1,Autoestima académica y motivación escolar,75,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,AM
+2025,9811,4b,2,Clima de convivencia escolar,74,-4,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,9811,4b,3,Participación y formación ciudadana,76,-4,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,PF
+2025,9811,4b,4,Hábitos de vida saludable,71,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,HV
+2025,9827,4b,1,Autoestima académica y motivación escolar,73,10,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,73.0,AM
+2025,9827,4b,2,Clima de convivencia escolar,69,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,CC
+2025,9827,4b,3,Participación y formación ciudadana,75,9,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,PF
+2025,9827,4b,4,Hábitos de vida saludable,69,5,1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,HV
+2025,9859,4b,1,Autoestima académica y motivación escolar,72,4,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,AM
+2025,9859,4b,2,Clima de convivencia escolar,74,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,9859,4b,3,Participación y formación ciudadana,76,2,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,PF
+2025,9859,4b,4,Hábitos de vida saludable,72,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,HV
+2025,11914,4b,1,Autoestima académica y motivación escolar,77,-7,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,AM
+2025,11914,4b,2,Clima de convivencia escolar,77,-5,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,CC
+2025,11914,4b,3,Participación y formación ciudadana,82,-6,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,82.0,PF
+2025,11914,4b,4,Hábitos de vida saludable,72,-7,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,72.0,HV
+2025,11997,4b,1,Autoestima académica y motivación escolar,62,-4,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,62.0,AM
+2025,11997,4b,2,Clima de convivencia escolar,62,-9,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,62.0,CC
+2025,11997,4b,3,Participación y formación ciudadana,64,-10,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,64.0,PF
+2025,11997,4b,4,Hábitos de vida saludable,64,-5,-1,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,64.0,HV
+2025,25017,4b,1,Autoestima académica y motivación escolar,76,4,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,76.0,AM
+2025,25017,4b,2,Clima de convivencia escolar,82,10,1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,82.0,CC
+2025,25017,4b,3,Participación y formación ciudadana,78,3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,PF
+2025,25017,4b,4,Hábitos de vida saludable,66,-6,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,66.0,HV
+2025,25265,4b,1,Autoestima académica y motivación escolar,71,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,71.0,AM
+2025,25265,4b,2,Clima de convivencia escolar,74,0,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,CC
+2025,25265,4b,3,Participación y formación ciudadana,77,1,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,PF
+2025,25265,4b,4,Hábitos de vida saludable,65,-3,0,3,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,65.0,HV
+2025,25480,4b,1,Autoestima académica y motivación escolar,75,2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,75.0,AM
+2025,25480,4b,2,Clima de convivencia escolar,77,-3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,77.0,CC
+2025,25480,4b,3,Participación y formación ciudadana,78,0,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,PF
+2025,25480,4b,4,Hábitos de vida saludable,74,3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,HV
+2025,25727,4b,1,Autoestima académica y motivación escolar,69,-2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,69.0,AM
+2025,25727,4b,2,Clima de convivencia escolar,68,-3,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,68.0,CC
+2025,25727,4b,3,Participación y formación ciudadana,74,-2,0,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,PF
+2025,25727,4b,4,Hábitos de vida saludable,63,-7,-1,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,63.0,HV
+2025,26278,4b,1,Autoestima académica y motivación escolar,74,,,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,74.0,AM
+2025,26278,4b,2,Clima de convivencia escolar,80,,,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,80.0,CC
+2025,26278,4b,3,Participación y formación ciudadana,78,,,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,78.0,PF
+2025,26278,4b,4,Hábitos de vida saludable,66,,,4,v22025,20260630,IDPS 4to basico 2025.rar,4B/Archivos CSV (Planos)/idps4B2025_rbd_final.csv,66.0,HV
+2025,9699,8b,1,Autoestima académica y motivación escolar,67,-6,-1,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,67.0,AM
+2025,9699,8b,2,Clima de convivencia escolar,70,-3,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,CC
+2025,9699,8b,3,Participación y formación ciudadana,74,-4,-1,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,PF
+2025,9699,8b,4,Hábitos de vida saludable,72,3,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,HV
+2025,9700,8b,1,Autoestima académica y motivación escolar,73,-6,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,AM
+2025,9700,8b,2,Clima de convivencia escolar,76,-2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,CC
+2025,9700,8b,3,Participación y formación ciudadana,78,-2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,78.0,PF
+2025,9700,8b,4,Hábitos de vida saludable,71,1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,9701,8b,1,Autoestima académica y motivación escolar,69,-9,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,AM
+2025,9701,8b,2,Clima de convivencia escolar,71,-3,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,CC
+2025,9701,8b,3,Participación y formación ciudadana,70,-9,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,PF
+2025,9701,8b,4,Hábitos de vida saludable,70,-1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,HV
+2025,9703,8b,1,Autoestima académica y motivación escolar,89,20,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,89.0,AM
+2025,9703,8b,2,Clima de convivencia escolar,87,18,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,87.0,CC
+2025,9703,8b,3,Participación y formación ciudadana,91,14,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,91.0,PF
+2025,9703,8b,4,Hábitos de vida saludable,81,18,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,81.0,HV
+2025,9706,8b,1,Autoestima académica y motivación escolar,77,7,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,77.0,AM
+2025,9706,8b,2,Clima de convivencia escolar,78,7,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,78.0,CC
+2025,9706,8b,3,Participación y formación ciudadana,83,8,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,83.0,PF
+2025,9706,8b,4,Hábitos de vida saludable,77,15,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,77.0,HV
+2025,9722,8b,1,Autoestima académica y motivación escolar,69,,,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,AM
+2025,9722,8b,2,Clima de convivencia escolar,65,,,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,65.0,CC
+2025,9722,8b,3,Participación y formación ciudadana,69,,,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,PF
+2025,9722,8b,4,Hábitos de vida saludable,63,,,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,63.0,HV
+2025,9730,8b,1,Autoestima académica y motivación escolar,69,2,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,AM
+2025,9730,8b,2,Clima de convivencia escolar,72,1,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,CC
+2025,9730,8b,3,Participación y formación ciudadana,72,1,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,PF
+2025,9730,8b,4,Hábitos de vida saludable,59,-10,-1,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,59.0,HV
+2025,9757,8b,1,Autoestima académica y motivación escolar,66,-1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,AM
+2025,9757,8b,2,Clima de convivencia escolar,66,-3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,CC
+2025,9757,8b,3,Participación y formación ciudadana,67,-3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,67.0,PF
+2025,9757,8b,4,Hábitos de vida saludable,63,1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,63.0,HV
+2025,9758,8b,1,Autoestima académica y motivación escolar,72,1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,AM
+2025,9758,8b,2,Clima de convivencia escolar,73,-1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,CC
+2025,9758,8b,3,Participación y formación ciudadana,74,-2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,PF
+2025,9758,8b,4,Hábitos de vida saludable,68,1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,68.0,HV
+2025,9759,8b,1,Autoestima académica y motivación escolar,60,-10,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,60.0,AM
+2025,9759,8b,2,Clima de convivencia escolar,59,-13,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,59.0,CC
+2025,9759,8b,3,Participación y formación ciudadana,60,-11,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,60.0,PF
+2025,9759,8b,4,Hábitos de vida saludable,57,-8,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,57.0,HV
+2025,9766,8b,1,Autoestima académica y motivación escolar,71,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,AM
+2025,9766,8b,2,Clima de convivencia escolar,72,-3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,CC
+2025,9766,8b,3,Participación y formación ciudadana,76,2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,PF
+2025,9766,8b,4,Hábitos de vida saludable,69,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,HV
+2025,9767,8b,1,Autoestima académica y motivación escolar,67,-4,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,67.0,AM
+2025,9767,8b,2,Clima de convivencia escolar,71,2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,CC
+2025,9767,8b,3,Participación y formación ciudadana,71,-2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,PF
+2025,9767,8b,4,Hábitos de vida saludable,59,-7,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,59.0,HV
+2025,9771,8b,1,Autoestima académica y motivación escolar,79,5,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,79.0,AM
+2025,9771,8b,2,Clima de convivencia escolar,79,5,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,79.0,CC
+2025,9771,8b,3,Participación y formación ciudadana,83,8,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,83.0,PF
+2025,9771,8b,4,Hábitos de vida saludable,68,3,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,68.0,HV
+2025,9781,8b,1,Autoestima académica y motivación escolar,73,,,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,AM
+2025,9781,8b,2,Clima de convivencia escolar,71,,,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,CC
+2025,9781,8b,3,Participación y formación ciudadana,72,,,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,PF
+2025,9781,8b,4,Hábitos de vida saludable,71,,,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,9786,8b,1,Autoestima académica y motivación escolar,68,-9,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,68.0,AM
+2025,9786,8b,2,Clima de convivencia escolar,68,-11,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,68.0,CC
+2025,9786,8b,3,Participación y formación ciudadana,70,-14,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,PF
+2025,9786,8b,4,Hábitos de vida saludable,69,-4,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,HV
+2025,9788,8b,1,Autoestima académica y motivación escolar,68,-9,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,68.0,AM
+2025,9788,8b,2,Clima de convivencia escolar,73,-13,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,CC
+2025,9788,8b,3,Participación y formación ciudadana,69,-16,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,PF
+2025,9788,8b,4,Hábitos de vida saludable,71,-4,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,9789,8b,1,Autoestima académica y motivación escolar,72,2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,AM
+2025,9789,8b,2,Clima de convivencia escolar,75,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,CC
+2025,9789,8b,3,Participación y formación ciudadana,75,6,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,PF
+2025,9789,8b,4,Hábitos de vida saludable,62,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,62.0,HV
+2025,9797,8b,1,Autoestima académica y motivación escolar,80,4,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,80.0,AM
+2025,9797,8b,2,Clima de convivencia escolar,83,0,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,83.0,CC
+2025,9797,8b,3,Participación y formación ciudadana,86,7,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,86.0,PF
+2025,9797,8b,4,Hábitos de vida saludable,79,4,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,79.0,HV
+2025,9801,8b,1,Autoestima académica y motivación escolar,70,-1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,AM
+2025,9801,8b,2,Clima de convivencia escolar,69,-1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,CC
+2025,9801,8b,3,Participación y formación ciudadana,72,-1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,PF
+2025,9801,8b,4,Hábitos de vida saludable,66,2,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,HV
+2025,9808,8b,1,Autoestima académica y motivación escolar,73,4,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,AM
+2025,9808,8b,2,Clima de convivencia escolar,76,5,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,CC
+2025,9808,8b,3,Participación y formación ciudadana,80,6,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,80.0,PF
+2025,9808,8b,4,Hábitos de vida saludable,71,6,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,9809,8b,1,Autoestima académica y motivación escolar,78,1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,78.0,AM
+2025,9809,8b,2,Clima de convivencia escolar,,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,,CC
+2025,9809,8b,3,Participación y formación ciudadana,81,8,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,81.0,PF
+2025,9809,8b,4,Hábitos de vida saludable,72,1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,HV
+2025,9811,8b,1,Autoestima académica y motivación escolar,78,0,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,78.0,AM
+2025,9811,8b,2,Clima de convivencia escolar,79,-2,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,79.0,CC
+2025,9811,8b,3,Participación y formación ciudadana,82,-2,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,82.0,PF
+2025,9811,8b,4,Hábitos de vida saludable,75,1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,HV
+2025,9827,8b,1,Autoestima académica y motivación escolar,69,-6,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,AM
+2025,9827,8b,2,Clima de convivencia escolar,,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,,CC
+2025,9827,8b,3,Participación y formación ciudadana,73,-4,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,PF
+2025,9827,8b,4,Hábitos de vida saludable,66,-2,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,HV
+2025,9859,8b,1,Autoestima académica y motivación escolar,76,2,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,AM
+2025,9859,8b,2,Clima de convivencia escolar,80,-4,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,80.0,CC
+2025,9859,8b,3,Participación y formación ciudadana,81,0,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,81.0,PF
+2025,9859,8b,4,Hábitos de vida saludable,76,3,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,HV
+2025,11914,8b,1,Autoestima académica y motivación escolar,77,-4,-1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,77.0,AM
+2025,11914,8b,2,Clima de convivencia escolar,77,1,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,77.0,CC
+2025,11914,8b,3,Participación y formación ciudadana,81,3,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,81.0,PF
+2025,11914,8b,4,Hábitos de vida saludable,70,-3,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,HV
+2025,11997,8b,1,Autoestima académica y motivación escolar,74,0,0,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,AM
+2025,11997,8b,2,Clima de convivencia escolar,73,7,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,CC
+2025,11997,8b,3,Participación y formación ciudadana,76,11,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,76.0,PF
+2025,11997,8b,4,Hábitos de vida saludable,71,11,1,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,25017,8b,1,Autoestima académica y motivación escolar,74,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,AM
+2025,25017,8b,2,Clima de convivencia escolar,74,-5,-1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,CC
+2025,25017,8b,3,Participación y formación ciudadana,77,2,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,77.0,PF
+2025,25017,8b,4,Hábitos de vida saludable,71,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,25265,8b,1,Autoestima académica y motivación escolar,75,-4,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,AM
+2025,25265,8b,2,Clima de convivencia escolar,80,-1,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,80.0,CC
+2025,25265,8b,3,Participación y formación ciudadana,82,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,82.0,PF
+2025,25265,8b,4,Hábitos de vida saludable,71,0,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,HV
+2025,25480,8b,1,Autoestima académica y motivación escolar,73,12,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,AM
+2025,25480,8b,2,Clima de convivencia escolar,72,8,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,72.0,CC
+2025,25480,8b,3,Participación y formación ciudadana,75,11,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,PF
+2025,25480,8b,4,Hábitos de vida saludable,66,8,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,HV
+2025,25727,8b,1,Autoestima académica y motivación escolar,75,7,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,75.0,AM
+2025,25727,8b,2,Clima de convivencia escolar,74,6,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,CC
+2025,25727,8b,3,Participación y formación ciudadana,79,7,1,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,79.0,PF
+2025,25727,8b,4,Hábitos de vida saludable,70,3,0,4,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,70.0,HV
+2025,26278,8b,1,Autoestima académica y motivación escolar,73,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,73.0,AM
+2025,26278,8b,2,Clima de convivencia escolar,61,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,61.0,CC
+2025,26278,8b,3,Participación y formación ciudadana,63,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,63.0,PF
+2025,26278,8b,4,Hábitos de vida saludable,48,,,3,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,48.0,HV
+2025,31030,8b,1,Autoestima académica y motivación escolar,71,0,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,71.0,AM
+2025,31030,8b,2,Clima de convivencia escolar,69,3,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,69.0,CC
+2025,31030,8b,3,Participación y formación ciudadana,74,3,0,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,74.0,PF
+2025,31030,8b,4,Hábitos de vida saludable,66,6,1,2,v12025,20260423,IDPS 8vo basico 2025.rar,8B/Archivos CSV (Planos)/idps8B2025_rbd_final.csv,66.0,HV

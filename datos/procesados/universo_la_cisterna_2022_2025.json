@@ -1,0 +1,3113 @@
+[
+  {
+    "anio": 2022,
+    "rbd": 9499,
+    "nombre": "ESCUELA HOGAR DE CIEGOS SANTA LUCIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "82130300",
+    "matricula_total": 75,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "213"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9693,
+    "nombre": "LICEO POLITECNICO CIENCIA Y TECNOLOGIA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 924,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9699,
+    "nombre": "COLEGIO NACIONES UNIDAS",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 326,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9700,
+    "nombre": "COLEGIO PALESTINO",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 365,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9701,
+    "nombre": "LICEO POLIVALENTE OLOF PALME",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 517,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9703,
+    "nombre": "ESCUELA ESPERANZA JOVEN",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 343,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9706,
+    "nombre": "ESCUELA BAS. OSCAR ENCALADA YOVANOVICH",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 348,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9722,
+    "nombre": "LICEO PORTAL DE LA CISTERNA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 638,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9730,
+    "nombre": "COLEGIO ANTU",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 341,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9754,
+    "nombre": "INSTITUTO COMERCIAL PARTICULAR LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 538,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9757,
+    "nombre": "CENTRO EDUCACIONAL SANTA CLARA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65082087",
+    "matricula_total": 1037,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9758,
+    "nombre": "COLEGIO SANTA ISABEL DE HUNGRIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70357700",
+    "matricula_total": 1182,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9759,
+    "nombre": "LICEO LAURA VICUNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70083600",
+    "matricula_total": 685,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9766,
+    "nombre": "COLEGIO SANTA MARIA DE LOS ANGELES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 560,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9767,
+    "nombre": "LICEO MADRE CECILIA LAZZERI",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 1128,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9771,
+    "nombre": "CHILEAN EAGLES COLLEGE - LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65094801",
+    "matricula_total": 708,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9779,
+    "nombre": "CENTRO EDUCACIONAL SANTA ROSA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 580,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9781,
+    "nombre": "CENTRO POLITECNICO PARTICULAR SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 1140,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9784,
+    "nombre": "LICEO TÉCNICO INDUSTRIAL LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154721",
+    "matricula_total": 231,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9786,
+    "nombre": "ROSA MARCKMANN DE GONZALEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 712,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9788,
+    "nombre": "ESCUELA PARTICULAR GRACIELA L.DE IBANEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65144996",
+    "matricula_total": 477,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9789,
+    "nombre": "ESCUELA PARTICULAR PABLO GOYENECHE IVER",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155116",
+    "matricula_total": 146,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9797,
+    "nombre": "COLEGIO ADVENTISTA LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65102249",
+    "matricula_total": 596,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9801,
+    "nombre": "COLEGIO POLIV. SAINT ORLAND",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 772,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9804,
+    "nombre": "ESCUELA PABLO DE TARSO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65149088",
+    "matricula_total": 214,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9807,
+    "nombre": "ESCUELA PARTICULAR LOCARNO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155651",
+    "matricula_total": 123,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9808,
+    "nombre": "ESCUELA PARTICULAR GUIA ESTUDIANTIL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092979",
+    "matricula_total": 322,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9809,
+    "nombre": "ESCUELA PARTICULAR SAINT PHILLIP OF NERY",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65137896",
+    "matricula_total": 261,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9811,
+    "nombre": "ESCUELA PART. REPUBLICA ALEMANIA FEDERAL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 1669,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9827,
+    "nombre": "COLEGIO IDOP LIMITADA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154596",
+    "matricula_total": 1084,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9829,
+    "nombre": "COLEGIO MIGUEL DE CERVANTES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65115159",
+    "matricula_total": 623,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "363",
+      "410",
+      "610"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9830,
+    "nombre": "ESCUELA PARTICULAR SAN MARTIN DE PORRES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145784",
+    "matricula_total": 132,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 9859,
+    "nombre": "COLEGIO PARTICULAR VILLA JESUS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154599",
+    "matricula_total": 817,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 11914,
+    "nombre": "ESCUELA BASICA Nº128 SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 360,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 11918,
+    "nombre": "FROILAN YAÑEZ DE LA BARRA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 299,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 11980,
+    "nombre": "ESCUELA ESPECIAL PARTICULAR CECLA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148794",
+    "matricula_total": 92,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 11997,
+    "nombre": "ESCUELA JOSE IBAÑEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65157695",
+    "matricula_total": 604,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 16821,
+    "nombre": "ESCUELA ESPECIAL APRENDAMOS JUNTOS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155107",
+    "matricula_total": 79,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 16827,
+    "nombre": "ESCUELA ESPECIAL Y DE PARVULOS PETIT PRINCE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65138181",
+    "matricula_total": 73,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 24868,
+    "nombre": "ES.ESP.PART.PUERTA ABIERTA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65143927",
+    "matricula_total": 133,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25017,
+    "nombre": "ESC. BAS. PATR. WILLINS HOOVER KURT",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65325070",
+    "matricula_total": 304,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25075,
+    "nombre": "ESC.ESP.TRAT.DE LA COMUNICION EDEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155664",
+    "matricula_total": 134,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25265,
+    "nombre": "COLEGIO ANTIL MAWIDA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65153135",
+    "matricula_total": 808,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25437,
+    "nombre": "ESC. BASICA Y ESP.  EL NAZARENO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148972",
+    "matricula_total": 61,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25480,
+    "nombre": "COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154597",
+    "matricula_total": 421,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25629,
+    "nombre": "ESCUELA ESPECIAL EL ALBA DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155799",
+    "matricula_total": 36,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25727,
+    "nombre": "LICEO PART. SALESIANO MANUEL ARRIARAN BARROS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "80230500",
+    "matricula_total": 1597,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25869,
+    "nombre": "ESCUELA ESP. PART. SAN NICOLAS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65123258",
+    "matricula_total": 86,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 25995,
+    "nombre": "CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092524",
+    "matricula_total": 547,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26230,
+    "nombre": "ESCUELA ESP. SOL NACIENTE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155534",
+    "matricula_total": 84,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26278,
+    "nombre": "ESCUELA BASICA ARISTA VITAE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145201",
+    "matricula_total": 53,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26337,
+    "nombre": "ESCUELA ESPECIAL ADAES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65025110",
+    "matricula_total": 12,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26351,
+    "nombre": "ESCUELA ESPECIAL N°2253 ANTULAF",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155825",
+    "matricula_total": 56,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26359,
+    "nombre": "ESCUELA ESPECIAL GABRIELA RUBIO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65134386",
+    "matricula_total": 79,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26384,
+    "nombre": "COLEGIO TEC. PROF. SAN RAMON LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65117808",
+    "matricula_total": 126,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26459,
+    "nombre": "ESCUELA ESPECIAL ANCHIMALLEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65146483",
+    "matricula_total": 38,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 26536,
+    "nombre": "ESCUELA ESPECIAL Nº 2339 ATRAVIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65135322",
+    "matricula_total": 105,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 31030,
+    "nombre": "ESCUELA PRE MILITAR HEROES DE LA CONCEPCION",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65158928",
+    "matricula_total": 1165,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 31283,
+    "nombre": "ESCUELA LENG. Y PARVULOS  HORMIGUITA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 89,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2022,
+    "rbd": 31518,
+    "nombre": "ESCUELA ESPECIAL Y DE PÁRVULOS HORMIGUITA 2",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 117,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9499,
+    "nombre": "ESCUELA HOGAR DE CIEGOS SANTA LUCIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "82130300",
+    "matricula_total": 62,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "213"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9693,
+    "nombre": "LICEO POLITECNICO CIENCIA Y TECNOLOGIA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 887,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9699,
+    "nombre": "COLEGIO NACIONES UNIDAS",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 325,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9700,
+    "nombre": "COLEGIO PALESTINO",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 332,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9701,
+    "nombre": "LICEO POLIVALENTE OLOF PALME",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 473,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9703,
+    "nombre": "ESCUELA ESPERANZA JOVEN",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 334,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9706,
+    "nombre": "ESCUELA BAS. OSCAR ENCALADA YOVANOVICH",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 315,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9722,
+    "nombre": "LICEO PORTAL DE LA CISTERNA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 530,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9730,
+    "nombre": "COLEGIO ANTU",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 322,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9754,
+    "nombre": "INSTITUTO COMERCIAL PARTICULAR LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 547,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9757,
+    "nombre": "CENTRO EDUCACIONAL SANTA CLARA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65082087",
+    "matricula_total": 1032,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9758,
+    "nombre": "COLEGIO SANTA ISABEL DE HUNGRIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70357700",
+    "matricula_total": 1175,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9759,
+    "nombre": "LICEO LAURA VICUNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70083600",
+    "matricula_total": 680,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9766,
+    "nombre": "COLEGIO SANTA MARIA DE LOS ANGELES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 565,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9767,
+    "nombre": "LICEO MADRE CECILIA LAZZERI",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 1145,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9771,
+    "nombre": "CHILEAN EAGLES COLLEGE - LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65094801",
+    "matricula_total": 709,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9779,
+    "nombre": "CENTRO EDUCACIONAL SANTA ROSA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 597,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9781,
+    "nombre": "CENTRO POLITECNICO PARTICULAR SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 1109,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9784,
+    "nombre": "LICEO TÉCNICO INDUSTRIAL LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154721",
+    "matricula_total": 263,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9786,
+    "nombre": "ROSA MARCKMANN DE GONZALEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 683,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9788,
+    "nombre": "ESCUELA PARTICULAR GRACIELA L.DE IBANEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65144996",
+    "matricula_total": 461,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9789,
+    "nombre": "ESCUELA PARTICULAR PABLO GOYENECHE IVER",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155116",
+    "matricula_total": 151,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9797,
+    "nombre": "COLEGIO ADVENTISTA LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65102249",
+    "matricula_total": 601,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9801,
+    "nombre": "COLEGIO POLIV. SAINT ORLAND",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 743,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9804,
+    "nombre": "ESCUELA PABLO DE TARSO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65149088",
+    "matricula_total": 214,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9807,
+    "nombre": "ESCUELA PARTICULAR LOCARNO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155651",
+    "matricula_total": 119,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9808,
+    "nombre": "ESCUELA PARTICULAR GUIA ESTUDIANTIL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092979",
+    "matricula_total": 301,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9809,
+    "nombre": "ESCUELA PARTICULAR SAINT PHILLIP OF NERY",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65137896",
+    "matricula_total": 241,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9811,
+    "nombre": "ESCUELA PART. REPUBLICA ALEMANIA FEDERAL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 1660,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9827,
+    "nombre": "COLEGIO IDOP LIMITADA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154596",
+    "matricula_total": 1083,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9829,
+    "nombre": "COLEGIO MIGUEL DE CERVANTES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65115159",
+    "matricula_total": 632,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "363",
+      "410",
+      "610"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9830,
+    "nombre": "ESCUELA PARTICULAR SAN MARTIN DE PORRES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145784",
+    "matricula_total": 126,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 9859,
+    "nombre": "COLEGIO PARTICULAR VILLA JESUS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154599",
+    "matricula_total": 779,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 11914,
+    "nombre": "ESCUELA BASICA Nº128 SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 354,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 11918,
+    "nombre": "FROILAN YAÑEZ DE LA BARRA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 285,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 11980,
+    "nombre": "ESCUELA ESPECIAL PARTICULAR CECLA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148794",
+    "matricula_total": 98,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 11997,
+    "nombre": "ESCUELA JOSE IBAÑEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65157695",
+    "matricula_total": 596,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 16821,
+    "nombre": "ESCUELA ESPECIAL APRENDAMOS JUNTOS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155107",
+    "matricula_total": 80,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 16827,
+    "nombre": "ESCUELA ESPECIAL Y DE PARVULOS PETIT PRINCE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65138181",
+    "matricula_total": 75,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 24868,
+    "nombre": "ES.ESP.PART.PUERTA ABIERTA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65143927",
+    "matricula_total": 136,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25017,
+    "nombre": "ESC. BAS. PATR. WILLINS HOOVER KURT",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65325070",
+    "matricula_total": 303,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25075,
+    "nombre": "ESC.ESP.TRAT.DE LA COMUNICION EDEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155664",
+    "matricula_total": 80,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25265,
+    "nombre": "COLEGIO ANTIL MAWIDA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65153135",
+    "matricula_total": 815,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25437,
+    "nombre": "ESC. BASICA Y ESP.  EL NAZARENO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148972",
+    "matricula_total": 58,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25480,
+    "nombre": "COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154597",
+    "matricula_total": 431,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25629,
+    "nombre": "ESCUELA ESPECIAL EL ALBA DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155799",
+    "matricula_total": 40,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25727,
+    "nombre": "LICEO PART. SALESIANO MANUEL ARRIARAN BARROS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "80230500",
+    "matricula_total": 1585,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25869,
+    "nombre": "ESCUELA ESP. PART. SAN NICOLAS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65123258",
+    "matricula_total": 95,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 25995,
+    "nombre": "CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092524",
+    "matricula_total": 553,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26230,
+    "nombre": "ESCUELA ESP. SOL NACIENTE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155534",
+    "matricula_total": 88,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26278,
+    "nombre": "ESCUELA BASICA ARISTA VITAE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145201",
+    "matricula_total": 48,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26337,
+    "nombre": "ESCUELA ESPECIAL ADAES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65025110",
+    "matricula_total": 11,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26351,
+    "nombre": "ESCUELA ESPECIAL N°2253 ANTULAF",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155825",
+    "matricula_total": 60,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26359,
+    "nombre": "ESCUELA ESPECIAL GABRIELA RUBIO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65134386",
+    "matricula_total": 77,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26384,
+    "nombre": "COLEGIO TEC. PROF. SAN RAMON LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65117808",
+    "matricula_total": 127,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26459,
+    "nombre": "ESCUELA ESPECIAL ANCHIMALLEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65146483",
+    "matricula_total": 79,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 26536,
+    "nombre": "ESCUELA ESPECIAL Nº 2339 ATRAVIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65135322",
+    "matricula_total": 114,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 31030,
+    "nombre": "ESCUELA PRE MILITAR HEROES DE LA CONCEPCION",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65158928",
+    "matricula_total": 1034,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 31283,
+    "nombre": "ESCUELA LENG. Y PARVULOS  HORMIGUITA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 88,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2023,
+    "rbd": 31518,
+    "nombre": "ESCUELA ESPECIAL Y DE PÁRVULOS HORMIGUITA 2",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 118,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9499,
+    "nombre": "ESCUELA HOGAR DE CIEGOS SANTA LUCIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "82130300",
+    "matricula_total": 55,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "213"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9693,
+    "nombre": "LICEO POLITECNICO CIENCIA Y TECNOLOGIA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 848,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9699,
+    "nombre": "COLEGIO NACIONES UNIDAS",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 307,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9700,
+    "nombre": "COLEGIO PALESTINO",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 342,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9701,
+    "nombre": "LICEO POLIVALENTE OLOF PALME",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 449,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9703,
+    "nombre": "ESCUELA ESPERANZA JOVEN",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 322,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9706,
+    "nombre": "ESCUELA BAS. OSCAR ENCALADA YOVANOVICH",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 307,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9722,
+    "nombre": "LICEO PORTAL DE LA CISTERNA",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 463,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9730,
+    "nombre": "COLEGIO ANTU",
+    "dependencia": "municipal_daem",
+    "sostenedor_rut_sin_dv": "69072000",
+    "matricula_total": 322,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9754,
+    "nombre": "INSTITUTO COMERCIAL PARTICULAR LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 573,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9757,
+    "nombre": "CENTRO EDUCACIONAL SANTA CLARA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65082087",
+    "matricula_total": 1038,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9758,
+    "nombre": "COLEGIO SANTA ISABEL DE HUNGRIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70357700",
+    "matricula_total": 1154,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9759,
+    "nombre": "LICEO LAURA VICUNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70083600",
+    "matricula_total": 665,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9766,
+    "nombre": "COLEGIO SANTA MARIA DE LOS ANGELES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 564,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9767,
+    "nombre": "LICEO MADRE CECILIA LAZZERI",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 1141,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9771,
+    "nombre": "CHILEAN EAGLES COLLEGE - LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65094801",
+    "matricula_total": 711,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9779,
+    "nombre": "CENTRO EDUCACIONAL SANTA ROSA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 735,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9781,
+    "nombre": "CENTRO POLITECNICO PARTICULAR SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 1030,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9784,
+    "nombre": "LICEO TÉCNICO INDUSTRIAL LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154721",
+    "matricula_total": 302,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9786,
+    "nombre": "ROSA MARCKMANN DE GONZALEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 614,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9788,
+    "nombre": "ESCUELA PARTICULAR GRACIELA L.DE IBANEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65144996",
+    "matricula_total": 436,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9789,
+    "nombre": "ESCUELA PARTICULAR PABLO GOYENECHE IVER",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155116",
+    "matricula_total": 143,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9797,
+    "nombre": "COLEGIO ADVENTISTA LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65102249",
+    "matricula_total": 606,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9801,
+    "nombre": "COLEGIO POLIV. SAINT ORLAND",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 715,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9804,
+    "nombre": "ESCUELA PABLO DE TARSO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65149088",
+    "matricula_total": 195,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9807,
+    "nombre": "ESCUELA PARTICULAR LOCARNO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155651",
+    "matricula_total": 102,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9808,
+    "nombre": "ESCUELA PARTICULAR GUIA ESTUDIANTIL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092979",
+    "matricula_total": 275,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9809,
+    "nombre": "ESCUELA PARTICULAR SAINT PHILLIP OF NERY",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65137896",
+    "matricula_total": 249,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9811,
+    "nombre": "ESCUELA PART. REPUBLICA ALEMANIA FEDERAL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 1592,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9827,
+    "nombre": "COLEGIO IDOP LIMITADA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154596",
+    "matricula_total": 1057,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9829,
+    "nombre": "COLEGIO BICENTENARIO DE EXCELENCIA MIGUEL DE CERVANTES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65115159",
+    "matricula_total": 617,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "363",
+      "410",
+      "610"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 9859,
+    "nombre": "COLEGIO PARTICULAR VILLA JESUS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154599",
+    "matricula_total": 778,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 11914,
+    "nombre": "ESCUELA BASICA Nº128 SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 343,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 11918,
+    "nombre": "FROILAN YAÑEZ DE LA BARRA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 298,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 11980,
+    "nombre": "ESCUELA ESPECIAL PARTICULAR CECLA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148794",
+    "matricula_total": 103,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 11997,
+    "nombre": "ESCUELA JOSE IBAÑEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65157695",
+    "matricula_total": 539,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 16821,
+    "nombre": "ESCUELA ESPECIAL APRENDAMOS JUNTOS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155107",
+    "matricula_total": 84,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 16827,
+    "nombre": "ESCUELA ESPECIAL Y DE PARVULOS PETIT PRINCE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65138181",
+    "matricula_total": 77,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 24868,
+    "nombre": "ES.ESP.PART.PUERTA ABIERTA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65143927",
+    "matricula_total": 137,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25017,
+    "nombre": "ESC. BAS. PATR. WILLINS HOOVER KURT",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65325070",
+    "matricula_total": 329,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25075,
+    "nombre": "ESC.ESP.TRAT.DE LA COMUNICION EDEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155664",
+    "matricula_total": 69,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25265,
+    "nombre": "COLEGIO ANTIL MAWIDA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65153135",
+    "matricula_total": 820,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25437,
+    "nombre": "ESC. BASICA Y ESP.  EL NAZARENO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148972",
+    "matricula_total": 53,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25480,
+    "nombre": "COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154597",
+    "matricula_total": 444,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25629,
+    "nombre": "ESCUELA ESPECIAL EL ALBA DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155799",
+    "matricula_total": 42,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25727,
+    "nombre": "LICEO PART. SALESIANO MANUEL ARRIARAN BARROS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "80230500",
+    "matricula_total": 1564,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25869,
+    "nombre": "ESCUELA ESP. PART. SAN NICOLAS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65123258",
+    "matricula_total": 104,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 25995,
+    "nombre": "CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092524",
+    "matricula_total": 549,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26230,
+    "nombre": "ESCUELA ESP. SOL NACIENTE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155534",
+    "matricula_total": 63,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26278,
+    "nombre": "ESCUELA BASICA ARISTA VITAE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145201",
+    "matricula_total": 47,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26337,
+    "nombre": "ESCUELA ESPECIAL ADAES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65025110",
+    "matricula_total": 11,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26351,
+    "nombre": "ESCUELA ESPECIAL N°2253 ANTULAF",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155825",
+    "matricula_total": 53,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26359,
+    "nombre": "ESCUELA ESPECIAL GABRIELA RUBIO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65134386",
+    "matricula_total": 72,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26384,
+    "nombre": "COLEGIO TEC. PROF. SAN RAMON LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65117808",
+    "matricula_total": 162,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26459,
+    "nombre": "ESCUELA ESPECIAL ANCHIMALLEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65146483",
+    "matricula_total": 75,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 26536,
+    "nombre": "ESCUELA ESPECIAL Nº 2339 ATRAVIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65135322",
+    "matricula_total": 127,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 31030,
+    "nombre": "ESCUELA PRE MILITAR HEROES DE LA CONCEPCION",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65158928",
+    "matricula_total": 1193,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 31283,
+    "nombre": "ESCUELA LENG. Y PARVULOS  HORMIGUITA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 83,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2024,
+    "rbd": 31518,
+    "nombre": "ESCUELA ESPECIAL Y DE PÁRVULOS HORMIGUITA 2",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 118,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9499,
+    "nombre": "ESCUELA HOGAR DE CIEGOS SANTA LUCIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "82130300",
+    "matricula_total": 35,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "213"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9693,
+    "nombre": "LICEO POLITECNICO CIENCIA Y TECNOLOGIA",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 900,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9699,
+    "nombre": "COLEGIO NACIONES UNIDAS",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 312,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9700,
+    "nombre": "COLEGIO PALESTINO",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 277,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9701,
+    "nombre": "LICEO POLIVALENTE OLOF PALME",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 420,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9703,
+    "nombre": "ESCUELA ESPERANZA JOVEN",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 315,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9706,
+    "nombre": "ESCUELA BAS. OSCAR ENCALADA YOVANOVICH",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 269,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9722,
+    "nombre": "LICEO PORTAL DE LA CISTERNA",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 421,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9730,
+    "nombre": "COLEGIO ANTU",
+    "dependencia": "slep",
+    "sostenedor_rut_sin_dv": "61981070",
+    "matricula_total": 283,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9754,
+    "nombre": "INSTITUTO COMERCIAL PARTICULAR LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 642,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9757,
+    "nombre": "CENTRO EDUCACIONAL SANTA CLARA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65082087",
+    "matricula_total": 1033,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9758,
+    "nombre": "COLEGIO SANTA ISABEL DE HUNGRIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70357700",
+    "matricula_total": 1162,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9759,
+    "nombre": "LICEO LAURA VICUNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "70083600",
+    "matricula_total": 649,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9766,
+    "nombre": "COLEGIO SANTA MARIA DE LOS ANGELES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 566,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9767,
+    "nombre": "LICEO MADRE CECILIA LAZZERI",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145394",
+    "matricula_total": 1140,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9771,
+    "nombre": "CHILEAN EAGLES COLLEGE - LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65094801",
+    "matricula_total": 720,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9779,
+    "nombre": "CENTRO EDUCACIONAL SANTA ROSA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 889,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9781,
+    "nombre": "CENTRO POLITECNICO PARTICULAR SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 1024,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310",
+      "410",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9784,
+    "nombre": "LICEO TÉCNICO INDUSTRIAL LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154721",
+    "matricula_total": 255,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9786,
+    "nombre": "ROSA MARCKMANN DE GONZALEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 579,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9788,
+    "nombre": "ESCUELA PARTICULAR GRACIELA L.DE IBANEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65144996",
+    "matricula_total": 442,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9789,
+    "nombre": "ESCUELA PARTICULAR PABLO GOYENECHE IVER",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155116",
+    "matricula_total": 140,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9797,
+    "nombre": "COLEGIO ADVENTISTA LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65102249",
+    "matricula_total": 605,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9801,
+    "nombre": "COLEGIO POLIV. SAINT ORLAND",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145586",
+    "matricula_total": 699,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9804,
+    "nombre": "ESCUELA PABLO DE TARSO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65149088",
+    "matricula_total": 199,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9807,
+    "nombre": "ESCUELA PARTICULAR LOCARNO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155651",
+    "matricula_total": 102,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9808,
+    "nombre": "ESCUELA PARTICULAR GUIA ESTUDIANTIL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092979",
+    "matricula_total": 221,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9809,
+    "nombre": "ESCUELA PARTICULAR SAINT PHILLIP OF NERY",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65137896",
+    "matricula_total": 216,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9811,
+    "nombre": "ESCUELA PART. REPUBLICA ALEMANIA FEDERAL",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 1567,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9827,
+    "nombre": "COLEGIO IDOP LIMITADA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154596",
+    "matricula_total": 1062,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310",
+      "510"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9829,
+    "nombre": "COLEGIO BICENTENARIO DE EXCELENCIA MIGUEL DE CERVANTES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65115159",
+    "matricula_total": 639,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "363",
+      "410",
+      "610"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 9859,
+    "nombre": "COLEGIO PARTICULAR VILLA JESUS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154599",
+    "matricula_total": 751,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 11914,
+    "nombre": "ESCUELA BASICA Nº128 SAN RAMON",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65116354",
+    "matricula_total": 360,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 11918,
+    "nombre": "FROILAN YAÑEZ DE LA BARRA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "72524100",
+    "matricula_total": 303,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 11980,
+    "nombre": "ESCUELA ESPECIAL PARTICULAR CECLA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148794",
+    "matricula_total": 103,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 11997,
+    "nombre": "ESCUELA JOSE IBAÑEZ",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65157695",
+    "matricula_total": 468,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 16821,
+    "nombre": "ESCUELA ESPECIAL APRENDAMOS JUNTOS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155107",
+    "matricula_total": 81,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 16827,
+    "nombre": "ESCUELA ESPECIAL Y DE PARVULOS PETIT PRINCE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65138181",
+    "matricula_total": 75,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 24868,
+    "nombre": "ES.ESP.PART.PUERTA ABIERTA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65143927",
+    "matricula_total": 140,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25017,
+    "nombre": "ESC. BAS. PATR. WILLINS HOOVER KURT",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65325070",
+    "matricula_total": 343,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25075,
+    "nombre": "ESC.ESP.TRAT.DE LA COMUNICION EDEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155664",
+    "matricula_total": 55,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25265,
+    "nombre": "COLEGIO ANTIL MAWIDA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65153135",
+    "matricula_total": 800,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25437,
+    "nombre": "ESC. BASICA Y ESP.  EL NAZARENO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65148972",
+    "matricula_total": 62,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25480,
+    "nombre": "COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65154597",
+    "matricula_total": 456,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25629,
+    "nombre": "ESCUELA ESPECIAL EL ALBA DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155799",
+    "matricula_total": 44,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25727,
+    "nombre": "LICEO PART. SALESIANO MANUEL ARRIARAN BARROS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "80230500",
+    "matricula_total": 1517,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "10",
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25869,
+    "nombre": "ESCUELA ESP. PART. SAN NICOLAS",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65123258",
+    "matricula_total": 93,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 25995,
+    "nombre": "CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65092524",
+    "matricula_total": 544,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "510",
+      "610"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26230,
+    "nombre": "ESCUELA ESP. SOL NACIENTE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155534",
+    "matricula_total": 50,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26278,
+    "nombre": "ESCUELA BASICA ARISTA VITAE",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65145201",
+    "matricula_total": 25,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26337,
+    "nombre": "ESCUELA ESPECIAL ADAES",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65025110",
+    "matricula_total": 4,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26351,
+    "nombre": "ESCUELA ESPECIAL N°2253 ANTULAF",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65155825",
+    "matricula_total": 54,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26359,
+    "nombre": "ESCUELA ESPECIAL GABRIELA RUBIO",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65134386",
+    "matricula_total": 70,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26384,
+    "nombre": "COLEGIO TEC. PROF. SAN RAMON LA CISTERNA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65117808",
+    "matricula_total": 202,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "310",
+      "410",
+      "510"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26459,
+    "nombre": "ESCUELA ESPECIAL ANCHIMALLEN",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65146483",
+    "matricula_total": 67,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 26536,
+    "nombre": "ESCUELA ESPECIAL Nº 2339 ATRAVIA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65135322",
+    "matricula_total": 128,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "212"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 31030,
+    "nombre": "ESCUELA PRE MILITAR HEROES DE LA CONCEPCION",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65158928",
+    "matricula_total": 986,
+    "oferta": "basica_media",
+    "codigos_ensenanza": [
+      "110",
+      "310"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 31283,
+    "nombre": "ESCUELA LENG. Y PARVULOS  HORMIGUITA",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 79,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  },
+  {
+    "anio": 2025,
+    "rbd": 31518,
+    "nombre": "ESCUELA ESPECIAL Y DE PÁRVULOS HORMIGUITA 2",
+    "dependencia": "particular_subvencionado",
+    "sostenedor_rut_sin_dv": "65118088",
+    "matricula_total": 111,
+    "oferta": "especial",
+    "codigos_ensenanza": [
+      "10",
+      "214"
+    ]
+  }
+]

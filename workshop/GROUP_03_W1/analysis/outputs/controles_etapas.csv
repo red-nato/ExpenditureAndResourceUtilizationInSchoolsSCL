@@ -1,0 +1,9 @@
+etapa,control,resultado
+Load,Filas sin filtro adicional y SHA-256 del manifiesto,directorio=238; pas=110; pme=767; simce=236; idps=936
+Profile,Duplicados por llave natural,"{'directorio': 0, 'pas': 0, 'pme': 0, 'simce': 0, 'idps': 0}"
+Explore,Denominadores preliminares por año,"Directorio={2022: 60, 2023: 60, 2024: 59, 2025: 59}; PAS por archivo={2022: 21, 2023: 39, 2024: 31, 2025: 19}"
+Clean,Normalización conservadora,RBD/año enteros; grados normalizados; montos y promedios decimales; sin descartar filas
+Impute,Política de faltantes,"No se imputan montos, puntajes ni rendiciones. En panel, 0 PAS/PME significa cero filas publicadas; se acompaña de indicador tiene_registro."
+Transform,Agregación previa al cruce,Panel=238 RBD-año; Agencia=8 año-grado; PME=767 acciones
+Validate,Conservación y enlace,"238 RBD-año; 110 PAS, 767 PME, 236 SIMCE, 936 IDPS; llaves únicas; sin pérdidas en join"
+Explore again,Lectura final,"PME con fila: públicos 8/8, particulares 38/51; no se calcula malgasto"

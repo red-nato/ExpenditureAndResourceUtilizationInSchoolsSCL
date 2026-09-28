@@ -1,0 +1,89 @@
+[
+  {
+    "archivo": "municipal_2022_Sem1.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2022/Sem1/100488.7z",
+    "sha256": "2be93fe223642b9f8ddc962c0da25c043b0b7a658b82e32f38fcc387277d779c",
+    "miembros": [
+      "1100488OCCompraAgil.csv",
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "municipal_2022_Sem2.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2022/Sem2/100488.7z",
+    "sha256": "75c07ced160dab1a72e5aaf4ac4cbbbab11771768ee53bd81f109fab1ecf764a",
+    "miembros": [
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "municipal_2023_Sem1.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2023/Sem1/100488.7z",
+    "sha256": "d88fdc79e08fdc62f157237e52f95673c8192d494343d7ce5dbdbee1fe7ce570",
+    "miembros": [
+      "1100488OCCompraAgil.csv",
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "municipal_2023_Sem2.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2023/Sem2/100488.7z",
+    "sha256": "d308ecdf6c30db631939151fba3fa167be6dd10bc879453d3107be88e03a5bc8",
+    "miembros": [
+      "1100488OCCompraAgil.csv",
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "municipal_2024_Sem1.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2024/Sem1/100488.7z",
+    "sha256": "e2b3e34932920eea5ab5ecbe17faaf6bb6c8b56cddc0f72b2ccbb8bde7a49a66",
+    "miembros": [
+      "1100488OCCompraAgil.csv",
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "municipal_2024_Sem2.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2024/Sem2/100488.7z",
+    "sha256": "e003f3e51bdd448abc9e9da3453d659e1b926d7233a039f5e8896b0f00c42ee5",
+    "miembros": [
+      "1100488OCCompraAgil.csv",
+      "1100488OCConvenioMarco.csv",
+      "1100488OCLicitacion.csv",
+      "1100488OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "slep_2025_Sem1.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2025/Sem1/1890640.7z",
+    "sha256": "93c1af76a44755b169c7ba8e5ea9fe882274ce4cc528a0d507dd4c63c3bb294c",
+    "miembros": [
+      "11890640OCCompraAgil.csv",
+      "11890640OCConvenioMarco.csv",
+      "11890640OCLicitacion.csv",
+      "11890640OCTratoDirecto.csv"
+    ]
+  },
+  {
+    "archivo": "slep_2025_Sem2.7z",
+    "url": "https://chc-oc-files.mercadopublico.cl/entcode/2025/Sem2/1890640.7z",
+    "sha256": "ef5df4b8c0056ea6a515aae927dd4eb1ec7a462887114e8ebe3046a84feb16d0",
+    "miembros": [
+      "21890640TratoDirecto.csv",
+      "21890640ConvenioMarco.csv",
+      "21890640OCLicitacion.csv",
+      "21890640CompraAgil.csv"
+    ]
+  }
+]

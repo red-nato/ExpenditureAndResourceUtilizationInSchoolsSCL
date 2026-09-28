@@ -1,0 +1,58 @@
+[
+  {
+    "origen_local": "/Users/red/Code/BI/Auditoría Colegios - BI/BI-DatosProyecto/Directorio/Directorio-oficial-EE-2022/20220914_Directorio_Oficial_EE_2022_20220430_WEB.csv",
+    "archivo": "datos/originales/directorio_2022.csv",
+    "sha256": "b792728d12ebc7268a60426df8c24294d70d419e8c085b3139be59e7ef889091",
+    "bytes": 3274033,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Auditoría Colegios - BI/BI-DatosProyecto/Directorio/Directorio-Oficial-EE-2023-1/20230912_Directorio_Oficial_EE_2023_20230430_WEB.csv",
+    "archivo": "datos/originales/directorio_2023.csv",
+    "sha256": "17049be80957cf78a683002c1ca0908b8501af67560e59b1ec61c79baabdbbfe",
+    "bytes": 3660985,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Auditoría Colegios - BI/datos/intermedios/pme_2024/20250131_Implementación_PME_2024_20250116.xlsx",
+    "archivo": "datos/originales/pme_implementacion_2024.xlsx",
+    "sha256": "d0700978811ac4ed616d81dbeadfd679d4e96a0f17db33834a73ee2f0d913dd5",
+    "bytes": 43921465,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Auditoría Colegios - BI/datos/intermedios/pme_2024/ER Implementación PME 2024.pdf",
+    "archivo": "datos/originales/pme_diccionario_2024.pdf",
+    "sha256": "6d4b6bf399fbbcac519a462386a3cf8b2e74d2200eb37f8ba4e050e5d4d0531e",
+    "bytes": 277514,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Auditoría Colegios - BI/GROUP_03_W1/report/GROUP_03_W1_Report.pdf",
+    "archivo": "informes/referencias/W1_con_reflexiones_25-09-2026.pdf",
+    "sha256": "7e29ed802c18a414cc71cc197a8f478c77d20a6e34e7e95f8f9aac03aae8014f",
+    "bytes": 27018,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Class/Calendarization_2026_Third_Term_Business_Intelligence_IIB423T.docx",
+    "archivo": "informes/referencias/Calendarization_2026_Third_Term_Business_Intelligence_IIB423T.docx",
+    "sha256": "724c0a123f216849db223b2a55f380bda2ff594f9b2a06e44ab45c27618d5f52",
+    "bytes": 50409,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  },
+  {
+    "origen_local": "/Users/red/Code/BI/Class/03_EDA_after_Data_Validation.pdf",
+    "archivo": "informes/referencias/03_EDA_after_Data_Validation.pdf",
+    "sha256": "1022b7fdaf0dcc7a6feb0e06bb814f8c095e64d28acc7066d0666a2ac7917ea1",
+    "bytes": 276637,
+    "fecha_recuperacion": "2026-09-28",
+    "accion": "Copia local sin modificar fuente"
+  }
+]

@@ -1,0 +1,505 @@
+anio,rbd,grado,nombre_fuente,grupo_socioeconomico_codigo,version_base,fecha_base_aaaammdd,archivo_interno,area,puntaje_original,campo_original,alumnos_original,marca_original,puntaje,alumnos
+2023,26278,4b,ESCUELA BASICA ARISTA VITAE,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,230,prom_lect4b_rbd,5,,230.0,5
+2023,26278,4b,ESCUELA BASICA ARISTA VITAE,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,216,prom_mate4b_rbd,5,,216.0,5
+2023,9701,4b,LICEO POLIVALENTE OLOF PALME,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,258,prom_lect4b_rbd,34,,258.0,34
+2023,9701,4b,LICEO POLIVALENTE OLOF PALME,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,224,prom_mate4b_rbd,36,,224.0,36
+2023,9827,4b,COLEGIO IDOP LIMITADA,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,271,prom_lect4b_rbd,37,,271.0,37
+2023,9827,4b,COLEGIO IDOP LIMITADA,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,244,prom_mate4b_rbd,36,,244.0,36
+2023,9804,4b,ESCUELA PABLO DE TARSO,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,251,prom_lect4b_rbd,23,,251.0,23
+2023,9804,4b,ESCUELA PABLO DE TARSO,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,224,prom_mate4b_rbd,25,,224.0,25
+2023,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,264,prom_lect4b_rbd,77,,264.0,77
+2023,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,256,prom_mate4b_rbd,78,,256.0,78
+2023,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,266,prom_lect4b_rbd,28,,266.0,28
+2023,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,255,prom_mate4b_rbd,29,,255.0,29
+2023,9767,4b,LICEO MADRE CECILIA LAZZERI,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,287,prom_lect4b_rbd,69,,287.0,69
+2023,9767,4b,LICEO MADRE CECILIA LAZZERI,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,271,prom_mate4b_rbd,73,,271.0,73
+2023,9807,4b,ESCUELA PARTICULAR LOCARNO,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,271,prom_lect4b_rbd,10,,271.0,10
+2023,9807,4b,ESCUELA PARTICULAR LOCARNO,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,243,prom_mate4b_rbd,10,,243.0,10
+2023,11997,4b,ESCUELA JOSE IBAÑEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,254,prom_lect4b_rbd,54,,254.0,54
+2023,11997,4b,ESCUELA JOSE IBAÑEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,236,prom_mate4b_rbd,56,,236.0,56
+2023,9730,4b,COLEGIO ANTU,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,265,prom_lect4b_rbd,28,,265.0,28
+2023,9730,4b,COLEGIO ANTU,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,247,prom_mate4b_rbd,26,,247.0,26
+2023,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,270,prom_lect4b_rbd,44,,270.0,44
+2023,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,268,prom_mate4b_rbd,44,,268.0,44
+2023,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,272,prom_lect4b_rbd,170,,272.0,170
+2023,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,262,prom_mate4b_rbd,169,,262.0,169
+2023,9759,4b,LICEO LAURA VICUNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,253,prom_lect4b_rbd,38,,253.0,38
+2023,9759,4b,LICEO LAURA VICUNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,232,prom_mate4b_rbd,39,,232.0,39
+2023,25265,4b,COLEGIO ANTIL MAWIDA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,270,prom_lect4b_rbd,54,,270.0,54
+2023,25265,4b,COLEGIO ANTIL MAWIDA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,252,prom_mate4b_rbd,53,,252.0,53
+2023,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,,prom_lect4b_rbd,0,,,0
+2023,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,,prom_mate4b_rbd,0,,,0
+2023,9699,4b,COLEGIO NACIONES UNIDAS,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,268,prom_lect4b_rbd,32,,268.0,32
+2023,9699,4b,COLEGIO NACIONES UNIDAS,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,238,prom_mate4b_rbd,34,,238.0,34
+2023,9722,4b,LICEO PORTAL DE LA CISTERNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,236,prom_lect4b_rbd,37,,236.0,37
+2023,9722,4b,LICEO PORTAL DE LA CISTERNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,233,prom_mate4b_rbd,36,,233.0,36
+2023,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,5,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,283,prom_lect4b_rbd,23,,283.0,23
+2023,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,5,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,262,prom_mate4b_rbd,26,,262.0,26
+2023,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,265,prom_lect4b_rbd,27,,265.0,27
+2023,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,229,prom_mate4b_rbd,27,,229.0,27
+2023,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,277,prom_lect4b_rbd,41,,277.0,41
+2023,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,269,prom_mate4b_rbd,40,,269.0,40
+2023,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,297,prom_lect4b_rbd,69,,297.0,69
+2023,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,282,prom_mate4b_rbd,67,,282.0,67
+2023,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,297,prom_lect4b_rbd,36,,297.0,36
+2023,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,301,prom_mate4b_rbd,36,,301.0,36
+2023,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,300,prom_lect4b_rbd,43,,300.0,43
+2023,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,284,prom_mate4b_rbd,43,,284.0,43
+2023,9700,4b,COLEGIO PALESTINO,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,248,prom_lect4b_rbd,32,,248.0,32
+2023,9700,4b,COLEGIO PALESTINO,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,223,prom_mate4b_rbd,32,,223.0,32
+2023,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,274,prom_lect4b_rbd,105,,274.0,105
+2023,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,270,prom_mate4b_rbd,109,,270.0,109
+2023,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,295,prom_lect4b_rbd,65,,295.0,65
+2023,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,273,prom_mate4b_rbd,66,,273.0,66
+2023,9703,4b,ESCUELA ESPERANZA JOVEN,2,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,238,prom_lect4b_rbd,29,,238.0,29
+2023,9703,4b,ESCUELA ESPERANZA JOVEN,2,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,233,prom_mate4b_rbd,31,,233.0,31
+2023,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,278,prom_lect4b_rbd,38,,278.0,38
+2023,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,256,prom_mate4b_rbd,38,,256.0,38
+2023,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,272,prom_lect4b_rbd,78,,272.0,78
+2023,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,274,prom_mate4b_rbd,77,,274.0,77
+2023,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,2,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,239,prom_lect4b_rbd,11,,239.0,11
+2023,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,2,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,237,prom_mate4b_rbd,13,,237.0,13
+2023,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,283,prom_lect4b_rbd,33,,283.0,33
+2023,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,269,prom_mate4b_rbd,35,,269.0,35
+2023,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,260,prom_lect4b_rbd,29,,260.0,29
+2023,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,238,prom_mate4b_rbd,31,,238.0,31
+2023,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,lect,244,prom_lect4b_rbd,18,,244.0,18
+2023,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,3,final20240418v1,20240418,Simce cuarto básico 2023 - Versión pública.rar,mate,224,prom_mate4b_rbd,18,,224.0,18
+2023,9701,2m,LICEO POLIVALENTE OLOF PALME,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,233,prom_lect2m_rbd,30,,233.0,30
+2023,9701,2m,LICEO POLIVALENTE OLOF PALME,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,243,prom_mate2m_rbd,29,,243.0,29
+2023,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,216,prom_lect2m_rbd,62,,216.0,62
+2023,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,220,prom_mate2m_rbd,61,,220.0,61
+2023,9827,2m,COLEGIO IDOP LIMITADA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,233,prom_lect2m_rbd,137,,233.0,137
+2023,9827,2m,COLEGIO IDOP LIMITADA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,241,prom_mate2m_rbd,136,,241.0,136
+2023,9767,2m,LICEO MADRE CECILIA LAZZERI,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,281,prom_lect2m_rbd,71,,281.0,71
+2023,9767,2m,LICEO MADRE CECILIA LAZZERI,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,300,prom_mate2m_rbd,72,,300.0,72
+2023,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMON,1,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,227,prom_lect2m_rbd,193,,227.0,193
+2023,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMON,1,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,235,prom_mate2m_rbd,210,,235.0,210
+2023,9759,2m,LICEO LAURA VICUNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,252,prom_lect2m_rbd,65,,252.0,65
+2023,9759,2m,LICEO LAURA VICUNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,249,prom_mate2m_rbd,65,,249.0,65
+2023,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCEPCION,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,212,prom_lect2m_rbd,142,,212.0,142
+2023,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCEPCION,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,216,prom_mate2m_rbd,143,,216.0,143
+2023,25265,2m,COLEGIO ANTIL MAWIDA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,240,prom_lect2m_rbd,49,,240.0,49
+2023,25265,2m,COLEGIO ANTIL MAWIDA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,252,prom_mate2m_rbd,49,,252.0,49
+2023,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA,1,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,191,prom_lect2m_rbd,104,,191.0,104
+2023,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA CISTERNA,1,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,218,prom_mate2m_rbd,108,,218.0,108
+2023,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,,prom_lect2m_rbd,1,1,,1
+2023,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,,prom_mate2m_rbd,0,1,,0
+2023,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,244,prom_lect2m_rbd,117,,244.0,117
+2023,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,249,prom_mate2m_rbd,129,,249.0,129
+2023,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,242,prom_lect2m_rbd,193,,242.0,193
+2023,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,238,prom_mate2m_rbd,186,,238.0,186
+2023,9722,2m,LICEO PORTAL DE LA CISTERNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,244,prom_lect2m_rbd,40,,244.0,40
+2023,9722,2m,LICEO PORTAL DE LA CISTERNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,234,prom_mate2m_rbd,42,,234.0,42
+2023,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,265,prom_lect2m_rbd,24,,265.0,24
+2023,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,276,prom_mate2m_rbd,23,,276.0,23
+2023,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,284,prom_lect2m_rbd,38,,284.0,38
+2023,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,266,prom_mate2m_rbd,38,,266.0,38
+2023,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,270,prom_lect2m_rbd,55,,270.0,55
+2023,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,262,prom_mate2m_rbd,51,,262.0,51
+2023,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,240,prom_lect2m_rbd,75,,240.0,75
+2023,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,257,prom_mate2m_rbd,75,,257.0,75
+2023,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,217,prom_lect2m_rbd,72,2,217.0,72
+2023,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CISTERNA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,225,prom_mate2m_rbd,90,,225.0,90
+2023,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,262,prom_lect2m_rbd,71,,262.0,71
+2023,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,249,prom_mate2m_rbd,72,,249.0,72
+2023,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,259,prom_lect2m_rbd,116,,259.0,116
+2023,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,298,prom_mate2m_rbd,113,,298.0,113
+2023,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,262,prom_lect2m_rbd,39,,262.0,39
+2023,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,285,prom_mate2m_rbd,38,,285.0,38
+2023,9829,2m,COLEGIO MIGUEL DE CERVANTES,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,256,prom_lect2m_rbd,110,,256.0,110
+2023,9829,2m,COLEGIO MIGUEL DE CERVANTES,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,247,prom_mate2m_rbd,109,,247.0,109
+2023,9801,2m,COLEGIO POLIV. SAINT ORLAND,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,253,prom_lect2m_rbd,57,,253.0,57
+2023,9801,2m,COLEGIO POLIV. SAINT ORLAND,2,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,260,prom_mate2m_rbd,59,,260.0,59
+2023,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,lect,263,prom_lect2m_rbd,74,,263.0,74
+2023,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,final20240418v1,20240418,Simce segundo medio 2023 - Versión pública.rar,mate,277,prom_mate2m_rbd,76,,277.0,76
+2024,9701,2m,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,254,prom_lect2m_rbd,28,,254.0,28
+2024,9701,2m,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,251,prom_mate2m_rbd,27,,251.0,27
+2024,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,221,prom_lect2m_rbd,53,,221.0,53
+2024,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,205,prom_mate2m_rbd,52,,205.0,52
+2024,9827,2m,COLEGIO IDOP LIMITADA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,231,prom_lect2m_rbd,107,,231.0,107
+2024,9827,2m,COLEGIO IDOP LIMITADA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,230,prom_mate2m_rbd,108,,230.0,108
+2024,9767,2m,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,255,prom_lect2m_rbd,76,,255.0,76
+2024,9767,2m,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,261,prom_mate2m_rbd,79,,261.0,79
+2024,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMO,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,233,prom_lect2m_rbd,205,,233.0,205
+2024,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMO,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,228,prom_mate2m_rbd,216,,228.0,216
+2024,9759,2m,LICEO LAURA VICUNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,262,prom_lect2m_rbd,75,,262.0,75
+2024,9759,2m,LICEO LAURA VICUNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,246,prom_mate2m_rbd,72,,246.0,72
+2024,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCE,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,217,prom_lect2m_rbd,175,,217.0,175
+2024,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCE,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,214,prom_mate2m_rbd,167,,214.0,167
+2024,25265,2m,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,274,prom_lect2m_rbd,33,,274.0,33
+2024,25265,2m,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,262,prom_mate2m_rbd,32,,262.0,32
+2024,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA C,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,207,prom_lect2m_rbd,116,,207.0,116
+2024,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA C,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,213,prom_mate2m_rbd,118,,213.0,118
+2024,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTER,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,231,prom_lect2m_rbd,30,,231.0,30
+2024,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTER,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,264,prom_mate2m_rbd,31,,264.0,31
+2024,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,256,prom_lect2m_rbd,135,,256.0,135
+2024,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,1,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,252,prom_mate2m_rbd,140,,252.0,140
+2024,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,233,prom_lect2m_rbd,165,,233.0,165
+2024,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,238,prom_mate2m_rbd,169,,238.0,169
+2024,9722,2m,LICEO PORTAL DE LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,235,prom_lect2m_rbd,25,,235.0,25
+2024,9722,2m,LICEO PORTAL DE LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,212,prom_mate2m_rbd,25,,212.0,25
+2024,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTE,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,241,prom_lect2m_rbd,26,,241.0,26
+2024,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTE,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,256,prom_mate2m_rbd,26,,256.0,26
+2024,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,277,prom_lect2m_rbd,35,,277.0,35
+2024,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,245,prom_mate2m_rbd,34,,245.0,34
+2024,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,282,prom_lect2m_rbd,70,,282.0,70
+2024,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,269,prom_mate2m_rbd,68,,269.0,68
+2024,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,244,prom_lect2m_rbd,72,,244.0,72
+2024,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,270,prom_mate2m_rbd,76,,270.0,76
+2024,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CIST,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,233,prom_lect2m_rbd,118,,233.0,118
+2024,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CIST,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,245,prom_mate2m_rbd,132,,245.0,132
+2024,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,272,prom_lect2m_rbd,74,,272.0,74
+2024,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,258,prom_mate2m_rbd,69,,258.0,69
+2024,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,262,prom_lect2m_rbd,114,,262.0,114
+2024,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,294,prom_mate2m_rbd,112,,294.0,112
+2024,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,260,prom_lect2m_rbd,42,,260.0,42
+2024,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,265,prom_mate2m_rbd,42,,265.0,42
+2024,9829,2m,COLEGIO BICENTENARIO DE EXCELENCIA MIG,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,246,prom_lect2m_rbd,133,,246.0,133
+2024,9829,2m,COLEGIO BICENTENARIO DE EXCELENCIA MIG,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,275,prom_mate2m_rbd,138,,275.0,138
+2024,9801,2m,COLEGIO POLIV. SAINT ORLAND,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,265,prom_lect2m_rbd,60,,265.0,60
+2024,9801,2m,COLEGIO POLIV. SAINT ORLAND,2,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,279,prom_mate2m_rbd,60,,279.0,60
+2024,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,lect,262,prom_lect2m_rbd,74,,262.0,74
+2024,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,preliminar20240422v1,20250422,Simce 2do medio 2024.rar,mate,261,prom_mate2m_rbd,71,,261.0,71
+2024,9701,4b,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,252,prom_lect4b_rbd,28,,252.0,28
+2024,9701,4b,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,269,prom_mate4b_rbd,29,,269.0,29
+2024,26278,4b,ESCUELA BASICA ARISTA VITAE,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,264,prom_lect4b_rbd,3,,264.0,3
+2024,26278,4b,ESCUELA BASICA ARISTA VITAE,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,224,prom_mate4b_rbd,3,,224.0,3
+2024,9827,4b,COLEGIO IDOP LIMITADA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,265,prom_lect4b_rbd,39,,265.0,39
+2024,9827,4b,COLEGIO IDOP LIMITADA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,252,prom_mate4b_rbd,39,,252.0,39
+2024,9804,4b,ESCUELA PABLO DE TARSO,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,290,prom_lect4b_rbd,19,,290.0,19
+2024,9804,4b,ESCUELA PABLO DE TARSO,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,267,prom_mate4b_rbd,19,,267.0,19
+2024,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,262,prom_lect4b_rbd,78,,262.0,78
+2024,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,266,prom_mate4b_rbd,80,,266.0,80
+2024,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,287,prom_lect4b_rbd,31,,287.0,31
+2024,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,277,prom_mate4b_rbd,31,,277.0,31
+2024,9767,4b,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,275,prom_lect4b_rbd,64,,275.0,64
+2024,9767,4b,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,250,prom_mate4b_rbd,65,,250.0,65
+2024,9807,4b,ESCUELA PARTICULAR LOCARNO,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,266,prom_lect4b_rbd,18,,266.0,18
+2024,9807,4b,ESCUELA PARTICULAR LOCARNO,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,226,prom_mate4b_rbd,18,,226.0,18
+2024,11997,4b,ESCUELA JOSE IBAÑEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,261,prom_lect4b_rbd,48,,261.0,48
+2024,11997,4b,ESCUELA JOSE IBAÑEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,243,prom_mate4b_rbd,41,,243.0,41
+2024,9730,4b,COLEGIO ANTU,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,242,prom_lect4b_rbd,26,,242.0,26
+2024,9730,4b,COLEGIO ANTU,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,240,prom_mate4b_rbd,24,,240.0,24
+2024,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,274,prom_lect4b_rbd,40,,274.0,40
+2024,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,276,prom_mate4b_rbd,40,,276.0,40
+2024,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,281,prom_lect4b_rbd,171,,281.0,171
+2024,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,270,prom_mate4b_rbd,172,,270.0,172
+2024,9759,4b,LICEO LAURA VICUNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,272,prom_lect4b_rbd,42,,272.0,42
+2024,9759,4b,LICEO LAURA VICUNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,239,prom_mate4b_rbd,40,,239.0,40
+2024,25265,4b,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,271,prom_lect4b_rbd,56,,271.0,56
+2024,25265,4b,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,249,prom_mate4b_rbd,57,,249.0,57
+2024,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,,prom_lect4b_rbd,0,,,0
+2024,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,,prom_mate4b_rbd,0,,,0
+2024,9699,4b,COLEGIO NACIONES UNIDAS,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,279,prom_lect4b_rbd,31,,279.0,31
+2024,9699,4b,COLEGIO NACIONES UNIDAS,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,235,prom_mate4b_rbd,32,,235.0,32
+2024,9722,4b,LICEO PORTAL DE LA CISTERNA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,277,prom_lect4b_rbd,23,,277.0,23
+2024,9722,4b,LICEO PORTAL DE LA CISTERNA,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,258,prom_mate4b_rbd,26,,258.0,26
+2024,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,289,prom_lect4b_rbd,39,,289.0,39
+2024,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,268,prom_mate4b_rbd,38,,268.0,38
+2024,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,248,prom_lect4b_rbd,22,,248.0,22
+2024,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,216,prom_mate4b_rbd,24,,216.0,24
+2024,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,292,prom_lect4b_rbd,40,,292.0,40
+2024,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,285,prom_mate4b_rbd,39,,285.0,39
+2024,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,285,prom_lect4b_rbd,71,,285.0,71
+2024,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,270,prom_mate4b_rbd,75,,270.0,75
+2024,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,311,prom_lect4b_rbd,37,,311.0,37
+2024,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,308,prom_mate4b_rbd,37,,308.0,37
+2024,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,278,prom_lect4b_rbd,43,,278.0,43
+2024,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,266,prom_mate4b_rbd,42,,266.0,42
+2024,9700,4b,COLEGIO PALESTINO,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,271,prom_lect4b_rbd,32,,271.0,32
+2024,9700,4b,COLEGIO PALESTINO,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,247,prom_mate4b_rbd,32,,247.0,32
+2024,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,274,prom_lect4b_rbd,101,,274.0,101
+2024,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,271,prom_mate4b_rbd,103,,271.0,103
+2024,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,298,prom_lect4b_rbd,57,,298.0,57
+2024,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,277,prom_mate4b_rbd,55,,277.0,55
+2024,9703,4b,ESCUELA ESPERANZA JOVEN,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,248,prom_lect4b_rbd,32,,248.0,32
+2024,9703,4b,ESCUELA ESPERANZA JOVEN,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,225,prom_mate4b_rbd,31,,225.0,31
+2024,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,285,prom_lect4b_rbd,39,,285.0,39
+2024,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,267,prom_mate4b_rbd,38,,267.0,38
+2024,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,290,prom_lect4b_rbd,71,,290.0,71
+2024,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,265,prom_mate4b_rbd,72,,265.0,72
+2024,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,302,prom_lect4b_rbd,13,,302.0,13
+2024,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,280,prom_mate4b_rbd,13,,280.0,13
+2024,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,262,prom_lect4b_rbd,39,,262.0,39
+2024,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,253,prom_mate4b_rbd,40,,253.0,40
+2024,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,275,prom_lect4b_rbd,25,,275.0,25
+2024,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,244,prom_mate4b_rbd,29,,244.0,29
+2024,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,lect,242,prom_lect4b_rbd,18,,242.0,18
+2024,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,3,preliminar20240422v1,20250422,Simce 4to basico 2024.rar,mate,233,prom_mate4b_rbd,22,,233.0,22
+2024,9701,6b,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,216,prom_lect6b_rbd,24,,216.0,24
+2024,9701,6b,LICEO POLIVALENTE OLOF PALME,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,220,prom_mate6b_rbd,24,,220.0,24
+2024,26278,6b,ESCUELA BASICA ARISTA VITAE,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,218,prom_lect6b_rbd,10,,218.0,10
+2024,26278,6b,ESCUELA BASICA ARISTA VITAE,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,215,prom_mate6b_rbd,10,,215.0,10
+2024,9827,6b,COLEGIO IDOP LIMITADA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,235,prom_lect6b_rbd,30,,235.0,30
+2024,9827,6b,COLEGIO IDOP LIMITADA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,232,prom_mate6b_rbd,37,,232.0,37
+2024,9804,6b,ESCUELA PABLO DE TARSO,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,266,prom_lect6b_rbd,22,,266.0,22
+2024,9804,6b,ESCUELA PABLO DE TARSO,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,247,prom_mate6b_rbd,22,,247.0,22
+2024,9859,6b,COLEGIO PARTICULAR VILLA JESUS,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,241,prom_lect6b_rbd,73,,241.0,73
+2024,9859,6b,COLEGIO PARTICULAR VILLA JESUS,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,251,prom_mate6b_rbd,71,,251.0,71
+2024,11914,6b,ESCUELA BASICA Nº128 SAN RAMON,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,251,prom_lect6b_rbd,28,,251.0,28
+2024,11914,6b,ESCUELA BASICA Nº128 SAN RAMON,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,217,prom_mate6b_rbd,28,,217.0,28
+2024,9767,6b,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,264,prom_lect6b_rbd,69,,264.0,69
+2024,9767,6b,LICEO MADRE CECILIA LAZZERI,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,261,prom_mate6b_rbd,73,,261.0,73
+2024,9807,6b,ESCUELA PARTICULAR LOCARNO,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,207,prom_lect6b_rbd,13,,207.0,13
+2024,9807,6b,ESCUELA PARTICULAR LOCARNO,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,189,prom_mate6b_rbd,12,,189.0,12
+2024,11997,6b,ESCUELA JOSE IBAÑEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,215,prom_lect6b_rbd,51,,215.0,51
+2024,11997,6b,ESCUELA JOSE IBAÑEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,212,prom_mate6b_rbd,52,,212.0,52
+2024,9730,6b,COLEGIO ANTU,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,220,prom_lect6b_rbd,26,,220.0,26
+2024,9730,6b,COLEGIO ANTU,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,226,prom_mate6b_rbd,31,,226.0,31
+2024,9788,6b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,242,prom_lect6b_rbd,38,,242.0,38
+2024,9788,6b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,228,prom_mate6b_rbd,40,,228.0,40
+2024,9811,6b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,261,prom_lect6b_rbd,169,,261.0,169
+2024,9811,6b,ESCUELA PART. REPUBLICA ALEMANIA FEDERAL,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,246,prom_mate6b_rbd,171,,246.0,171
+2024,9759,6b,LICEO LAURA VICUNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,270,prom_lect6b_rbd,35,,270.0,35
+2024,9759,6b,LICEO LAURA VICUNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,245,prom_mate6b_rbd,35,,245.0,35
+2024,25265,6b,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,244,prom_lect6b_rbd,44,,244.0,44
+2024,25265,6b,COLEGIO ANTIL MAWIDA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,228,prom_mate6b_rbd,46,,228.0,46
+2024,9499,6b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,,prom_lect6b_rbd,0,,,0
+2024,9499,6b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,,prom_mate6b_rbd,0,,,0
+2024,9699,6b,COLEGIO NACIONES UNIDAS,2,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,214,prom_lect6b_rbd,28,,214.0,28
+2024,9699,6b,COLEGIO NACIONES UNIDAS,2,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,220,prom_mate6b_rbd,29,,220.0,29
+2024,9722,6b,LICEO PORTAL DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,252,prom_lect6b_rbd,38,,252.0,38
+2024,9722,6b,LICEO PORTAL DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,244,prom_mate6b_rbd,38,,244.0,38
+2024,25480,6b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,280,prom_lect6b_rbd,35,,280.0,35
+2024,25480,6b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,278,prom_mate6b_rbd,36,,278.0,36
+2024,9808,6b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,253,prom_lect6b_rbd,25,,253.0,25
+2024,9808,6b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,230,prom_mate6b_rbd,26,,230.0,26
+2024,25017,6b,ESC. BAS. PATR. WILLINS HOOVER KURT,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,303,prom_lect6b_rbd,32,,303.0,32
+2024,25017,6b,ESC. BAS. PATR. WILLINS HOOVER KURT,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,298,prom_mate6b_rbd,32,,298.0,32
+2024,9757,6b,CENTRO EDUCACIONAL SANTA CLARA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,259,prom_lect6b_rbd,77,,259.0,77
+2024,9757,6b,CENTRO EDUCACIONAL SANTA CLARA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,246,prom_mate6b_rbd,77,,246.0,77
+2024,9771,6b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,289,prom_lect6b_rbd,37,,289.0,37
+2024,9771,6b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,292,prom_mate6b_rbd,37,,292.0,37
+2024,9797,6b,COLEGIO ADVENTISTA LA CISTERNA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,286,prom_lect6b_rbd,43,,286.0,43
+2024,9797,6b,COLEGIO ADVENTISTA LA CISTERNA,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,286,prom_mate6b_rbd,43,,286.0,43
+2024,9700,6b,COLEGIO PALESTINO,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,242,prom_lect6b_rbd,34,,242.0,34
+2024,9700,6b,COLEGIO PALESTINO,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,228,prom_mate6b_rbd,34,,228.0,34
+2024,25727,6b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,253,prom_lect6b_rbd,114,,253.0,114
+2024,25727,6b,LICEO PART. SALESIANO MANUEL ARRIARAN BARROS,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,248,prom_mate6b_rbd,114,,248.0,114
+2024,9786,6b,ROSA MARCKMANN DE GONZALEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,251,prom_lect6b_rbd,60,,251.0,60
+2024,9786,6b,ROSA MARCKMANN DE GONZALEZ,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,229,prom_mate6b_rbd,63,,229.0,63
+2024,9703,6b,ESCUELA ESPERANZA JOVEN,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,224,prom_lect6b_rbd,31,,224.0,31
+2024,9703,6b,ESCUELA ESPERANZA JOVEN,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,210,prom_mate6b_rbd,31,,210.0,31
+2024,9766,6b,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,258,prom_lect6b_rbd,38,,258.0,38
+2024,9766,6b,COLEGIO SANTA MARIA DE LOS ANGELES,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,273,prom_mate6b_rbd,38,,273.0,38
+2024,9758,6b,COLEGIO SANTA ISABEL DE HUNGRIA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,258,prom_lect6b_rbd,80,,258.0,80
+2024,9758,6b,COLEGIO SANTA ISABEL DE HUNGRIA,4,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,245,prom_mate6b_rbd,82,,245.0,82
+2024,9789,6b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,254,prom_lect6b_rbd,20,,254.0,20
+2024,9789,6b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,244,prom_mate6b_rbd,22,,244.0,22
+2024,9801,6b,COLEGIO POLIV. SAINT ORLAND,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,266,prom_lect6b_rbd,34,,266.0,34
+2024,9801,6b,COLEGIO POLIV. SAINT ORLAND,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,267,prom_mate6b_rbd,36,,267.0,36
+2024,9706,6b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,250,prom_lect6b_rbd,31,,250.0,31
+2024,9706,6b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,251,prom_mate6b_rbd,31,,251.0,31
+2024,9809,6b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,2,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,lect,225,prom_lect6b_rbd,26,,225.0,26
+2024,9809,6b,ESCUELA PARTICULAR SAINT PHILLIP OF NERY,2,preliminar20240422v1,20250422,Simce 6to basico 2024.rar,mate,222,prom_mate6b_rbd,27,,222.0,27
+2025,9767,4b,LICEO MADRE CECILIA LAZZERI,4,v22025,20260622,Simce 4to basico 2025.rar,lect,285,prom_lect4b_rbd,69,,285.0,69
+2025,9767,4b,LICEO MADRE CECILIA LAZZERI,4,v22025,20260622,Simce 4to basico 2025.rar,mate,265,prom_mate4b_rbd,68,,265.0,68
+2025,9807,4b,ESCUELA PARTICULAR LOCARNO,3,v22025,20260622,Simce 4to basico 2025.rar,lect,258,prom_lect4b_rbd,15,,258.0,15
+2025,9807,4b,ESCUELA PARTICULAR LOCARNO,3,v22025,20260622,Simce 4to basico 2025.rar,mate,231,prom_mate4b_rbd,14,,231.0,14
+2025,9701,4b,LICEO POLIVALENTE OLOF PALME,3,v22025,20260622,Simce 4to basico 2025.rar,lect,263,prom_lect4b_rbd,30,,263.0,30
+2025,9701,4b,LICEO POLIVALENTE OLOF PALME,3,v22025,20260622,Simce 4to basico 2025.rar,mate,238,prom_mate4b_rbd,31,,238.0,31
+2025,9827,4b,COLEGIO IDOP LIMITADA,3,v22025,20260622,Simce 4to basico 2025.rar,lect,261,prom_lect4b_rbd,39,,261.0,39
+2025,9827,4b,COLEGIO IDOP LIMITADA,3,v22025,20260622,Simce 4to basico 2025.rar,mate,250,prom_mate4b_rbd,41,,250.0,41
+2025,9804,4b,ESCUELA PABLO DE TARSO,3,v22025,20260622,Simce 4to basico 2025.rar,lect,257,prom_lect4b_rbd,20,,257.0,20
+2025,9804,4b,ESCUELA PABLO DE TARSO,3,v22025,20260622,Simce 4to basico 2025.rar,mate,252,prom_mate4b_rbd,20,,252.0,20
+2025,26278,4b,ESCUELA BASICA ARISTA VITAE,4,v22025,20260622,Simce 4to basico 2025.rar,lect,260,prom_lect4b_rbd,4,,260.0,4
+2025,26278,4b,ESCUELA BASICA ARISTA VITAE,4,v22025,20260622,Simce 4to basico 2025.rar,mate,240,prom_mate4b_rbd,4,,240.0,4
+2025,11997,4b,ESCUELA JOSE IBAÑEZ,3,v22025,20260622,Simce 4to basico 2025.rar,lect,269,prom_lect4b_rbd,41,,269.0,41
+2025,11997,4b,ESCUELA JOSE IBAÑEZ,3,v22025,20260622,Simce 4to basico 2025.rar,mate,245,prom_mate4b_rbd,41,,245.0,41
+2025,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,v22025,20260622,Simce 4to basico 2025.rar,lect,261,prom_lect4b_rbd,72,,261.0,72
+2025,9859,4b,COLEGIO PARTICULAR VILLA JESUS,3,v22025,20260622,Simce 4to basico 2025.rar,mate,252,prom_mate4b_rbd,75,,252.0,75
+2025,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,v22025,20260622,Simce 4to basico 2025.rar,lect,244,prom_lect4b_rbd,35,,244.0,35
+2025,11914,4b,ESCUELA BASICA Nº128 SAN RAMON,3,v22025,20260622,Simce 4to basico 2025.rar,mate,240,prom_mate4b_rbd,36,,240.0,36
+2025,9730,4b,COLEGIO ANTU,3,v22025,20260622,Simce 4to basico 2025.rar,lect,254,prom_lect4b_rbd,33,,254.0,33
+2025,9730,4b,COLEGIO ANTU,3,v22025,20260622,Simce 4to basico 2025.rar,mate,232,prom_mate4b_rbd,35,,232.0,35
+2025,9699,4b,COLEGIO NACIONES UNIDAS,3,v22025,20260622,Simce 4to basico 2025.rar,lect,240,prom_lect4b_rbd,26,,240.0,26
+2025,9699,4b,COLEGIO NACIONES UNIDAS,3,v22025,20260622,Simce 4to basico 2025.rar,mate,221,prom_mate4b_rbd,25,,221.0,25
+2025,9759,4b,LICEO LAURA VICUNA,4,v22025,20260622,Simce 4to basico 2025.rar,lect,299,prom_lect4b_rbd,40,,299.0,40
+2025,9759,4b,LICEO LAURA VICUNA,4,v22025,20260622,Simce 4to basico 2025.rar,mate,252,prom_mate4b_rbd,38,,252.0,38
+2025,25265,4b,COLEGIO ANTIL MAWIDA,3,v22025,20260622,Simce 4to basico 2025.rar,lect,257,prom_lect4b_rbd,50,,257.0,50
+2025,25265,4b,COLEGIO ANTIL MAWIDA,3,v22025,20260622,Simce 4to basico 2025.rar,mate,236,prom_mate4b_rbd,51,,236.0,51
+2025,9722,4b,LICEO PORTAL DE LA CISTERNA,3,v22025,20260622,Simce 4to basico 2025.rar,lect,259,prom_lect4b_rbd,33,,259.0,33
+2025,9722,4b,LICEO PORTAL DE LA CISTERNA,3,v22025,20260622,Simce 4to basico 2025.rar,mate,244,prom_mate4b_rbd,34,,244.0,34
+2025,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,v22025,20260622,Simce 4to basico 2025.rar,lect,264,prom_lect4b_rbd,44,,264.0,44
+2025,9788,4b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,v22025,20260622,Simce 4to basico 2025.rar,mate,255,prom_mate4b_rbd,43,,255.0,43
+2025,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERA,3,v22025,20260622,Simce 4to basico 2025.rar,lect,276,prom_lect4b_rbd,172,,276.0,172
+2025,9811,4b,ESCUELA PART. REPUBLICA ALEMANIA FEDERA,3,v22025,20260622,Simce 4to basico 2025.rar,mate,272,prom_mate4b_rbd,172,,272.0,172
+2025,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTER,4,v22025,20260622,Simce 4to basico 2025.rar,lect,295,prom_lect4b_rbd,31,,295.0,31
+2025,25480,4b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTER,4,v22025,20260622,Simce 4to basico 2025.rar,mate,285,prom_mate4b_rbd,30,,285.0,30
+2025,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,v22025,20260622,Simce 4to basico 2025.rar,lect,267,prom_lect4b_rbd,27,,267.0,27
+2025,9808,4b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,v22025,20260622,Simce 4to basico 2025.rar,mate,228,prom_mate4b_rbd,28,,228.0,28
+2025,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,v22025,20260622,Simce 4to basico 2025.rar,lect,,prom_lect4b_rbd,0,,,0
+2025,9499,4b,ESCUELA HOGAR DE CIEGOS SANTA LUCIA,,v22025,20260622,Simce 4to basico 2025.rar,mate,,prom_mate4b_rbd,0,,,0
+2025,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,v22025,20260622,Simce 4to basico 2025.rar,lect,297,prom_lect4b_rbd,69,,297.0,69
+2025,9757,4b,CENTRO EDUCACIONAL SANTA CLARA,4,v22025,20260622,Simce 4to basico 2025.rar,mate,271,prom_mate4b_rbd,69,,271.0,69
+2025,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,v22025,20260622,Simce 4to basico 2025.rar,lect,304,prom_lect4b_rbd,33,,304.0,33
+2025,9771,4b,CHILEAN EAGLES COLLEGE - LA CISTERNA,4,v22025,20260622,Simce 4to basico 2025.rar,mate,297,prom_mate4b_rbd,34,,297.0,34
+2025,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,3,v22025,20260622,Simce 4to basico 2025.rar,lect,262,prom_lect4b_rbd,40,,262.0,40
+2025,9797,4b,COLEGIO ADVENTISTA LA CISTERNA,3,v22025,20260622,Simce 4to basico 2025.rar,mate,251,prom_mate4b_rbd,40,,251.0,40
+2025,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,v22025,20260622,Simce 4to basico 2025.rar,lect,297,prom_lect4b_rbd,36,,297.0,36
+2025,25017,4b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,v22025,20260622,Simce 4to basico 2025.rar,mate,289,prom_mate4b_rbd,35,,289.0,35
+2025,9700,4b,COLEGIO PALESTINO,4,v22025,20260622,Simce 4to basico 2025.rar,lect,258,prom_lect4b_rbd,29,,258.0,29
+2025,9700,4b,COLEGIO PALESTINO,4,v22025,20260622,Simce 4to basico 2025.rar,mate,246,prom_mate4b_rbd,30,,246.0,30
+2025,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN B,4,v22025,20260622,Simce 4to basico 2025.rar,lect,265,prom_lect4b_rbd,95,,265.0,95
+2025,25727,4b,LICEO PART. SALESIANO MANUEL ARRIARAN B,4,v22025,20260622,Simce 4to basico 2025.rar,mate,254,prom_mate4b_rbd,99,,254.0,99
+2025,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,v22025,20260622,Simce 4to basico 2025.rar,lect,286,prom_lect4b_rbd,59,,286.0,59
+2025,9786,4b,ROSA MARCKMANN DE GONZALEZ,3,v22025,20260622,Simce 4to basico 2025.rar,mate,270,prom_mate4b_rbd,56,,270.0,56
+2025,9703,4b,ESCUELA ESPERANZA JOVEN,3,v22025,20260622,Simce 4to basico 2025.rar,lect,278,prom_lect4b_rbd,29,,278.0,29
+2025,9703,4b,ESCUELA ESPERANZA JOVEN,3,v22025,20260622,Simce 4to basico 2025.rar,mate,250,prom_mate4b_rbd,28,,250.0,28
+2025,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,v22025,20260622,Simce 4to basico 2025.rar,lect,276,prom_lect4b_rbd,39,,276.0,39
+2025,9766,4b,COLEGIO SANTA MARIA DE LOS ANGELES,4,v22025,20260622,Simce 4to basico 2025.rar,mate,263,prom_mate4b_rbd,38,,263.0,38
+2025,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,v22025,20260622,Simce 4to basico 2025.rar,lect,284,prom_lect4b_rbd,25,,284.0,25
+2025,9706,4b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,v22025,20260622,Simce 4to basico 2025.rar,mate,258,prom_mate4b_rbd,25,,258.0,25
+2025,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NER,3,v22025,20260622,Simce 4to basico 2025.rar,lect,258,prom_lect4b_rbd,17,,258.0,17
+2025,9809,4b,ESCUELA PARTICULAR SAINT PHILLIP OF NER,3,v22025,20260622,Simce 4to basico 2025.rar,mate,257,prom_mate4b_rbd,20,,257.0,20
+2025,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,v22025,20260622,Simce 4to basico 2025.rar,lect,287,prom_lect4b_rbd,17,,287.0,17
+2025,9789,4b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,3,v22025,20260622,Simce 4to basico 2025.rar,mate,273,prom_mate4b_rbd,17,,273.0,17
+2025,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,v22025,20260622,Simce 4to basico 2025.rar,lect,284,prom_lect4b_rbd,39,,284.0,39
+2025,9801,4b,COLEGIO POLIV. SAINT ORLAND,3,v22025,20260622,Simce 4to basico 2025.rar,mate,263,prom_mate4b_rbd,39,,263.0,39
+2025,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,v22025,20260622,Simce 4to basico 2025.rar,lect,290,prom_lect4b_rbd,72,,290.0,72
+2025,9758,4b,COLEGIO SANTA ISABEL DE HUNGRIA,4,v22025,20260622,Simce 4to basico 2025.rar,mate,255,prom_mate4b_rbd,73,,255.0,73
+2025,9767,8b,LICEO MADRE CECILIA LAZZERI,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,246,prom_lect8b_rbd,74,,246.0,74
+2025,9767,8b,LICEO MADRE CECILIA LAZZERI,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,276,prom_mate8b_rbd,71,,276.0,71
+2025,9767,8b,LICEO MADRE CECILIA LAZZERI,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,248,prom_hist8b_rbd,74,,248.0,74
+2025,9701,8b,LICEO POLIVALENTE OLOF PALME,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,228,prom_lect8b_rbd,34,,228.0,34
+2025,9701,8b,LICEO POLIVALENTE OLOF PALME,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,243,prom_mate8b_rbd,39,,243.0,39
+2025,9701,8b,LICEO POLIVALENTE OLOF PALME,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,237,prom_hist8b_rbd,35,,237.0,35
+2025,9827,8b,COLEGIO IDOP LIMITADA,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,251,prom_lect8b_rbd,39,,251.0,39
+2025,9827,8b,COLEGIO IDOP LIMITADA,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,244,prom_mate8b_rbd,40,,244.0,40
+2025,9827,8b,COLEGIO IDOP LIMITADA,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,262,prom_hist8b_rbd,40,,262.0,40
+2025,9781,8b,CENTRO POLITECNICO PARTICULAR SAN RAMON,2,v12025,20260427,Simce 8vo basico 2025.rar,lect,226,prom_lect8b_rbd,18,2,226.0,18
+2025,9781,8b,CENTRO POLITECNICO PARTICULAR SAN RAMON,2,v12025,20260427,Simce 8vo basico 2025.rar,mate,224,prom_mate8b_rbd,18,2,224.0,18
+2025,9781,8b,CENTRO POLITECNICO PARTICULAR SAN RAMON,2,v12025,20260427,Simce 8vo basico 2025.rar,hist,218,prom_hist8b_rbd,18,2,218.0,18
+2025,26278,8b,ESCUELA BASICA ARISTA VITAE,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,248,prom_lect8b_rbd,3,,248.0,3
+2025,26278,8b,ESCUELA BASICA ARISTA VITAE,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,219,prom_mate8b_rbd,3,,219.0,3
+2025,26278,8b,ESCUELA BASICA ARISTA VITAE,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,256,prom_hist8b_rbd,3,,256.0,3
+2025,11997,8b,ESCUELA JOSE IBAÑEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,235,prom_lect8b_rbd,54,,235.0,54
+2025,11997,8b,ESCUELA JOSE IBAÑEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,231,prom_mate8b_rbd,55,,231.0,55
+2025,11997,8b,ESCUELA JOSE IBAÑEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,241,prom_hist8b_rbd,54,,241.0,54
+2025,9859,8b,COLEGIO PARTICULAR VILLA JESUS,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,240,prom_lect8b_rbd,60,,240.0,60
+2025,9859,8b,COLEGIO PARTICULAR VILLA JESUS,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,265,prom_mate8b_rbd,65,,265.0,65
+2025,9859,8b,COLEGIO PARTICULAR VILLA JESUS,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,266,prom_hist8b_rbd,60,,266.0,60
+2025,11914,8b,ESCUELA BASICA Nº128 SAN RAMON,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,235,prom_lect8b_rbd,29,,235.0,29
+2025,11914,8b,ESCUELA BASICA Nº128 SAN RAMON,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,229,prom_mate8b_rbd,26,,229.0,26
+2025,11914,8b,ESCUELA BASICA Nº128 SAN RAMON,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,227,prom_hist8b_rbd,29,,227.0,29
+2025,9730,8b,COLEGIO ANTU,2,v12025,20260427,Simce 8vo basico 2025.rar,lect,190,prom_lect8b_rbd,26,,190.0,26
+2025,9730,8b,COLEGIO ANTU,2,v12025,20260427,Simce 8vo basico 2025.rar,mate,222,prom_mate8b_rbd,26,,222.0,26
+2025,9730,8b,COLEGIO ANTU,2,v12025,20260427,Simce 8vo basico 2025.rar,hist,216,prom_hist8b_rbd,26,,216.0,26
+2025,9699,8b,COLEGIO NACIONES UNIDAS,2,v12025,20260427,Simce 8vo basico 2025.rar,lect,219,prom_lect8b_rbd,28,,219.0,28
+2025,9699,8b,COLEGIO NACIONES UNIDAS,2,v12025,20260427,Simce 8vo basico 2025.rar,mate,225,prom_mate8b_rbd,29,,225.0,29
+2025,9699,8b,COLEGIO NACIONES UNIDAS,2,v12025,20260427,Simce 8vo basico 2025.rar,hist,243,prom_hist8b_rbd,28,,243.0,28
+2025,9759,8b,LICEO LAURA VICUNA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,237,prom_lect8b_rbd,35,,237.0,35
+2025,9759,8b,LICEO LAURA VICUNA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,247,prom_mate8b_rbd,34,,247.0,34
+2025,9759,8b,LICEO LAURA VICUNA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,243,prom_hist8b_rbd,36,,243.0,36
+2025,31030,8b,ESCUELA PRE MILITAR HEROES DE LA CONCEP,2,v12025,20260427,Simce 8vo basico 2025.rar,lect,205,prom_lect8b_rbd,96,,205.0,96
+2025,31030,8b,ESCUELA PRE MILITAR HEROES DE LA CONCEP,2,v12025,20260427,Simce 8vo basico 2025.rar,mate,221,prom_mate8b_rbd,98,,221.0,98
+2025,31030,8b,ESCUELA PRE MILITAR HEROES DE LA CONCEP,2,v12025,20260427,Simce 8vo basico 2025.rar,hist,220,prom_hist8b_rbd,96,,220.0,96
+2025,25265,8b,COLEGIO ANTIL MAWIDA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,258,prom_lect8b_rbd,55,,258.0,55
+2025,25265,8b,COLEGIO ANTIL MAWIDA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,273,prom_mate8b_rbd,55,,273.0,55
+2025,25265,8b,COLEGIO ANTIL MAWIDA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,255,prom_hist8b_rbd,55,,255.0,55
+2025,9722,8b,LICEO PORTAL DE LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,218,prom_lect8b_rbd,35,,218.0,35
+2025,9722,8b,LICEO PORTAL DE LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,226,prom_mate8b_rbd,35,,226.0,35
+2025,9722,8b,LICEO PORTAL DE LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,232,prom_hist8b_rbd,35,,232.0,35
+2025,9788,8b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,234,prom_lect8b_rbd,37,,234.0,37
+2025,9788,8b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,251,prom_mate8b_rbd,36,,251.0,36
+2025,9788,8b,ESCUELA PARTICULAR GRACIELA L.DE IBANEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,245,prom_hist8b_rbd,37,,245.0,37
+2025,9811,8b,ESCUELA PART. REPUBLICA ALEMANIA FEDERA,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,247,prom_lect8b_rbd,164,,247.0,164
+2025,9811,8b,ESCUELA PART. REPUBLICA ALEMANIA FEDERA,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,263,prom_mate8b_rbd,169,,263.0,169
+2025,9811,8b,ESCUELA PART. REPUBLICA ALEMANIA FEDERA,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,247,prom_hist8b_rbd,163,,247.0,163
+2025,25480,8b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTER,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,247,prom_lect8b_rbd,40,,247.0,40
+2025,25480,8b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTER,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,277,prom_mate8b_rbd,41,,277.0,41
+2025,25480,8b,COLEGIO JOSE LUIS LEGRANGE DE LA CISTER,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,283,prom_hist8b_rbd,40,,283.0,40
+2025,9808,8b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,214,prom_lect8b_rbd,23,,214.0,23
+2025,9808,8b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,215,prom_mate8b_rbd,23,,215.0,23
+2025,9808,8b,ESCUELA PARTICULAR GUIA ESTUDIANTIL,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,228,prom_hist8b_rbd,23,,228.0,23
+2025,9757,8b,CENTRO EDUCACIONAL SANTA CLARA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,247,prom_lect8b_rbd,73,,247.0,73
+2025,9757,8b,CENTRO EDUCACIONAL SANTA CLARA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,248,prom_mate8b_rbd,74,,248.0,74
+2025,9757,8b,CENTRO EDUCACIONAL SANTA CLARA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,269,prom_hist8b_rbd,73,,269.0,73
+2025,9771,8b,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,239,prom_lect8b_rbd,35,,239.0,35
+2025,9771,8b,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,296,prom_mate8b_rbd,35,,296.0,35
+2025,9771,8b,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,280,prom_hist8b_rbd,35,,280.0,35
+2025,9797,8b,COLEGIO ADVENTISTA LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,254,prom_lect8b_rbd,38,,254.0,38
+2025,9797,8b,COLEGIO ADVENTISTA LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,273,prom_mate8b_rbd,36,,273.0,36
+2025,9797,8b,COLEGIO ADVENTISTA LA CISTERNA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,240,prom_hist8b_rbd,38,,240.0,38
+2025,25017,8b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,268,prom_lect8b_rbd,32,,268.0,32
+2025,25017,8b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,297,prom_mate8b_rbd,35,,297.0,35
+2025,25017,8b,ESC. BAS. PATR. WILLINS HOOVER KURT,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,278,prom_hist8b_rbd,32,,278.0,32
+2025,9700,8b,COLEGIO PALESTINO,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,233,prom_lect8b_rbd,30,,233.0,30
+2025,9700,8b,COLEGIO PALESTINO,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,232,prom_mate8b_rbd,31,,232.0,31
+2025,9700,8b,COLEGIO PALESTINO,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,234,prom_hist8b_rbd,30,,234.0,30
+2025,25727,8b,LICEO PART. SALESIANO MANUEL ARRIARAN B,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,248,prom_lect8b_rbd,108,,248.0,108
+2025,25727,8b,LICEO PART. SALESIANO MANUEL ARRIARAN B,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,277,prom_mate8b_rbd,107,,277.0,107
+2025,25727,8b,LICEO PART. SALESIANO MANUEL ARRIARAN B,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,266,prom_hist8b_rbd,108,,266.0,108
+2025,9786,8b,ROSA MARCKMANN DE GONZALEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,220,prom_lect8b_rbd,64,,220.0,64
+2025,9786,8b,ROSA MARCKMANN DE GONZALEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,235,prom_mate8b_rbd,60,,235.0,60
+2025,9786,8b,ROSA MARCKMANN DE GONZALEZ,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,237,prom_hist8b_rbd,64,,237.0,64
+2025,9703,8b,ESCUELA ESPERANZA JOVEN,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,227,prom_lect8b_rbd,31,,227.0,31
+2025,9703,8b,ESCUELA ESPERANZA JOVEN,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,247,prom_mate8b_rbd,30,,247.0,30
+2025,9703,8b,ESCUELA ESPERANZA JOVEN,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,231,prom_hist8b_rbd,31,,231.0,31
+2025,9766,8b,COLEGIO SANTA MARIA DE LOS ANGELES,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,240,prom_lect8b_rbd,39,,240.0,39
+2025,9766,8b,COLEGIO SANTA MARIA DE LOS ANGELES,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,260,prom_mate8b_rbd,39,,260.0,39
+2025,9766,8b,COLEGIO SANTA MARIA DE LOS ANGELES,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,244,prom_hist8b_rbd,39,,244.0,39
+2025,9706,8b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,243,prom_lect8b_rbd,30,,243.0,30
+2025,9706,8b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,252,prom_mate8b_rbd,30,,252.0,30
+2025,9706,8b,ESCUELA BAS. OSCAR ENCALADA YOVANOVICH,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,261,prom_hist8b_rbd,30,,261.0,30
+2025,9809,8b,ESCUELA PARTICULAR SAINT PHILLIP OF NER,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,212,prom_lect8b_rbd,25,,212.0,25
+2025,9809,8b,ESCUELA PARTICULAR SAINT PHILLIP OF NER,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,222,prom_mate8b_rbd,24,,222.0,24
+2025,9809,8b,ESCUELA PARTICULAR SAINT PHILLIP OF NER,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,242,prom_hist8b_rbd,25,,242.0,25
+2025,9789,8b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,238,prom_lect8b_rbd,14,,238.0,14
+2025,9789,8b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,266,prom_mate8b_rbd,13,,266.0,13
+2025,9789,8b,ESCUELA PARTICULAR PABLO GOYENECHE IVER,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,259,prom_hist8b_rbd,13,,259.0,13
+2025,9801,8b,COLEGIO POLIV. SAINT ORLAND,3,v12025,20260427,Simce 8vo basico 2025.rar,lect,241,prom_lect8b_rbd,63,,241.0,63
+2025,9801,8b,COLEGIO POLIV. SAINT ORLAND,3,v12025,20260427,Simce 8vo basico 2025.rar,mate,285,prom_mate8b_rbd,63,,285.0,63
+2025,9801,8b,COLEGIO POLIV. SAINT ORLAND,3,v12025,20260427,Simce 8vo basico 2025.rar,hist,254,prom_hist8b_rbd,63,,254.0,63
+2025,9758,8b,COLEGIO SANTA ISABEL DE HUNGRIA,4,v12025,20260427,Simce 8vo basico 2025.rar,lect,230,prom_lect8b_rbd,68,,230.0,68
+2025,9758,8b,COLEGIO SANTA ISABEL DE HUNGRIA,4,v12025,20260427,Simce 8vo basico 2025.rar,mate,260,prom_mate8b_rbd,72,,260.0,72
+2025,9758,8b,COLEGIO SANTA ISABEL DE HUNGRIA,4,v12025,20260427,Simce 8vo basico 2025.rar,hist,250,prom_hist8b_rbd,68,,250.0,68
+2025,9701,2m,LICEO POLIVALENTE OLOF PALME,3,v22025,20260622,Simce 2do medio 2025.rar,lect,220,prom_lect2m_rbd,35,,220.0,35
+2025,9701,2m,LICEO POLIVALENTE OLOF PALME,3,v22025,20260622,Simce 2do medio 2025.rar,mate,219,prom_mate2m_rbd,34,,219.0,34
+2025,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,v22025,20260622,Simce 2do medio 2025.rar,lect,194,prom_lect2m_rbd,51,,194.0,51
+2025,9784,2m,LICEO TÉCNICO INDUSTRIAL LA CISTERNA,2,v22025,20260622,Simce 2do medio 2025.rar,mate,222,prom_mate2m_rbd,48,,222.0,48
+2025,9827,2m,COLEGIO IDOP LIMITADA,2,v22025,20260622,Simce 2do medio 2025.rar,lect,236,prom_lect2m_rbd,148,,236.0,148
+2025,9827,2m,COLEGIO IDOP LIMITADA,2,v22025,20260622,Simce 2do medio 2025.rar,mate,257,prom_mate2m_rbd,140,,257.0,140
+2025,9767,2m,LICEO MADRE CECILIA LAZZERI,4,v22025,20260622,Simce 2do medio 2025.rar,lect,277,prom_lect2m_rbd,81,,277.0,81
+2025,9767,2m,LICEO MADRE CECILIA LAZZERI,4,v22025,20260622,Simce 2do medio 2025.rar,mate,283,prom_mate2m_rbd,80,,283.0,80
+2025,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMO,2,v22025,20260622,Simce 2do medio 2025.rar,lect,233,prom_lect2m_rbd,197,,233.0,197
+2025,9781,2m,CENTRO POLITECNICO PARTICULAR SAN RAMO,2,v22025,20260622,Simce 2do medio 2025.rar,mate,238,prom_mate2m_rbd,199,,238.0,199
+2025,9759,2m,LICEO LAURA VICUNA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,257,prom_lect2m_rbd,69,,257.0,69
+2025,9759,2m,LICEO LAURA VICUNA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,236,prom_mate2m_rbd,64,,236.0,64
+2025,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCE,2,v22025,20260622,Simce 2do medio 2025.rar,lect,219,prom_lect2m_rbd,164,,219.0,164
+2025,31030,2m,ESCUELA PRE MILITAR HEROES DE LA CONCE,2,v22025,20260622,Simce 2do medio 2025.rar,mate,225,prom_mate2m_rbd,170,,225.0,170
+2025,25265,2m,COLEGIO ANTIL MAWIDA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,246,prom_lect2m_rbd,57,,246.0,57
+2025,25265,2m,COLEGIO ANTIL MAWIDA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,252,prom_mate2m_rbd,55,,252.0,55
+2025,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA C,1,v22025,20260622,Simce 2do medio 2025.rar,lect,202,prom_lect2m_rbd,127,,202.0,127
+2025,25995,2m,CENTRO POLITEC. CARLOS CONDELL DE LA C,1,v22025,20260622,Simce 2do medio 2025.rar,mate,219,prom_mate2m_rbd,127,,219.0,127
+2025,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTER,2,v22025,20260622,Simce 2do medio 2025.rar,lect,248,prom_lect2m_rbd,48,,248.0,48
+2025,26384,2m,COLEGIO TEC. PROF. SAN RAMON LA CISTER,2,v22025,20260622,Simce 2do medio 2025.rar,mate,270,prom_mate2m_rbd,42,,270.0,42
+2025,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,2,v22025,20260622,Simce 2do medio 2025.rar,lect,249,prom_lect2m_rbd,211,,249.0,211
+2025,9779,2m,CENTRO EDUCACIONAL SANTA ROSA,2,v22025,20260622,Simce 2do medio 2025.rar,mate,259,prom_mate2m_rbd,213,,259.0,213
+2025,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,v22025,20260622,Simce 2do medio 2025.rar,lect,233,prom_lect2m_rbd,189,,233.0,189
+2025,9693,2m,LICEO POLITECNICO CIENCIA Y TECNOLOGIA,2,v22025,20260622,Simce 2do medio 2025.rar,mate,241,prom_mate2m_rbd,189,,241.0,189
+2025,9722,2m,LICEO PORTAL DE LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,237,prom_lect2m_rbd,34,,237.0,34
+2025,9722,2m,LICEO PORTAL DE LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,237,prom_mate2m_rbd,33,,237.0,33
+2025,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTE,4,v22025,20260622,Simce 2do medio 2025.rar,lect,258,prom_lect2m_rbd,27,,258.0,27
+2025,25480,2m,COLEGIO JOSE LUIS LEGRANGE DE LA CISTE,4,v22025,20260622,Simce 2do medio 2025.rar,mate,261,prom_mate2m_rbd,27,,261.0,27
+2025,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,252,prom_lect2m_rbd,35,,252.0,35
+2025,9797,2m,COLEGIO ADVENTISTA LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,275,prom_mate2m_rbd,35,,275.0,35
+2025,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,265,prom_lect2m_rbd,70,,265.0,70
+2025,9757,2m,CENTRO EDUCACIONAL SANTA CLARA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,286,prom_mate2m_rbd,70,,286.0,70
+2025,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,269,prom_lect2m_rbd,75,,269.0,75
+2025,9771,2m,CHILEAN EAGLES COLLEGE - LA CISTERNA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,271,prom_mate2m_rbd,75,,271.0,75
+2025,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CIST,2,v22025,20260622,Simce 2do medio 2025.rar,lect,242,prom_lect2m_rbd,124,,242.0,124
+2025,9754,2m,INSTITUTO COMERCIAL PARTICULAR LA CIST,2,v22025,20260622,Simce 2do medio 2025.rar,mate,243,prom_mate2m_rbd,130,,243.0,130
+2025,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,v22025,20260622,Simce 2do medio 2025.rar,lect,265,prom_lect2m_rbd,73,,265.0,73
+2025,11918,2m,FROILAN YAÑEZ DE LA BARRA,2,v22025,20260622,Simce 2do medio 2025.rar,mate,251,prom_mate2m_rbd,72,,251.0,72
+2025,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN,4,v22025,20260622,Simce 2do medio 2025.rar,lect,266,prom_lect2m_rbd,108,,266.0,108
+2025,25727,2m,LICEO PART. SALESIANO MANUEL ARRIARAN,4,v22025,20260622,Simce 2do medio 2025.rar,mate,304,prom_mate2m_rbd,112,,304.0,112
+2025,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,v22025,20260622,Simce 2do medio 2025.rar,lect,264,prom_lect2m_rbd,38,,264.0,38
+2025,9766,2m,COLEGIO SANTA MARIA DE LOS ANGELES,4,v22025,20260622,Simce 2do medio 2025.rar,mate,251,prom_mate2m_rbd,39,,251.0,39
+2025,9829,2m,COLEGIO BICENTENARIO DE EXCELENCIA MIG,2,v22025,20260622,Simce 2do medio 2025.rar,lect,266,prom_lect2m_rbd,101,,266.0,101
+2025,9829,2m,COLEGIO BICENTENARIO DE EXCELENCIA MIG,2,v22025,20260622,Simce 2do medio 2025.rar,mate,273,prom_mate2m_rbd,108,,273.0,108
+2025,9801,2m,COLEGIO POLIV. SAINT ORLAND,3,v22025,20260622,Simce 2do medio 2025.rar,lect,261,prom_lect2m_rbd,70,,261.0,70
+2025,9801,2m,COLEGIO POLIV. SAINT ORLAND,3,v22025,20260622,Simce 2do medio 2025.rar,mate,293,prom_mate2m_rbd,70,,293.0,70
+2025,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,v22025,20260622,Simce 2do medio 2025.rar,lect,263,prom_lect2m_rbd,74,,263.0,74
+2025,9758,2m,COLEGIO SANTA ISABEL DE HUNGRIA,3,v22025,20260622,Simce 2do medio 2025.rar,mate,272,prom_mate2m_rbd,78,,272.0,78

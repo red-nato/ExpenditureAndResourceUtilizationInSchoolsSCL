@@ -1,0 +1,6 @@
+fuente,campo,antes,despues,regla
+PME,RBD,'9499',9499,Texto a entero
+PME,ESTIM_TOTAL,'0',0,Cero conservado
+IDPS,promedio_original,'',NaN,Vacío no es cero
+SIMCE,puntaje_original,'',NaN,Vacío no es cero
+IDPS 2025,indicador,1,AM,Homologación por nombre

@@ -1,0 +1,16 @@
+segmento,x,y,n,Pearson,Spearman,Kendall,nota
+Todos,matricula_total,pme_log10_total_mas1,46,0.47650733084502855,0.850369348131425,0.6955814076552808,Descriptiva
+Todos,pme_log10_total_mas1,simce_4b_lect,29,-0.06282257397054045,-0.13433573236977464,-0.06451692353651325,Descriptiva
+Todos,pme_pct_senal_revision,idps_4b_CC,28,0.009432270549081748,0.033057031947400034,0.01960907404150761,Descriptiva
+Particular subvencionado,matricula_total,pme_log10_total_mas1,38,0.4996360497730435,0.8766118199775084,0.736203841652338,Descriptiva
+Particular subvencionado,pme_log10_total_mas1,simce_4b_lect,22,-0.023207070844655214,-0.23113874898444234,-0.12200464684710918,Descriptiva
+Particular subvencionado,pme_pct_senal_revision,idps_4b_CC,21,0.14009135869916847,0.058729564683451266,0.051044330833754335,Descriptiva
+Público,matricula_total,pme_log10_total_mas1,8,,,,No reportado: n<10 o sin variación
+Público,pme_log10_total_mas1,simce_4b_lect,7,,,,No reportado: n<10 o sin variación
+Público,pme_pct_senal_revision,idps_4b_CC,7,,,,No reportado: n<10 o sin variación
+basica_media,matricula_total,pme_log10_total_mas1,38,0.3215948450727722,0.7656361160573262,0.5873130501113144,Descriptiva
+basica_media,pme_log10_total_mas1,simce_4b_lect,29,-0.06282257397054045,-0.13433573236977464,-0.06451692353651325,Descriptiva
+basica_media,pme_pct_senal_revision,idps_4b_CC,28,0.009432270549081748,0.033057031947400034,0.01960907404150761,Descriptiva
+especial,matricula_total,pme_log10_total_mas1,8,,,,No reportado: n<10 o sin variación
+especial,pme_log10_total_mas1,simce_4b_lect,0,,,,No reportado: n<10 o sin variación
+especial,pme_pct_senal_revision,idps_4b_CC,0,,,,No reportado: n<10 o sin variación

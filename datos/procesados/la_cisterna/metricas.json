@@ -1,0 +1,144 @@
+{
+  "universo_anual": {
+    "2022": 60,
+    "2023": 60,
+    "2024": 59,
+    "2025": 59
+  },
+  "cambio_censo": {
+    "rbd_solo_2022_2023": [
+      9830
+    ],
+    "publicos_daem_2024": 8,
+    "publicos_slep_2025": 8
+  },
+  "pas": {
+    "procesos": 110,
+    "rbd_distintos": 39,
+    "por_archivo": {
+      "2022": 21,
+      "2023": 39,
+      "2024": 31,
+      "2025": 19
+    },
+    "multas_primera": 47,
+    "reintegros_primera": 0
+  },
+  "pme": {
+    "acciones": 767,
+    "rbd_con_fila": 46,
+    "publicos_con_fila": 8,
+    "particulares_con_fila": 38,
+    "declaradas_completas": 469,
+    "estimacion_cero": 149,
+    "estimacion_total_clp": "9009408718"
+  },
+  "agencia": {
+    "simce_filas": 236,
+    "idps_filas": 936,
+    "simce_rbd_con_puntaje_por_anio_grado": [
+      {
+        "anio": 2023,
+        "grado": "2m",
+        "simce_filas": 24,
+        "simce_rbd_con_fila": 24,
+        "simce_rbd_con_puntaje": 23,
+        "idps_filas": 96,
+        "idps_rbd_con_fila": 24,
+        "idps_rbd_con_promedio": 23,
+        "versiones_simce": "final20240418v1",
+        "versiones_idps": "final20240528v1"
+      },
+      {
+        "anio": 2023,
+        "grado": "4b",
+        "simce_filas": 33,
+        "simce_rbd_con_fila": 33,
+        "simce_rbd_con_puntaje": 32,
+        "idps_filas": 128,
+        "idps_rbd_con_fila": 32,
+        "idps_rbd_con_promedio": 32,
+        "versiones_simce": "final20240418v1",
+        "versiones_idps": "final20240528v1"
+      },
+      {
+        "anio": 2024,
+        "grado": "2m",
+        "simce_filas": 24,
+        "simce_rbd_con_fila": 24,
+        "simce_rbd_con_puntaje": 24,
+        "idps_filas": 96,
+        "idps_rbd_con_fila": 24,
+        "idps_rbd_con_promedio": 24,
+        "versiones_simce": "preliminar20240422v1",
+        "versiones_idps": "preliminar20240422v1"
+      },
+      {
+        "anio": 2024,
+        "grado": "4b",
+        "simce_filas": 33,
+        "simce_rbd_con_fila": 33,
+        "simce_rbd_con_puntaje": 32,
+        "idps_filas": 132,
+        "idps_rbd_con_fila": 33,
+        "idps_rbd_con_promedio": 32,
+        "versiones_simce": "preliminar20240422v1",
+        "versiones_idps": "final20250625v1"
+      },
+      {
+        "anio": 2024,
+        "grado": "6b",
+        "simce_filas": 33,
+        "simce_rbd_con_fila": 33,
+        "simce_rbd_con_puntaje": 32,
+        "idps_filas": 132,
+        "idps_rbd_con_fila": 33,
+        "idps_rbd_con_promedio": 32,
+        "versiones_simce": "preliminar20240422v1",
+        "versiones_idps": "preliminar20240422v1"
+      },
+      {
+        "anio": 2025,
+        "grado": "2m",
+        "simce_filas": 24,
+        "simce_rbd_con_fila": 24,
+        "simce_rbd_con_puntaje": 24,
+        "idps_filas": 96,
+        "idps_rbd_con_fila": 24,
+        "idps_rbd_con_promedio": 24,
+        "versiones_simce": "v22025",
+        "versiones_idps": "v22025"
+      },
+      {
+        "anio": 2025,
+        "grado": "4b",
+        "simce_filas": 33,
+        "simce_rbd_con_fila": 33,
+        "simce_rbd_con_puntaje": 32,
+        "idps_filas": 128,
+        "idps_rbd_con_fila": 32,
+        "idps_rbd_con_promedio": 32,
+        "versiones_simce": "v22025",
+        "versiones_idps": "v22025"
+      },
+      {
+        "anio": 2025,
+        "grado": "8b",
+        "simce_filas": 32,
+        "simce_rbd_con_fila": 32,
+        "simce_rbd_con_puntaje": 32,
+        "idps_filas": 128,
+        "idps_rbd_con_fila": 32,
+        "idps_rbd_con_promedio": 32,
+        "versiones_simce": "v12025",
+        "versiones_idps": "v12025"
+      }
+    ]
+  },
+  "chilecompra": {
+    "oc_seleccionadas": 1034,
+    "oc_rbd_unico": 637,
+    "oc_sin_rbd_unico": 397,
+    "trato_directo_seleccionadas": 149
+  }
+}

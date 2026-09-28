@@ -1,0 +1,16 @@
+fuente,campo,tipo_antes,filas,nulos_reales,texto_vacio,distintos
+directorio,matricula_total,int64,238,0,0,203
+pas,fecha_termino_aaaammdd,float64,110,21,0,76
+pas,resolucion_termino,str,110,12,0,98
+pas,resolucion_reclamacion,float64,110,88,0,23
+simce,grupo_socioeconomico_codigo,str,236,0,4,6
+idps,promedio_original,str,936,0,16,37
+idps,diferencia_original,str,936,224,57,35
+idps,significancia_original,str,936,224,57,5
+idps,grupo_socioeconomico_codigo,str,936,0,8,6
+pme,RBD,str,767,0,0,46
+pme,ESTIM_TOTAL,str,767,0,0,162
+pme,NIV_IMPLEM,str,767,0,0,6
+oc,monto_total_oc_clp,str,1034,0,13,916
+oc,monto_oc_vigente_clp,str,1034,0,21,910
+oc,rbd_asignado,str,1034,0,397,9

@@ -1,0 +1,93 @@
+[
+  {
+    "archivo": "datos/originales/directorio_2024.rar",
+    "url": "https://datosabiertos.mineduc.cl/wp-content/uploads/2024/11/Directorio-Oficial-EE-2024-.rar",
+    "bytes": 884660,
+    "sha256": "5fb467c7cf2d513660ebe2297edc7de55395b2e2ad1b3618f4cc995fb5b3923f",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/directorio_2025.rar",
+    "url": "https://datosabiertos.mineduc.cl/wp-content/uploads/2025/11/Directorio-Oficial-EE-2025.rar",
+    "bytes": 935590,
+    "sha256": "2c2debc83f313354d7bc2e08b34ca9015bf3435dc5df6056bf1d7826c23b9f6d",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/supereduc_pas_2022.zip",
+    "url": "https://www.supereduc.cl/wp-content/uploads/2026/02/PA_2022.zip",
+    "bytes": 1304502,
+    "sha256": "dd3163f6cf5ee1fd2876831002e782f049e2d907dea2d6faa6dce79256d785d5",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/supereduc_pas_2023.zip",
+    "url": "https://www.supereduc.cl/wp-content/uploads/2026/02/PA_2023.zip",
+    "bytes": 2182492,
+    "sha256": "a9ca2c17ca7ac2020dd984b7b9752676b2bada246c3c9660850ee77914722a1b",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/supereduc_pas_2024.zip",
+    "url": "https://www.supereduc.cl/wp-content/uploads/2026/02/PA_2024.zip",
+    "bytes": 2302021,
+    "sha256": "c495fea16bcca0436470569532337ce3b2ed5f0fec45380893a36b8ff90ccf80",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/supereduc_pas_2025.zip",
+    "url": "https://www.supereduc.cl/wp-content/uploads/2026/02/PA-2025.zip",
+    "bytes": 1293188,
+    "sha256": "a9505b43a8130d930a70c77d8c931bdc82f6b1f944d098d9ffcf196fe5ae3cac",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/supereduc_pas_diccionario.zip",
+    "url": "https://www.supereduc.cl/wp-content/uploads/2026/02/PA_ER.zip",
+    "bytes": 401552,
+    "sha256": "65e8cd508d7e5b230366c359c863abfbbb6f5d719bad62ba091f01ad5c89899c",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_simce_2023.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=be3f54a6-c5cb-4dc6-ba1d-4b142d3a817d%3B1.0",
+    "bytes": 2176377,
+    "sha256": "217dfbe03274f30ba396391144c11a897335a5230dc7cd3584bb6c042d33ab3b",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_simce_2024.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=077d27a6-56de-4df1-b296-71234b080271%3B1.0",
+    "bytes": 3538381,
+    "sha256": "39ae843e885fd92c483b952892c617fa1b1726d30bf6f41cc55fc2df14d02158",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_simce_2025.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=1ba2ac5c-17ff-40d7-8b9a-7c90bcef3cdf%3B1.0",
+    "bytes": 3650816,
+    "sha256": "2bf6723eb7a6334734ba9b28d96a77e22b8f35f4206a9a225ea2b330c4eb9b03",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_idps_2023.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=6e5b2b84-cce1-4bf1-8d71-ec42402be1e4%3B1.0",
+    "bytes": 14399562,
+    "sha256": "eef57425ba2a635d7d8c24c217d8975b89d40173d62ff977e299caea6c7473d3",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_idps_2024.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=e89a63fb-0e9f-442d-9434-591fa3b8b5c6%3B1.0",
+    "bytes": 31927668,
+    "sha256": "185cb754497ee734dc7ca93feeebaff1e78b4fbd77d6d97658d37bfa512a2837",
+    "fecha_revision_local": "2026-09-25"
+  },
+  {
+    "archivo": "datos/originales/agencia_idps_2025.rar",
+    "url": "https://informacionestadistica.agenciaeducacion.cl/rest/archivo/obtener?uuid=a553dd88-2a7a-4232-81ac-73fe39d3629c%3B1.0",
+    "bytes": 37010599,
+    "sha256": "4aff7902576bc6659fbaeef8dfb7b1ad5b0a6751daec09b3f4c57436d4d9a207",
+    "fecha_revision_local": "2026-09-25"
+  }
+]
